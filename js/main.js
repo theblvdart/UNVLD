@@ -14,7 +14,7 @@ function fmtDate(str) {
   return new Date(str).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 }
 
-/* ── MODAL ────────────────────────────────────────────── */
+/* ── WORK MODAL ───────────────────────────────────────── */
 function openModal(html) {
   const backdrop = document.getElementById('modal-backdrop');
   const inner = document.getElementById('modal-inner');
@@ -33,9 +33,8 @@ function closeModal() {
   document.body.style.overflow = '';
 }
 
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') { closeModal(); closeArtistPanel(); } });
 
-/* ── MODAL TEMPLATES ──────────────────────────────────── */
 function workModalHTML(w) {
   const specs = [
     ['Year', w.year], ['Medium', w.medium], ['Dimensions', w.dimensions],
@@ -60,22 +59,6 @@ function workModalHTML(w) {
   </div>`;
 }
 
-function artistModalHTML(a) {
-  return `<div class="modal">
-    <button class="modal__close" aria-label="Close">&#x2715;</button>
-    <div class="artist-modal__inner">
-      <div class="artist-modal__image">
-        ${a.image ? `<img src="${a.image}" alt="${a.name}" loading="lazy">` : '<div class="artist-modal__image-placeholder"></div>'}
-      </div>
-      <div class="artist-modal__info">
-        <p class="artist-modal__discipline">${a.discipline || ''}</p>
-        <h2 class="artist-modal__name">${a.name}</h2>
-        ${a.bio ? `<p class="artist-modal__bio">${a.bio}</p>` : ''}
-      </div>
-    </div>
-  </div>`;
-}
-
 function journalModalHTML(p) {
   return `<div class="modal">
     <button class="modal__close" aria-label="Close">&#x2715;</button>
@@ -91,6 +74,51 @@ function journalModalHTML(p) {
       <div class="journal-modal__content">${p.body || p.excerpt || ''}</div>
     </div>
   </div>`;
+}
+
+/* ── ARTIST PANEL ─────────────────────────────────────── */
+function openArtistPanel(a) {
+  const panel = document.getElementById('artist-panel');
+  const inner = document.getElementById('artist-panel-inner');
+  const closeBtn = document.getElementById('artist-panel-close');
+  if (!panel || !inner) return;
+
+  const artistWorks = (_store.works || []).filter(w => w.artist === a.name);
+  const worksSection = artistWorks.length
+    ? `<div class="artist-panel__works-grid">
+        ${artistWorks.map(w => workCard(w, _store.works.indexOf(w))).join('')}
+       </div>`
+    : `<p class="artist-panel__empty">No works currently in stock</p>`;
+
+  inner.innerHTML = `
+    <div class="artist-panel__hero">
+      <div class="artist-panel__image">
+        ${a.image
+          ? `<img src="${a.image}" alt="${a.name}" loading="lazy">`
+          : '<div class="artist-panel__image-placeholder"></div>'}
+      </div>
+      <div class="artist-panel__info">
+        <p class="artist-panel__discipline">${a.discipline || ''}</p>
+        <h2 class="artist-panel__name">${a.name}</h2>
+        ${a.bio ? `<p class="artist-panel__bio">${a.bio}</p>` : ''}
+      </div>
+    </div>
+    <div class="artist-panel__works">
+      <p class="artist-panel__works-heading">Works in stock</p>
+      ${worksSection}
+    </div>`;
+
+  panel.classList.add('open');
+  document.body.style.overflow = 'hidden';
+  panel.scrollTop = 0;
+  closeBtn.onclick = closeArtistPanel;
+}
+
+function closeArtistPanel() {
+  const panel = document.getElementById('artist-panel');
+  if (!panel) return;
+  panel.classList.remove('open');
+  document.body.style.overflow = '';
 }
 
 /* ── DATA STORE ───────────────────────────────────────── */
@@ -117,7 +145,7 @@ function workCard(w, i) {
 
 function artistCard(a, i) {
   _store.artists[i] = a;
-  return `<div class="artist-card reveal" data-type="artist" data-index="${i}">
+  return `<div class="artist-card" data-type="artist" data-index="${i}">
     <div class="artist-card__image">
       ${a.image ? `<img src="${a.image}" alt="${a.name}" loading="lazy">` : `<div class="artist-card__placeholder"><span>${a.name}</span></div>`}
     </div>
@@ -142,14 +170,14 @@ function journalCard(p, i) {
   </div>`;
 }
 
-/* ── CLICK HANDLER ────────────────────────────────────── */
+/* ── DELEGATED CLICK HANDLER ──────────────────────────── */
 document.addEventListener('click', function(e) {
   const card = e.target.closest('[data-type]');
   if (!card) return;
   const type = card.dataset.type;
   const i = parseInt(card.dataset.index, 10);
   if (type === 'work')    openModal(workModalHTML(_store.works[i]));
-  if (type === 'artist')  openModal(artistModalHTML(_store.artists[i]));
+  if (type === 'artist')  openArtistPanel(_store.artists[i]);
   if (type === 'journal') openModal(journalModalHTML(_store.journal[i]));
 });
 

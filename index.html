@@ -71,6 +71,8 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   const worksEl = document.getElementById('home-works');
   const works = (data.works || []).slice(0, 6);
+  // Populate full works store (needed for artist modal works display)
+  (data.works || []).forEach((w, i) => { _store.works[i] = w; });
   worksEl.innerHTML = works.length
     ? works.map((w, i) => workCard(w, i)).join('')
     : '<div class="empty"><p class="empty__label">No works yet</p></div>';

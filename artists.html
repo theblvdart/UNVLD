@@ -30,6 +30,10 @@ document.addEventListener('DOMContentLoaded', async () => {
   const data = await loadContent();
   const artists = data.artists || [];
   const grid = document.getElementById('artists-grid');
+
+  // Pre-populate works store so artist modal can show works
+  (data.works || []).forEach((w, i) => { _store.works[i] = w; });
+
   if (!artists.length) {
     grid.innerHTML = '<div class="empty"><p class="empty__label">No artists yet</p></div>';
     return;

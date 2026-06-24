@@ -73,6 +73,10 @@
   const modalHTML = `
 <div id="modal-backdrop" class="modal-backdrop" role="dialog" aria-modal="true">
   <div id="modal-inner"></div>
+</div>
+<div id="artist-panel" class="artist-panel" role="region" aria-label="Artist profile">
+  <button class="artist-panel__close" id="artist-panel-close">&#x2715; Close</button>
+  <div id="artist-panel-inner"></div>
 </div>`;
 
   document.write(navHTML + modalHTML);
