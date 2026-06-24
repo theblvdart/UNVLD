@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Journal — UNVLD.</title>
-  <meta name="description" content="Context makes the difference. Essays, market intelligence and cultural context on the artists, objects and ideas that matter to serious collectors.">
+  <meta name="description" content="Context makes the difference. Essays, market intelligence and cultural context.">
   <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
@@ -30,24 +30,11 @@ document.addEventListener('DOMContentLoaded', async () => {
   const data = await loadContent();
   const posts = data.journal || [];
   const grid = document.getElementById('journal-grid');
-
   if (!posts.length) {
-    grid.innerHTML = '<div class="empty"><p class="empty__label">No journal entries yet</p><p class="empty__text">Articles will appear here once added via the CMS.</p></div>';
+    grid.innerHTML = '<div class="empty"><p class="empty__label">No journal entries yet</p></div>';
     return;
   }
-
-  grid.innerHTML = posts.map(p => `
-    <div class="journal-card reveal" onclick='openModal(journalModalHTML(${JSON.stringify(p)}))'>
-      <div class="journal-card__image">
-        ${p.image ? `<img src="${p.image}" alt="${p.title}" loading="lazy">` : `<div class="journal-card__placeholder"><span>${p.title}</span></div>`}
-      </div>
-      <div class="journal-card__body">
-        <p class="journal-card__cat">${p.category}</p>
-        <p class="journal-card__title">${p.title}</p>
-        <p class="journal-card__date">${fmtDate(p.date)}</p>
-      </div>
-    </div>`).join('');
-
+  grid.innerHTML = posts.map((p, i) => journalCard(p, i)).join('');
   initReveals();
 });
 </script>

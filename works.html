@@ -35,7 +35,6 @@ document.addEventListener('DOMContentLoaded', async () => {
   const grid = document.getElementById('works-grid');
   const filtersEl = document.getElementById('filters');
 
-  // Build filter buttons from unique categories
   const cats = [...new Set(works.map(w => w.category).filter(Boolean))];
   cats.forEach(cat => {
     const btn = document.createElement('button');
@@ -51,21 +50,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       grid.innerHTML = '<div class="empty"><p class="empty__label">No works yet</p><p class="empty__text">Works will appear here once added via the CMS.</p></div>';
       return;
     }
-    grid.innerHTML = filtered.map(w => `
-      <div class="work-card reveal" onclick='openModal(workModalHTML(${JSON.stringify(w)}))'>
-        <div class="work-card__image">
-          ${w.image ? `<img src="${w.image}" alt="${w.title}" loading="lazy">` : `<div class="work-card__placeholder"><span>${w.title}</span></div>`}
-        </div>
-        <div class="work-card__meta">
-          <p class="work-card__artist">${w.artist}</p>
-          <p class="work-card__title">${w.title}</p>
-          <div class="work-card__foot">
-            <span class="work-card__year">${w.year}</span>
-            <span class="work-card__cat">${w.category}</span>
-          </div>
-        </div>
-        <div class="work-card__overlay"><span>View Work</span></div>
-      </div>`).join('');
+    grid.innerHTML = filtered.map((w, i) => workCard(w, i)).join('');
     initReveals();
   }
 

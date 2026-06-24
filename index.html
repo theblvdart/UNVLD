@@ -53,7 +53,7 @@
   </div>
 </section>
 
-<section class="section" style="border-top:1px solid var(--rule);" id="journal-section" style="display:none;">
+<section class="section" id="journal-section" style="border-top:1px solid var(--rule);display:none;">
   <div class="wrap">
     <div class="section-head">
       <h2 class="section-head__title">Journal</h2>
@@ -69,60 +69,20 @@
 document.addEventListener('DOMContentLoaded', async () => {
   const data = await loadContent();
 
-  // Works
   const worksEl = document.getElementById('home-works');
-  const works = data.works.slice(0, 6);
-  if (works.length) {
-    worksEl.innerHTML = works.map(w => `
-      <div class="work-card reveal" onclick="openModal(workModalHTML(${JSON.stringify(w).replace(/"/g,'&quot;')}))">
-        <div class="work-card__image">
-          ${w.image ? `<img src="${w.image}" alt="${w.title}" loading="lazy">` : `<div class="work-card__placeholder"><span>${w.title}</span></div>`}
-        </div>
-        <div class="work-card__meta">
-          <p class="work-card__artist">${w.artist}</p>
-          <p class="work-card__title">${w.title}</p>
-          <div class="work-card__foot">
-            <span class="work-card__year">${w.year}</span>
-            <span class="work-card__cat">${w.category}</span>
-          </div>
-        </div>
-        <div class="work-card__overlay"><span>View Work</span></div>
-      </div>`).join('');
-  } else {
-    worksEl.innerHTML = '<div class="empty"><p class="empty__label">No works yet</p></div>';
-  }
+  const works = (data.works || []).slice(0, 6);
+  worksEl.innerHTML = works.length
+    ? works.map((w, i) => workCard(w, i)).join('')
+    : '<div class="empty"><p class="empty__label">No works yet</p></div>';
 
-  // Artists
   const artistsEl = document.getElementById('home-artists');
-  const artists = data.artists.slice(0, 4);
-  if (artists.length) {
-    artistsEl.innerHTML = artists.map(a => `
-      <div class="artist-card reveal" onclick="openModal(artistModalHTML(${JSON.stringify(a).replace(/"/g,'&quot;')}))">
-        <div class="artist-card__image">
-          ${a.image ? `<img src="${a.image}" alt="${a.name}" loading="lazy">` : `<div class="artist-card__placeholder"><span>${a.name}</span></div>`}
-        </div>
-        <div class="artist-card__meta">
-          <p class="artist-card__name">${a.name}</p>
-          <p class="artist-card__discipline">${a.discipline}</p>
-        </div>
-      </div>`).join('');
-  }
+  const artists = (data.artists || []).slice(0, 4);
+  artistsEl.innerHTML = artists.map((a, i) => artistCard(a, i)).join('');
 
-  // Journal
-  const journalPosts = data.journal.slice(0, 3);
-  if (journalPosts.length) {
+  const posts = (data.journal || []).slice(0, 3);
+  if (posts.length) {
     document.getElementById('journal-section').style.display = '';
-    document.getElementById('home-journal').innerHTML = journalPosts.map(p => `
-      <div class="journal-card reveal" onclick="openModal(journalModalHTML(${JSON.stringify(p).replace(/"/g,'&quot;')}))">
-        <div class="journal-card__image">
-          ${p.image ? `<img src="${p.image}" alt="${p.title}" loading="lazy">` : `<div class="journal-card__placeholder"><span>${p.title}</span></div>`}
-        </div>
-        <div class="journal-card__body">
-          <p class="journal-card__cat">${p.category}</p>
-          <p class="journal-card__title">${p.title}</p>
-          <p class="journal-card__date">${fmtDate(p.date)}</p>
-        </div>
-      </div>`).join('');
+    document.getElementById('home-journal').innerHTML = posts.map((p, i) => journalCard(p, i)).join('');
   }
 
   initReveals();

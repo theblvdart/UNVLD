@@ -14,24 +14,15 @@ function fmtDate(str) {
   return new Date(str).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 }
 
-function img(src, alt, cls) {
-  if (src) return `<img src="${src}" alt="${alt || ''}" class="${cls || ''}" loading="lazy">`;
-  return `<div class="${cls}-placeholder"><span>${alt || 'Image'}</span></div>`;
-}
-
 /* ── NAV ──────────────────────────────────────────────── */
 const nav = document.querySelector('.nav');
 if (nav) {
   window.addEventListener('scroll', () => {
     nav.classList.toggle('scrolled', window.scrollY > 40);
   }, { passive: true });
-  // Mark active link
-  const path = window.location.pathname.replace(/\/$/, '') || '/index';
+  const path = window.location.pathname;
   nav.querySelectorAll('.nav__link').forEach(a => {
-    const href = a.getAttribute('href').replace(/\/$/, '') || '/index';
-    if (path === href || (href !== '/index' && path.startsWith(href))) {
-      a.classList.add('active');
-    }
+    if (a.getAttribute('href') === path) a.classList.add('active');
   });
 }
 
@@ -70,13 +61,13 @@ if (backdrop) {
 /* ── WORK MODAL ───────────────────────────────────────── */
 function workModalHTML(w) {
   const specs = [
-    w.year       && ['Year', w.year],
-    w.medium     && ['Medium', w.medium],
-    w.dimensions && ['Dimensions', w.dimensions],
-    w.edition    && ['Edition', w.edition],
-    w.category   && ['Category', w.category],
-    w.provenance && ['Provenance', w.provenance],
-  ].filter(Boolean);
+    ['Year', w.year],
+    ['Medium', w.medium],
+    ['Dimensions', w.dimensions],
+    ['Edition', w.edition],
+    ['Category', w.category],
+    ['Provenance', w.provenance],
+  ].filter(([, v]) => v);
 
   return `
     <div class="modal">
@@ -88,10 +79,10 @@ function workModalHTML(w) {
             : `<div class="work-modal__image-placeholder"></div>`}
         </div>
         <div class="work-modal__info">
-          <p class="work-modal__artist">${w.artist}</p>
+          <p class="work-modal__artist">${w.artist || ''}</p>
           <h2 class="work-modal__title">${w.title}</h2>
           <dl class="work-modal__specs">
-            ${specs.map(([k,v]) => `<div><dt class="spec__key">${k}</dt><dd class="spec__val">${v}</dd></div>`).join('')}
+            ${specs.map(([k, v]) => `<div><dt class="spec__key">${k}</dt><dd class="spec__val">${v}</dd></div>`).join('')}
           </dl>
           ${w.description ? `<p class="work-modal__desc">${w.description}</p>` : ''}
           <a href="/contact.html?work=${encodeURIComponent(w.title)}" class="btn btn-primary">Enquire about this work</a>
@@ -112,7 +103,7 @@ function artistModalHTML(a) {
             : `<div class="artist-modal__image-placeholder"></div>`}
         </div>
         <div class="artist-modal__info">
-          <p class="artist-modal__discipline">${a.discipline}</p>
+          <p class="artist-modal__discipline">${a.discipline || ''}</p>
           <h2 class="artist-modal__name">${a.name}</h2>
           ${a.bio ? `<p class="artist-modal__bio">${a.bio}</p>` : ''}
         </div>
@@ -131,7 +122,7 @@ function journalModalHTML(p) {
           : `<div class="journal-modal__image-placeholder"></div>`}
       </div>
       <div class="journal-modal__body">
-        <p class="journal-modal__cat">${p.category}</p>
+        <p class="journal-modal__cat">${p.category || ''}</p>
         <h2 class="journal-modal__title">${p.title}</h2>
         <div class="journal-modal__meta">
           ${p.author ? `<span>${p.author}</span>` : ''}
@@ -142,9 +133,78 @@ function journalModalHTML(p) {
     </div>`;
 }
 
+/* ── CARD BUILDER ─────────────────────────────────────── */
+// Store data objects by index so onclick doesn't rely on inline JSON
+const _store = { works: [], artists: [], journal: [] };
+
+function workCard(w, i) {
+  _store.works[i] = w;
+  return `
+    <div class="work-card reveal" data-type="work" data-index="${i}">
+      <div class="work-card__image">
+        ${w.image
+          ? `<img src="${w.image}" alt="${w.title}" loading="lazy">`
+          : `<div class="work-card__placeholder"><span>${w.title}</span></div>`}
+      </div>
+      <div class="work-card__meta">
+        <p class="work-card__artist">${w.artist || ''}</p>
+        <p class="work-card__title">${w.title}</p>
+        <div class="work-card__foot">
+          <span class="work-card__year">${w.year || ''}</span>
+          <span class="work-card__cat">${w.category || ''}</span>
+        </div>
+      </div>
+      <div class="work-card__overlay"><span>View Work</span></div>
+    </div>`;
+}
+
+function artistCard(a, i) {
+  _store.artists[i] = a;
+  return `
+    <div class="artist-card reveal" data-type="artist" data-index="${i}">
+      <div class="artist-card__image">
+        ${a.image
+          ? `<img src="${a.image}" alt="${a.name}" loading="lazy">`
+          : `<div class="artist-card__placeholder"><span>${a.name}</span></div>`}
+      </div>
+      <div class="artist-card__meta">
+        <p class="artist-card__name">${a.name}</p>
+        <p class="artist-card__discipline">${a.discipline || ''}</p>
+      </div>
+    </div>`;
+}
+
+function journalCard(p, i) {
+  _store.journal[i] = p;
+  return `
+    <div class="journal-card reveal" data-type="journal" data-index="${i}">
+      <div class="journal-card__image">
+        ${p.image
+          ? `<img src="${p.image}" alt="${p.title}" loading="lazy">`
+          : `<div class="journal-card__placeholder"><span>${p.title}</span></div>`}
+      </div>
+      <div class="journal-card__body">
+        <p class="journal-card__cat">${p.category || ''}</p>
+        <p class="journal-card__title">${p.title}</p>
+        <p class="journal-card__date">${fmtDate(p.date)}</p>
+      </div>
+    </div>`;
+}
+
+/* ── DELEGATED CLICK HANDLER ──────────────────────────── */
+document.addEventListener('click', e => {
+  const card = e.target.closest('[data-type]');
+  if (!card) return;
+  const type = card.dataset.type;
+  const i = parseInt(card.dataset.index, 10);
+  if (type === 'work')    openModal(workModalHTML(_store.works[i]));
+  if (type === 'artist')  openModal(artistModalHTML(_store.artists[i]));
+  if (type === 'journal') openModal(journalModalHTML(_store.journal[i]));
+});
+
 /* ── REVEAL ON SCROLL ─────────────────────────────────── */
 function initReveals() {
-  const els = document.querySelectorAll('.reveal');
+  const els = document.querySelectorAll('.reveal:not(.in)');
   if (!els.length) return;
   const obs = new IntersectionObserver(entries => {
     entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); obs.unobserve(e.target); } });
