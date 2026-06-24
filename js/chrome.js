@@ -1,8 +1,5 @@
-/* nav + footer + modal backdrop injected into every page */
-document.addEventListener('DOMContentLoaded', () => {
-
-  // ── NAV
-  const navEl = document.querySelector('body');
+/* Injected immediately — not waiting for DOMContentLoaded */
+(function() {
   const navHTML = `
 <nav class="nav" role="navigation">
   <div class="wrap">
@@ -78,8 +75,28 @@ document.addEventListener('DOMContentLoaded', () => {
   <div id="modal-inner"></div>
 </div>`;
 
-  // Insert nav before first child of body
-  document.body.insertAdjacentHTML('afterbegin', navHTML);
-  // Insert footer and modal before closing body
-  document.body.insertAdjacentHTML('beforeend', footerHTML + modalHTML);
-});
+  document.write(navHTML + modalHTML);
+  document.addEventListener('DOMContentLoaded', function() {
+    document.body.insertAdjacentHTML('beforeend', footerHTML);
+
+    // Nav scroll
+    const nav = document.querySelector('.nav');
+    window.addEventListener('scroll', () => {
+      nav.classList.toggle('scrolled', window.scrollY > 40);
+    }, { passive: true });
+
+    // Active link
+    const path = window.location.pathname;
+    nav.querySelectorAll('.nav__link').forEach(a => {
+      if (a.getAttribute('href') === path) a.classList.add('active');
+    });
+
+    // Mobile nav
+    const burger = document.querySelector('.nav__burger');
+    const mobileNav = document.querySelector('.mobile-nav');
+    const mobileClose = document.querySelector('.mobile-nav__close');
+    burger.addEventListener('click', () => mobileNav.classList.add('open'));
+    mobileClose.addEventListener('click', () => mobileNav.classList.remove('open'));
+    mobileNav.querySelectorAll('a').forEach(a => a.addEventListener('click', () => mobileNav.classList.remove('open')));
+  });
+})();
