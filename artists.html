@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artists — UNVLD.</title>
+  <meta name="description" content="Artists shaping culture and the market. From street art and urban contemporary to modern, abstract and blue-chip.">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<section class="page-hero">
+  <div class="wrap">
+    <p class="page-hero__label">The Programme</p>
+    <h1 class="page-hero__title">Artists shaping culture and the market.</h1>
+    <p class="page-hero__sub">From street art and urban contemporary to modern, abstract and blue-chip &mdash; every artist in our programme has been considered over time.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="artists-grid" id="artists-grid"></div>
+  </div>
+</section>
+
+<script src="/js/chrome.js"></script>
+<script src="/js/main.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', async () => {
+  const data = await loadContent();
+  const artists = data.artists || [];
+  const grid = document.getElementById('artists-grid');
+
+  if (!artists.length) {
+    grid.innerHTML = '<div class="empty"><p class="empty__label">No artists yet</p><p class="empty__text">Artists will appear here once added via the CMS.</p></div>';
+    return;
+  }
+
+  grid.innerHTML = artists.map(a => `
+    <div class="artist-card reveal" onclick='openModal(artistModalHTML(${JSON.stringify(a)}))'>
+      <div class="artist-card__image">
+        ${a.image ? `<img src="${a.image}" alt="${a.name}" loading="lazy">` : `<div class="artist-card__placeholder"><span>${a.name}</span></div>`}
+      </div>
+      <div class="artist-card__meta">
+        <p class="artist-card__name">${a.name}</p>
+        <p class="artist-card__discipline">${a.discipline}</p>
+      </div>
+    </div>`).join('');
+
+  initReveals();
+});
+</script>
+</body>
+</html>

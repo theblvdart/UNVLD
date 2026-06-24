@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enquire — UNVLD.</title>
+  <meta name="description" content="Every enquiry is handled personally. Headquartered between London and Dubai, operating globally.">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<section class="page-hero">
+  <div class="wrap">
+    <p class="page-hero__label">Get in touch</p>
+    <h1 class="page-hero__title">Every enquiry is handled personally.</h1>
+    <p class="page-hero__sub">Whether you're enquiring about a specific work, looking for sourcing support, or want to understand more about building a collection &mdash; we're here for all of it. Headquartered between London and Dubai, operating globally.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:clamp(2rem,6vw,8rem);align-items:start;">
+
+      <form class="form" id="enquiry-form" action="https://api.web3forms.com/submit" method="POST">
+        <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_KEY">
+        <input type="hidden" name="subject" value="New enquiry — UNVLD.">
+        <input type="hidden" name="redirect" value="https://unvld.com/thank-you.html">
+        <input type="checkbox" name="botcheck" style="display:none;">
+
+        <div class="form-row">
+          <div class="form-group">
+            <label class="form-label" for="first-name">First name</label>
+            <input class="form-input" type="text" id="first-name" name="first_name" required autocomplete="given-name">
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="last-name">Last name</label>
+            <input class="form-input" type="text" id="last-name" name="last_name" required autocomplete="family-name">
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="email">Email</label>
+          <input class="form-input" type="email" id="email" name="email" required autocomplete="email">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="enquiry-type">Enquiry type</label>
+          <select class="form-select" id="enquiry-type" name="enquiry_type">
+            <option value="">Select&hellip;</option>
+            <option value="specific-work">Enquire about a specific work</option>
+            <option value="sourcing">Sourcing support</option>
+            <option value="advisory">Collection advisory</option>
+            <option value="general">General enquiry</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="message">Message</label>
+          <textarea class="form-textarea" id="message" name="message" rows="5" required placeholder="Tell us what you're looking for&hellip;"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Send enquiry</button>
+      </form>
+
+      <div style="padding-top:1rem;">
+        <p style="font-family:var(--f-ui);font-size:0.62rem;letter-spacing:0.18em;text-transform:uppercase;color:var(--mid);margin-bottom:2rem;">Or reach us directly</p>
+        <div style="display:flex;flex-direction:column;gap:2rem;">
+          <div>
+            <p style="font-family:var(--f-ui);font-size:0.62rem;letter-spacing:0.16em;text-transform:uppercase;color:var(--mid);margin-bottom:0.5rem;">Email</p>
+            <a href="mailto:hello@unvld.com" style="font-weight:300;font-size:1rem;">hello@unvld.com</a>
+          </div>
+          <div>
+            <p style="font-family:var(--f-ui);font-size:0.62rem;letter-spacing:0.16em;text-transform:uppercase;color:var(--mid);margin-bottom:0.5rem;">Based</p>
+            <p style="font-weight:300;font-size:1rem;color:var(--mid);">London &amp; Dubai<br>Operating globally</p>
+          </div>
+          <div>
+            <p style="font-family:var(--f-ui);font-size:0.62rem;letter-spacing:0.16em;text-transform:uppercase;color:var(--mid);margin-bottom:0.5rem;">Instagram</p>
+            <a href="https://instagram.com" style="font-weight:300;font-size:1rem;" target="_blank" rel="noopener">@unvld</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<script src="/js/chrome.js"></script>
+<script src="/js/main.js"></script>
+<script>
+  // Pre-fill work field if coming from a work modal
+  const params = new URLSearchParams(window.location.search);
+  const work = params.get('work');
+  if (work) {
+    document.addEventListener('DOMContentLoaded', () => {
+      const msg = document.getElementById('message');
+      if (msg) msg.value = `I'd like to enquire about: ${work}`;
+      const type = document.getElementById('enquiry-type');
+      if (type) type.value = 'specific-work';
+    });
+  }
+</script>
+</body>
+</html>

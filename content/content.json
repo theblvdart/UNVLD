@@ -1,0 +1,84 @@
+{
+  "works": [
+    {
+      "id": "banksy-girl-with-balloon",
+      "title": "Girl with Balloon",
+      "artist": "Banksy",
+      "year": "2004",
+      "category": "Edition",
+      "medium": "Screen print on paper",
+      "dimensions": "50 × 70 cm",
+      "edition": "AP edition, signed",
+      "provenance": "Private collection, London",
+      "image": "",
+      "description": "One of Banksy's most iconic images, this signed AP edition represents a seminal moment in the street art market.",
+      "available": true
+    },
+    {
+      "id": "kaws-companion",
+      "title": "COMPANION (Passing Through)",
+      "artist": "KAWS",
+      "year": "2013",
+      "category": "Rare Collectible",
+      "medium": "Cast vinyl",
+      "dimensions": "28 cm",
+      "edition": "Open edition",
+      "provenance": "Purchased directly, 2013",
+      "image": "",
+      "description": "A landmark piece in KAWS's sculptural practice, the Passing Through Companion has become one of the defining objects of urban contemporary collecting.",
+      "available": true
+    },
+    {
+      "id": "basquiat-untitled",
+      "title": "Untitled (Head)",
+      "artist": "Jean-Michel Basquiat",
+      "year": "1982",
+      "category": "Original",
+      "medium": "Acrylic and oil paintstick on canvas",
+      "dimensions": "120 × 100 cm",
+      "edition": "",
+      "provenance": "Estate of the artist; Private collection",
+      "image": "",
+      "description": "A rare original from Basquiat's most celebrated period, with full provenance documentation.",
+      "available": false
+    }
+  ],
+  "artists": [
+    {
+      "id": "banksy",
+      "name": "Banksy",
+      "discipline": "Street Art",
+      "location": "Bristol, UK",
+      "image": "",
+      "bio": "Banksy is an anonymous England-based street artist, political activist, and film director whose satirical street art and subversive epigrams combine dark humour with graffiti executed in a distinctive stencilling technique."
+    },
+    {
+      "id": "kaws",
+      "name": "KAWS",
+      "discipline": "Urban Contemporary",
+      "location": "New York, USA",
+      "image": "",
+      "bio": "KAWS, born Brian Donnelly, is an American artist and designer who has created his own distinct visual language. Beginning with street art in the 1990s, his practice now spans painting, sculpture, and large-scale installations."
+    },
+    {
+      "id": "basquiat",
+      "name": "Jean-Michel Basquiat",
+      "discipline": "Neo-Expressionism",
+      "location": "New York, USA",
+      "image": "",
+      "bio": "Jean-Michel Basquiat rose to fame in 1980s New York, moving from graffiti to gallery with extraordinary speed. His work remains among the most sought-after in the blue-chip contemporary market."
+    }
+  ],
+  "journal": [
+    {
+      "id": "understanding-the-edition-market",
+      "title": "Understanding the edition market in 2024",
+      "date": "2024-11-01",
+      "category": "Market Intelligence",
+      "author": "UNVLD. Editorial",
+      "image": "",
+      "excerpt": "The edition market has undergone a significant recalibration. Here's what serious collectors need to know.",
+      "body": "<p>The edition market has always operated on its own logic — distinct from the primary market for originals, and often misunderstood by collectors approaching it for the first time.</p><p>In 2024, that logic has shifted. Supply has expanded significantly, buyer behaviour has changed, and the gap between works that hold value and those that do not has widened considerably.</p><h2>What's changed</h2><p>The past three years have seen a significant increase in edition releases across all categories. Artists who previously released once or twice a year are now releasing quarterly.</p><h2>What it means for collectors</h2><p>Selectivity matters more than ever. The works that will hold their ground are those with genuine cultural weight — artists with sustained institutional presence, editions with low print runs and strong secondary market histories.</p>"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+# Single file collection — everything writes to content.json
+collections:
+
+  - name: "works"
+    label: "Works"
+    label_singular: "Work"
+    files:
+      - name: "all-works"
+        label: "All Works"
+        file: "content/content.json"
+        fields:
+          - label: "Works"
+            name: "works"
+            widget: "list"
+            label_singular: "Work"
+            fields:
+              - { label: "ID (no spaces, e.g. banksy-girl)", name: "id", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Artist", name: "artist", widget: "string" }
+              - { label: "Year", name: "year", widget: "string" }
+              - label: "Category"
+                name: "category"
+                widget: "select"
+                options: ["Original", "Edition", "Rare Collectible", "Exclusive Release", "Street Art", "Urban Contemporary", "Modern", "Abstract", "Blue-chip"]
+              - { label: "Medium", name: "medium", widget: "string", required: false }
+              - { label: "Dimensions", name: "dimensions", widget: "string", required: false }
+              - { label: "Edition details", name: "edition", widget: "string", required: false }
+              - { label: "Provenance", name: "provenance", widget: "string", required: false }
+              - { label: "Image", name: "image", widget: "image", required: false }
+              - { label: "Description", name: "description", widget: "text", required: false }
+              - { label: "Available", name: "available", widget: "boolean", default: true }
+
+  - name: "artists"
+    label: "Artists"
+    label_singular: "Artist"
+    files:
+      - name: "all-artists"
+        label: "All Artists"
+        file: "content/content.json"
+        fields:
+          - label: "Artists"
+            name: "artists"
+            widget: "list"
+            label_singular: "Artist"
+            fields:
+              - { label: "ID (no spaces, e.g. banksy)", name: "id", widget: "string" }
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Discipline", name: "discipline", widget: "string" }
+              - { label: "Location", name: "location", widget: "string", required: false }
+              - { label: "Portrait", name: "image", widget: "image", required: false }
+              - { label: "Biography", name: "bio", widget: "text", required: false }
+
+  - name: "journal"
+    label: "Journal"
+    label_singular: "Article"
+    files:
+      - name: "all-journal"
+        label: "All Articles"
+        file: "content/content.json"
+        fields:
+          - label: "Journal"
+            name: "journal"
+            widget: "list"
+            label_singular: "Article"
+            fields:
+              - { label: "ID (no spaces, e.g. edition-market-2024)", name: "id", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Date", name: "date", widget: "date" }
+              - label: "Category"
+                name: "category"
+                widget: "select"
+                options: ["Essay", "Market Intelligence", "Artist Focus", "Collection Guide", "News"]
+              - { label: "Author", name: "author", widget: "string", required: false }
+              - { label: "Cover image", name: "image", widget: "image", required: false }
+              - { label: "Excerpt", name: "excerpt", widget: "text", required: false }
+              - { label: "Body", name: "body", widget: "markdown", required: false }

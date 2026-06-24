@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UNVLD. — Works that resist the obvious</title>
+  <meta name="description" content="UNVLD. presents singular objects from artists who are changing the conversation. Curated in partnership with THE BLVD.">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero__text">
+    <p class="hero__eyebrow">UNVLD. &mdash; The Gallery</p>
+    <h1 class="hero__headline">Works that<br>resist the<br>obvious.</h1>
+    <p class="hero__sub">UNVLD. presents singular objects from artists who are changing the conversation. Curated in partnership with THE BLVD.</p>
+    <div class="hero__actions">
+      <a href="/works.html" class="btn btn-primary">View Works</a>
+      <a href="/about.html" class="btn btn-ghost">About the gallery &rarr;</a>
+    </div>
+  </div>
+  <div class="hero__image">
+    <div class="hero__image-placeholder"><span>Featured Work</span></div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <div class="band__inner">
+      <h2 class="band__headline">Where art is<br>brought into<br><em>view.</em></h2>
+      <p class="band__body">UNVLD. is the gallery arm of THE BLVD &mdash; presenting original artworks, sold-out editions, rare collectibles and exclusive releases selected for their cultural significance and long-term appeal. Spanning street art, urban contemporary, modern, abstract and blue-chip works. Headquartered between London and Dubai.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head">
+      <h2 class="section-head__title">Selected works</h2>
+      <a href="/works.html" class="btn btn-ghost">View all &rarr;</a>
+    </div>
+    <div class="works-grid" id="home-works"></div>
+  </div>
+</section>
+
+<section class="section" style="background:var(--white);border-top:1px solid var(--rule);">
+  <div class="wrap">
+    <div class="section-head">
+      <h2 class="section-head__title">Artists</h2>
+      <a href="/artists.html" class="btn btn-ghost">All artists &rarr;</a>
+    </div>
+    <div class="artists-grid" id="home-artists"></div>
+  </div>
+</section>
+
+<section class="section" style="border-top:1px solid var(--rule);" id="journal-section" style="display:none;">
+  <div class="wrap">
+    <div class="section-head">
+      <h2 class="section-head__title">Journal</h2>
+      <a href="/journal.html" class="btn btn-ghost">All entries &rarr;</a>
+    </div>
+    <div class="journal-grid" id="home-journal"></div>
+  </div>
+</section>
+
+<script src="/js/chrome.js"></script>
+<script src="/js/main.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', async () => {
+  const data = await loadContent();
+
+  // Works
+  const worksEl = document.getElementById('home-works');
+  const works = data.works.slice(0, 6);
+  if (works.length) {
+    worksEl.innerHTML = works.map(w => `
+      <div class="work-card reveal" onclick="openModal(workModalHTML(${JSON.stringify(w).replace(/"/g,'&quot;')}))">
+        <div class="work-card__image">
+          ${w.image ? `<img src="${w.image}" alt="${w.title}" loading="lazy">` : `<div class="work-card__placeholder"><span>${w.title}</span></div>`}
+        </div>
+        <div class="work-card__meta">
+          <p class="work-card__artist">${w.artist}</p>
+          <p class="work-card__title">${w.title}</p>
+          <div class="work-card__foot">
+            <span class="work-card__year">${w.year}</span>
+            <span class="work-card__cat">${w.category}</span>
+          </div>
+        </div>
+        <div class="work-card__overlay"><span>View Work</span></div>
+      </div>`).join('');
+  } else {
+    worksEl.innerHTML = '<div class="empty"><p class="empty__label">No works yet</p></div>';
+  }
+
+  // Artists
+  const artistsEl = document.getElementById('home-artists');
+  const artists = data.artists.slice(0, 4);
+  if (artists.length) {
+    artistsEl.innerHTML = artists.map(a => `
+      <div class="artist-card reveal" onclick="openModal(artistModalHTML(${JSON.stringify(a).replace(/"/g,'&quot;')}))">
+        <div class="artist-card__image">
+          ${a.image ? `<img src="${a.image}" alt="${a.name}" loading="lazy">` : `<div class="artist-card__placeholder"><span>${a.name}</span></div>`}
+        </div>
+        <div class="artist-card__meta">
+          <p class="artist-card__name">${a.name}</p>
+          <p class="artist-card__discipline">${a.discipline}</p>
+        </div>
+      </div>`).join('');
+  }
+
+  // Journal
+  const journalPosts = data.journal.slice(0, 3);
+  if (journalPosts.length) {
+    document.getElementById('journal-section').style.display = '';
+    document.getElementById('home-journal').innerHTML = journalPosts.map(p => `
+      <div class="journal-card reveal" onclick="openModal(journalModalHTML(${JSON.stringify(p).replace(/"/g,'&quot;')}))">
+        <div class="journal-card__image">
+          ${p.image ? `<img src="${p.image}" alt="${p.title}" loading="lazy">` : `<div class="journal-card__placeholder"><span>${p.title}</span></div>`}
+        </div>
+        <div class="journal-card__body">
+          <p class="journal-card__cat">${p.category}</p>
+          <p class="journal-card__title">${p.title}</p>
+          <p class="journal-card__date">${fmtDate(p.date)}</p>
+        </div>
+      </div>`).join('');
+  }
+
+  initReveals();
+});
+</script>
+</body>
+</html>

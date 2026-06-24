@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Journal — UNVLD.</title>
+  <meta name="description" content="Context makes the difference. Essays, market intelligence and cultural context on the artists, objects and ideas that matter to serious collectors.">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<section class="page-hero">
+  <div class="wrap">
+    <p class="page-hero__label">Intelligence</p>
+    <h1 class="page-hero__title">Context makes the difference.</h1>
+    <p class="page-hero__sub">Essays, market intelligence and cultural context on the artists, objects and ideas that matter to serious collectors.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="journal-grid" id="journal-grid"></div>
+  </div>
+</section>
+
+<script src="/js/chrome.js"></script>
+<script src="/js/main.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', async () => {
+  const data = await loadContent();
+  const posts = data.journal || [];
+  const grid = document.getElementById('journal-grid');
+
+  if (!posts.length) {
+    grid.innerHTML = '<div class="empty"><p class="empty__label">No journal entries yet</p><p class="empty__text">Articles will appear here once added via the CMS.</p></div>';
+    return;
+  }
+
+  grid.innerHTML = posts.map(p => `
+    <div class="journal-card reveal" onclick='openModal(journalModalHTML(${JSON.stringify(p)}))'>
+      <div class="journal-card__image">
+        ${p.image ? `<img src="${p.image}" alt="${p.title}" loading="lazy">` : `<div class="journal-card__placeholder"><span>${p.title}</span></div>`}
+      </div>
+      <div class="journal-card__body">
+        <p class="journal-card__cat">${p.category}</p>
+        <p class="journal-card__title">${p.title}</p>
+        <p class="journal-card__date">${fmtDate(p.date)}</p>
+      </div>
+    </div>`).join('');
+
+  initReveals();
+});
+</script>
+</body>
+</html>

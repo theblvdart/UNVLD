@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Works — UNVLD.</title>
+  <meta name="description" content="Exceptional works, brought into view. Original artworks, editions, rare collectibles and exclusive releases.">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<section class="page-hero">
+  <div class="wrap">
+    <p class="page-hero__label">The Collection</p>
+    <h1 class="page-hero__title">Exceptional works, brought into view.</h1>
+    <p class="page-hero__sub">Original artworks, editions, rare collectibles and exclusive releases &mdash; selected for cultural significance, collectability and long-term appeal.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="filters" id="filters">
+      <button class="filter-btn active" data-filter="all">All</button>
+    </div>
+    <div class="works-grid" id="works-grid"></div>
+  </div>
+</section>
+
+<script src="/js/chrome.js"></script>
+<script src="/js/main.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', async () => {
+  const data = await loadContent();
+  const works = data.works || [];
+  const grid = document.getElementById('works-grid');
+  const filtersEl = document.getElementById('filters');
+
+  // Build filter buttons from unique categories
+  const cats = [...new Set(works.map(w => w.category).filter(Boolean))];
+  cats.forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.dataset.filter = cat;
+    btn.textContent = cat;
+    filtersEl.appendChild(btn);
+  });
+
+  function renderWorks(filter) {
+    const filtered = filter === 'all' ? works : works.filter(w => w.category === filter);
+    if (!filtered.length) {
+      grid.innerHTML = '<div class="empty"><p class="empty__label">No works yet</p><p class="empty__text">Works will appear here once added via the CMS.</p></div>';
+      return;
+    }
+    grid.innerHTML = filtered.map(w => `
+      <div class="work-card reveal" onclick='openModal(workModalHTML(${JSON.stringify(w)}))'>
+        <div class="work-card__image">
+          ${w.image ? `<img src="${w.image}" alt="${w.title}" loading="lazy">` : `<div class="work-card__placeholder"><span>${w.title}</span></div>`}
+        </div>
+        <div class="work-card__meta">
+          <p class="work-card__artist">${w.artist}</p>
+          <p class="work-card__title">${w.title}</p>
+          <div class="work-card__foot">
+            <span class="work-card__year">${w.year}</span>
+            <span class="work-card__cat">${w.category}</span>
+          </div>
+        </div>
+        <div class="work-card__overlay"><span>View Work</span></div>
+      </div>`).join('');
+    initReveals();
+  }
+
+  filtersEl.addEventListener('click', e => {
+    if (!e.target.matches('.filter-btn')) return;
+    filtersEl.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    renderWorks(e.target.dataset.filter);
+  });
+
+  renderWorks('all');
+});
+</script>
+</body>
+</html>
