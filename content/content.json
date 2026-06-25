@@ -217,6 +217,22 @@
       "image": "/images/jason_revok.jpg",
       "bio": "Jason Revok (b. 1977, Riverside, California) is a self-taught artist whose practice began in the Los Angeles graffiti scene of the 1990s, where he built a reputation as one of the most prolific writers of his generation before pivoting to an ambitious studio practice driven by minimalism and post-painterly abstraction. Refusing to be limited by his early recognition, Revok allows only certain elements from graffiti culture to transition to his contemporary work (modest materials, industrial tools, ingenuity) while his proclivity towards systematic yet imperfect mark-making has become the driving force behind his practice. In 2011 he relocated to Detroit, where he founded the Detroit Beautification Project, and in 2022 his solo exhibition was mounted at the Museum of Contemporary Art Detroit (MOCAD).",
       "location": "California, USA"
+    },
+    {
+      "id": "dran",
+      "name": "Dran",
+      "bio": "Dran (b. 1979, Toulouse) is a French artist frequently referred to as \"the French Banksy\" for his satirical and sharp critique of contemporary society. As a child he copied images from comics; by 13 he was painting on walls, before going on to study at the École des Beaux-Arts in Toulouse. His work unpacks themes of creativity and freedom of expression through surrealistic characters (many of them children carrying crayons) alongside popes, riot police, clowns, and pop culture icons such as Pinocchio, Tintin, and the Mona Lisa. A member of the Da Mental Vaporz crew (DMV) since 1999, Dran works across graffiti, illustration, stencil, painting, silkscreen, and photography. He chooses to stay out of the media spotlight entirely, letting the work speak for itself, a quality that has only deepened his cult following among collectors.",
+      "discipline": "Urban Contemporary / Illustration",
+      "location": "France",
+      "image": "/images/dran.jpg"
+    },
+    {
+      "id": "hush",
+      "name": "Hush",
+      "bio": "Hush (b. 1973, Newcastle upon Tyne) is a British artist who developed an early affinity for visual culture amid the Acid House scene, designing flyers before pursuing formal training at the Newcastle School of Art and Design, graduating in 1995 with a degree in graphic design and illustration. His career pivoted decisively around 2006 when he committed fully to painting, departing from graphic design roles at advertising agencies in London and Hong Kong. Extensive time living in Asia (first Hong Kong, then Japan, where he worked as a toy designer) immersed him in Japanese visual culture and sparked a fascination with the representation of women and the collision of Eastern and Western aesthetics. In his signature works, Hush superimposes layers of vibrant wheatpaste patterns and graffiti onto delicate stencilled portraits of women, fusing the iconography of the geisha with the raw energy of street art. Has been named one of the top 20 emerging artists by The Independent.",
+      "discipline": "Urban Contemporary / Mixed Media",
+      "image": "/images/hush.jpg",
+      "location": "Newcastle, UK"
     }
   ],
   "journal": [
