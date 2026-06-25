@@ -19,11 +19,25 @@
   ],
   "artists": [
     {
-      "id": "invader",
-      "name": "Invader",
-      "bio": "Invader (b. 1969, Paris) is an anonymous French street artist and graduate of a Parisian École des Beaux-Arts, who describes himself as an Unidentified Free Artist (UFA) — his identity perpetually hidden behind masks and digital pixelations. Beginning in the late 1990s, he started cementing ceramic tile mosaics of pixelated characters from the 1978 Space Invaders arcade game across the streets of Paris, before expanding his roster to include Pac-Man ghosts and other 8-bit characters, works that now adorn cities around the world, from Los Angeles to Kathmandu. As of 2020, his creations can be found in 79 cities across 20 countries, comprising over 3,800 individual works and more than 1.5 million ceramic tiles. Beyond public space, he has developed \"Rubikcubism\" (a series of indoor works constructed entirely from Rubik's Cubes) and his gallery works regularly command six-figure sums.",
-      "image": "/images/invader.jpg",
-      "discipline": "Mosaic Art"
+      "id": "yoon-hyup",
+      "name": "Yoon Hyup",
+      "discipline": "Urban Contemporary",
+      "image": "/images/yoon_hyup.jpg",
+      "bio": "Born in Seoul, South Korea in 1982, Yoon Hyup lives and works in Brooklyn, New York. Drawn to hip-hop and skate culture from an early age, he began creating large-scale murals and live paintings in the early 2000s, experimenting with lines and dots as a way of reflecting the rhythm and flow of music. Working with acrylic on canvas, he translates cityscapes, rain, and light into compositions of flat orbs and rhythmic marks, comparing his process to jazz improvisation, where each colour represents a different note and together they build a chord. Hyup has exhibited in New York, London, Seoul, Milan, Tokyo, Miami, and Hong Kong, and has collaborated with Dior, Tiffany & Co., Nike, and Maison Kitsuné, among others"
+    },
+    {
+      "bio": "Damien Hirst (b. 1965, Bristol) has created installations, sculptures, paintings, and drawings since the late 1980s that examine the complex relationships between art and beauty, religion and science, and life and death. Considered an enfant terrible of the 1990s art world, he was the most prominent of the Young British Artists - a group that first gained notoriety when Charles Saatchi began buying and exhibiting their work, and in 1988 curated the landmark student show Freeze at Goldsmiths College, widely considered the debut of the YBA movement. His mixed-media sculptures draw from a controversial assortment of formaldehyde-suspended carcasses, cigarette butts, pharmaceutical packaging, and surgical instruments, often encased in glass vitrines. He won the Turner Prize in 1995, and in 2008 set the record for the largest sum raised by a living artist at a single auction, with £111 million at Sotheby's. In 2015 he opened Newport Street Gallery in London, and his work is held by Tate, the Hirshhorn, and major collections worldwide.",
+      "image": "/images/damien_hirst.jpg",
+      "discipline": "Contemporary Art / Conceptual Art",
+      "name": "Damien Hirst",
+      "id": "damien-hirst"
+    },
+    {
+      "id": "david-shrigley",
+      "name": "David Shrigley",
+      "discipline": "Illustration / Print",
+      "image": "/images/david_shrigley.jpg",
+      "bio": "David Shrigley OBE (b. 1968, Macclesfield) is a British artist best known for his distinctive drawing style and satirical commentary on everyday situations and human interactions. His quick-witted drawings and hand-rendered texts are typically deadpan in their humour, capturing chance utterings, overheard conversations, and the compulsive habits of everyday life. While drawing is at the centre of his practice, Shrigley also works across sculpture, large-scale installation, animation, painting, photography, and music; most notably his monumental sculpture Really Good, unveiled on the Fourth Plinth in Trafalgar Square in 2016. His works are held in the collections of MoMA New York, the Art Institute of Chicago, the Centre Pompidou, the Tate, and the Thyssen-Bornemisza Contemporary Art Foundation, and he was shortlisted for the Turner Prize in 2013."
     },
     {
       "id": "shepard-fairey",
@@ -40,11 +54,11 @@
       "bio": "Paul Kremer (b. 1971, Chicago) is a contemporary American artist known for his reinterpretation of colour field painting, using overlapping hard-edged shapes to produce optical interactions rooted as much in digital software as in the work of Kenneth Noland and Jules Olitski. Self-taught as a painter, his uninflected surfaces and smooth contours have led critics to identify him as an heir to Ellsworth Kelly, with his compositions evoking both monumental architecture and broken-off glacier sections. For twenty years Kremer ran a graphic design studio, working with clients including Lou Reed, Tom Waits, and National Geographic, and he is also the inventor of the cult social media phenomenon \"Great Art in Ugly Rooms,\" which places photo-realistic renderings of masterworks in laundromats, discount stores, and public restrooms. "
     },
     {
-      "id": "yoon-hyup",
-      "name": "Yoon Hyup",
-      "discipline": "Urban Contemporary",
-      "image": "/images/yoon_hyup.jpg",
-      "bio": "Born in Seoul, South Korea in 1982, Yoon Hyup lives and works in Brooklyn, New York. Drawn to hip-hop and skate culture from an early age, he began creating large-scale murals and live paintings in the early 2000s, experimenting with lines and dots as a way of reflecting the rhythm and flow of music. Working with acrylic on canvas, he translates cityscapes, rain, and light into compositions of flat orbs and rhythmic marks, comparing his process to jazz improvisation, where each colour represents a different note and together they build a chord. Hyup has exhibited in New York, London, Seoul, Milan, Tokyo, Miami, and Hong Kong, and has collaborated with Dior, Tiffany & Co., Nike, and Maison Kitsuné, among others"
+      "id": "invader",
+      "name": "Invader",
+      "bio": "Invader (b. 1969, Paris) is an anonymous French street artist and graduate of a Parisian École des Beaux-Arts, who describes himself as an Unidentified Free Artist (UFA) — his identity perpetually hidden behind masks and digital pixelations. Beginning in the late 1990s, he started cementing ceramic tile mosaics of pixelated characters from the 1978 Space Invaders arcade game across the streets of Paris, before expanding his roster to include Pac-Man ghosts and other 8-bit characters, works that now adorn cities around the world, from Los Angeles to Kathmandu. As of 2020, his creations can be found in 79 cities across 20 countries, comprising over 3,800 individual works and more than 1.5 million ceramic tiles. Beyond public space, he has developed \"Rubikcubism\" (a series of indoor works constructed entirely from Rubik's Cubes) and his gallery works regularly command six-figure sums.",
+      "image": "/images/invader.jpg",
+      "discipline": "Mosaic Art"
     },
     {
       "id": "the-miaz-brothers",
@@ -61,11 +75,11 @@
       "bio": "Ben Eine (born Ben Flynn, b. 1970, London) is a British street artist who began his career as a graffiti writer, tagging the streets of his home city before developing the distinctive typographic style he is known for today. He later co-founded the cult screen print company Pictures on Walls (POW) with Banksy, producing hand-pulled prints for artists including Jamie Hewlett, David Shrigley, and Mode 2. He is regarded as a forerunner in the exploration of typography in contemporary street art, best known for his oversized, brightly coloured letterforms on shop shutters - most famously the full alphabet he painted onto Middlesex Street in East London, known internationally as Alphabet Street. In 2010, British Prime Minister David Cameron gifted one of Eine's paintings, Twenty First Century City, to President Barack Obama during a state visit — catapulting Eine to international fame and selling out his subsequent San Francisco solo show before it opened. His work is held in the collection of the Victoria and Albert Museum."
     },
     {
-      "id": "david-shrigley",
-      "name": "David Shrigley",
-      "discipline": "Illustration / Print",
-      "image": "/images/david_shrigley.jpg",
-      "bio": "David Shrigley OBE (b. 1968, Macclesfield) is a British artist best known for his distinctive drawing style and satirical commentary on everyday situations and human interactions. His quick-witted drawings and hand-rendered texts are typically deadpan in their humour, capturing chance utterings, overheard conversations, and the compulsive habits of everyday life. While drawing is at the centre of his practice, Shrigley also works across sculpture, large-scale installation, animation, painting, photography, and music; most notably his monumental sculpture Really Good, unveiled on the Fourth Plinth in Trafalgar Square in 2016. His works are held in the collections of MoMA New York, the Art Institute of Chicago, the Centre Pompidou, the Tate, and the Thyssen-Bornemisza Contemporary Art Foundation, and he was shortlisted for the Turner Prize in 2013."
+      "id": "marina-abramović",
+      "bio": "Marina Abramović (b. 1946, Belgrade) has pioneered the use of performance as a visual art form since the early 1970s, making her body both subject and medium - exploring physical and mental limits, endurance, pain, and the possibility of spiritual transformation. She studied at the Academy of Fine Arts in Belgrade and completed postgraduate studies in Zagreb, before conceiving a series of visceral performance pieces that used her body as a site of artistic and spiritual exploration. From 1975 to 1988 she collaborated with the German artist Ulay on works exploring duality and gender identity, ending their partnership in a symbolic performance in which each walked the Great Wall of China from opposite ends to meet in the middle. In 2023 she became the first female artist to host a major solo exhibition in the Main Galleries of the Royal Academy of Arts in London. She has referred to herself as \"the grandmother of performance art\",",
+      "discipline": "Conceptual Art / Performance Art",
+      "name": "Marina Abramović",
+      "image": "/images/marina_abromovich.jpg"
     },
     {
       "id": "oli-epp",
@@ -101,20 +115,6 @@
       "discipline": "Urban Contemporary / Illustration",
       "bio": "Dran (b. 1979, Toulouse) is a French artist frequently referred to as \"the French Banksy\" for his satirical and sharp critique of contemporary society. As a child he copied images from comics; by 13 he was painting on walls, before going on to study at the École des Beaux-Arts in Toulouse. His work unpacks themes of creativity and freedom of expression through surrealistic characters (many of them children carrying crayons) alongside popes, riot police, clowns, and pop culture icons such as Pinocchio, Tintin, and the Mona Lisa. A member of the Da Mental Vaporz crew (DMV) since 1999, Dran works across graffiti, illustration, stencil, painting, silkscreen, and photography. He chooses to stay out of the media spotlight entirely, letting the work speak for itself. A quality that has only deepened his cult following among collectors.",
       "image": "/images/dran.jpg"
-    },
-    {
-      "bio": "Damien Hirst (b. 1965, Bristol) has created installations, sculptures, paintings, and drawings since the late 1980s that examine the complex relationships between art and beauty, religion and science, and life and death. Considered an enfant terrible of the 1990s art world, he was the most prominent of the Young British Artists - a group that first gained notoriety when Charles Saatchi began buying and exhibiting their work, and in 1988 curated the landmark student show Freeze at Goldsmiths College, widely considered the debut of the YBA movement. His mixed-media sculptures draw from a controversial assortment of formaldehyde-suspended carcasses, cigarette butts, pharmaceutical packaging, and surgical instruments, often encased in glass vitrines. He won the Turner Prize in 1995, and in 2008 set the record for the largest sum raised by a living artist at a single auction, with £111 million at Sotheby's. In 2015 he opened Newport Street Gallery in London, and his work is held by Tate, the Hirshhorn, and major collections worldwide.",
-      "image": "/images/damien_hirst.jpg",
-      "discipline": "Contemporary Art / Conceptual Art",
-      "name": "Damien Hirst",
-      "id": "damien-hirst"
-    },
-    {
-      "id": "marina-abramović",
-      "bio": "Marina Abramović (b. 1946, Belgrade) has pioneered the use of performance as a visual art form since the early 1970s, making her body both subject and medium - exploring physical and mental limits, endurance, pain, and the possibility of spiritual transformation. She studied at the Academy of Fine Arts in Belgrade and completed postgraduate studies in Zagreb, before conceiving a series of visceral performance pieces that used her body as a site of artistic and spiritual exploration. From 1975 to 1988 she collaborated with the German artist Ulay on works exploring duality and gender identity, ending their partnership in a symbolic performance in which each walked the Great Wall of China from opposite ends to meet in the middle. In 2023 she became the first female artist to host a major solo exhibition in the Main Galleries of the Royal Academy of Arts in London. She has referred to herself as \"the grandmother of performance art\",",
-      "discipline": "Conceptual Art / Performance Art",
-      "name": "Marina Abramović",
-      "image": "/images/marina_abromovich.jpg"
     },
     {
       "id": "faile",
