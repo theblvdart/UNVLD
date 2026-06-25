@@ -320,6 +320,22 @@
       "bio": "Pure Evil is the alias of Charles Uzzell-Edwards (b. 1968, South Wales), the son of Welsh painter John Uzzell Edwards. After studying fashion and graphics in London, he left for California in 1990, where he designed for the influential streetwear label Anarchic Adjustment, became involved in the San Francisco electronic music scene, and was first exposed to West Coast graffiti, before returning to London with a spray can and a new identity. There he became involved in Banksy's pop-up Santa's Ghetto concept and began producing prints for Pictures on Walls, while his now-iconic images of fanged vampire bunnies appeared on streets worldwide. He is best known for his Nightmare Series; Warhol-esque portraits of famous figures depicted with a distinctive teardrop of dark paint beneath one eye, exploring lost innocence and the darker side of celebrity culture.",
       "location": "London, UK",
       "image": "/images/pure_evil.jpg"
+    },
+    {
+      "bio": "Robert Del Naja (b. 1965, Bristol), known as 3D, emerged as a graffiti artist in the Bristol collective The Wild Bunch in the 1980s. One of the first British artists to make stencil graffiti a language, with his work appearing in Henry Chalfant's seminal Spraycan Art (1987) as one of the few UK artists featured. He went on to co-found Massive Attack, whose 1991 debut Blue Lines is widely credited with defining trip hop, and received the Ivor Novello Award for Outstanding Contribution to British Music in 2009. His visual art is inseparable from Massive Attack's identity, designing album covers, tour visuals, and immersive live shows combining film, LED installation, and political content, while his standalone War Paint series, exhibited at Lazarides Gallery, addressed global conflict and power. He has long been the subject of speculation that he is Banksy, which he has denied.",
+      "image": "/images/robert_del_naja_3d.jpg",
+      "location": "Bristol, UK",
+      "id": "robert-del-naja-3d",
+      "name": "Robert Del Naja / 3D",
+      "discipline": "Urban / Conceptual Art"
+    },
+    {
+      "id": "piet parra",
+      "name": "Piet Parra",
+      "bio": "Parra (born Pieter Janssen, 1976, Amsterdam) came up through skateboarding before transitioning into art direction for the Dutch skateboard brand Colorblind, where he designed logos, board graphics, and flyers for parties and music venues — the hand-drawn style he developed there becoming the foundation of everything that followed. His fine art practice features flat, saturated planes of bold colour and faceless female characters in abstracted domestic scenes, drawing comparisons to Tom Wesselmann and Matisse, alongside his earlier signature beaked, bird-like figures. His \"Post Pop\" aesthetic draws on Pop Art and the experimental graphics of the 1960s, and extends across painting, sculpture, illustration, and his clothing line ByParra. His work has been acquired by the San Francisco Museum of Modern Art and exhibited in New York, Los Angeles, Berlin, Hong Kong, London, and Amsterdam.",
+      "location": "Amsterdam, The Netherlands",
+      "discipline": "Urban Contemporary",
+      "image": "/images/piet_parra.jpg"
     }
   ],
   "journal": [
