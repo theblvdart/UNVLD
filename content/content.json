@@ -336,6 +336,28 @@
       "bio": "Pure Evil is the alias of Charles Uzzell-Edwards (b. 1968, South Wales), the son of Welsh painter John Uzzell Edwards. After studying fashion and graphics in London, he left for California in 1990, where he designed for the influential streetwear label Anarchic Adjustment, became involved in the San Francisco electronic music scene, and was first exposed to West Coast graffiti, before returning to London with a spray can and a new identity. There he became involved in Banksy's pop-up Santa's Ghetto concept and began producing prints for Pictures on Walls, while his now-iconic images of fanged vampire bunnies appeared on streets worldwide. He is best known for his Nightmare Series; Warhol-esque portraits of famous figures depicted with a distinctive teardrop of dark paint beneath one eye, exploring lost innocence and the darker side of celebrity culture.",
       "location": "London, UK",
       "image": "/images/pure_evil.jpg"
+    },
+    {
+      "id": "stik",
+      "name": "Stik",
+      "discipline": "Urban Contemporary",
+      "location": "London, UK",
+      "image": "/images/stik.jpg",
+      "bio": "Stik (b. 1979, London) is a self-taught British street artist who spent several years living in homeless shelters before beginning to paint unofficial murals on the streets of Hackney in 2001. His signature figures, composed of just six lines and two dots, draw subtle influence from Japanese kanji characters, achieving a neutrality that allows them to carry enormous emotional weight. Each work is conceived as a donation to the community, addressing homelessness, LGBTQ+ rights, and social housing; Stik only authorises primary market sales on the condition that all proceeds go to charity. He has collaborated with Amnesty International, recreated Old Master paintings for Dulwich Picture Gallery, and in 2022 a work sold at Bonhams for £247,000."
+    },
+    {
+      "id": "ralph-steadman",
+      "name": "Ralph Steadman",
+      "discipline": "Illustration / Print",
+      "image": "/images/ralph_steadman.jpg",
+      "bio": "Ralph Steadman (b. 1936, Wallasey) is a Welsh illustrator and cartoonist who trained at East Ham Technical College and the London College of Printing, doing freelance work for Punch, Private Eye, The Daily Telegraph, and Rolling Stone. Inspired by George Grosz and John Heartfield, he developed a distinctive style defined by energetic ink splatters and grotesque, flamboyant figures; a visual language inseparable from his 40-year collaboration with Hunter S. Thompson, which produced the defining images of Fear and Loathing in Las Vegas and helped birth gonzo journalism. After regretting the sale of his Fear and Loathing originals for $75, Steadman largely refused to sell original artwork, declaring \"if anyone owns a Steadman original, it's stolen.\" He has also illustrated Alice in Wonderland, Animal Farm, and Treasure Island, and created the Breaking Bad DVD box set artwork"
+    },
+    {
+      "id": "james-joyce",
+      "name": "James Joyce",
+      "discipline": "Urban Contemporary / Graphic",
+      "bio": "James Joyce was born in Wolverhampton and studied at Walsall College of Art and Kingston University. Working across painting, screen printing, and drawing, he has developed a striking visual language built on typographic forms and everyday symbols; dismantling and reconfiguring familiar imagery to create something that is simultaneously recognisable and fundamentally altered. His rotating video installation Perseverance in the Face of Absurdity was a central piece in Banksy's landmark 2015 exhibition Dismaland, chosen by Banksy as the signature image for the event. His commercial clients include Apple, Nike, The Guardian, and the New York Times, and his work has been exhibited at the Royal Academy of Arts and Saatchi Gallery. ",
+      "image": "/images/james_joyce.jpg"
     }
   ],
   "journal": [
