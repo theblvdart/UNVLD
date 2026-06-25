@@ -94,6 +94,41 @@
       "discipline": "Typographic Art",
       "name": "Gary Stranger",
       "id": "gary-stranger"
+    },
+    {
+      "id": "dran",
+      "name": "DRAN",
+      "discipline": "Urban Contemporary / Illustration",
+      "bio": "Dran (b. 1979, Toulouse) is a French artist frequently referred to as \"the French Banksy\" for his satirical and sharp critique of contemporary society. As a child he copied images from comics; by 13 he was painting on walls, before going on to study at the École des Beaux-Arts in Toulouse. His work unpacks themes of creativity and freedom of expression through surrealistic characters (many of them children carrying crayons) alongside popes, riot police, clowns, and pop culture icons such as Pinocchio, Tintin, and the Mona Lisa. A member of the Da Mental Vaporz crew (DMV) since 1999, Dran works across graffiti, illustration, stencil, painting, silkscreen, and photography. He chooses to stay out of the media spotlight entirely, letting the work speak for itself. A quality that has only deepened his cult following among collectors.",
+      "image": "/images/dran.jpg"
+    },
+    {
+      "bio": "Damien Hirst (b. 1965, Bristol) has created installations, sculptures, paintings, and drawings since the late 1980s that examine the complex relationships between art and beauty, religion and science, and life and death. Considered an enfant terrible of the 1990s art world, he was the most prominent of the Young British Artists - a group that first gained notoriety when Charles Saatchi began buying and exhibiting their work, and in 1988 curated the landmark student show Freeze at Goldsmiths College, widely considered the debut of the YBA movement. His mixed-media sculptures draw from a controversial assortment of formaldehyde-suspended carcasses, cigarette butts, pharmaceutical packaging, and surgical instruments, often encased in glass vitrines. He won the Turner Prize in 1995, and in 2008 set the record for the largest sum raised by a living artist at a single auction, with £111 million at Sotheby's. In 2015 he opened Newport Street Gallery in London, and his work is held by Tate, the Hirshhorn, and major collections worldwide.",
+      "image": "/images/damien_hirst.jpg",
+      "discipline": "Contemporary Art / Conceptual Art",
+      "name": "Damien Hirst",
+      "id": "damien-hirst"
+    },
+    {
+      "id": "marina-abramović",
+      "bio": "Marina Abramović (b. 1946, Belgrade) has pioneered the use of performance as a visual art form since the early 1970s, making her body both subject and medium - exploring physical and mental limits, endurance, pain, and the possibility of spiritual transformation. She studied at the Academy of Fine Arts in Belgrade and completed postgraduate studies in Zagreb, before conceiving a series of visceral performance pieces that used her body as a site of artistic and spiritual exploration. From 1975 to 1988 she collaborated with the German artist Ulay on works exploring duality and gender identity, ending their partnership in a symbolic performance in which each walked the Great Wall of China from opposite ends to meet in the middle. In 2023 she became the first female artist to host a major solo exhibition in the Main Galleries of the Royal Academy of Arts in London. She has referred to herself as \"the grandmother of performance art\",",
+      "discipline": "Conceptual Art / Performance Art",
+      "name": "Marina Abramović",
+      "image": "/images/marina_abromovich.jpg"
+    },
+    {
+      "id": "faile",
+      "name": "Faile",
+      "discipline": "Urban Contemporary / Pop Art",
+      "image": "/images/faile.jpg",
+      "bio": "FAILE is the Brooklyn-based multimedia collaboration of Patrick McNeil (b. 1975, Edmonton) and Patrick Miller (b. 1976, Minneapolis), formed in 1999. Their name is an anagram of their original pseudonym \"A Life,\" reflecting a philosophy of transformation and the belief that failure is a necessary step toward more enlightened art and life. Their practice involves a frenetic collaging of appropriated materials (graphic novels, Asian and American culture, typography) that references the work of Pop artists like Richard Hamilton and Roy Lichtenstein, deployed initially through pioneering wheatpasting and stenciling on city streets worldwide before expanding into paintings, prints, and sculpture. An important show at Tate Modern in 2008 marked their transition into the institutional art world, and in 2015 they were commissioned for a major installation in Times Square, New York."
+    },
+    {
+      "id": "hush",
+      "name": "Hush",
+      "discipline": "Urban Contemporary / Mixed Media",
+      "bio": "Hush (b. 1973, Newcastle upon Tyne) is a British artist who developed an early affinity for visual culture amid the Acid House scene, designing flyers before pursuing formal training at the Newcastle School of Art and Design, graduating in 1995 with a degree in graphic design and illustration. His career pivoted decisively around 2006 when he committed fully to painting, departing from graphic design roles at advertising agencies in London and Hong Kong. Extensive time living in Asia (first Hong Kong, then Japan, where he worked as a toy designer) immersed him in Japanese visual culture and sparked a fascination with the representation of women and the collision of Eastern and Western aesthetics. In his signature works, Hush superimposes layers of vibrant wheatpaste patterns and graffiti onto delicate stencilled portraits of women, fusing the iconography of the geisha with the raw energy of street art. He lives and works in Newcastle and has been named one of the top 20 emerging artists by The Independent.",
+      "image": "/images/hush.jpg"
     }
   ],
   "journal": [
