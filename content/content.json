@@ -31,6 +31,69 @@
       "bio": "Shepard Fairey (b. 1970, Charleston, South Carolina) is an American graphic artist and social activist at the forefront of the street art movement, whose work blurs the boundary between traditional and commercial art through type and image, communicating social critique via prints, murals, stickers, and posters in public spaces. He graduated from the Rhode Island School of Design in 1992, and in 1989 launched the André the Giant Has a Posse sticker campaign — the foundation for his seminal Obey series. He is perhaps best known for the Obama Hope poster of 2008, widely considered the most successful presidential campaign poster ever created, and his works are held in the permanent collections of MoMA, the Smithsonian's National Portrait Gallery, the Victoria and Albert Museum, and LACMA.",
       "image": "/images/shepard_fairey.jpg",
       "discipline": "Urban Contemporary"
+    },
+    {
+      "id": "paul-kremer",
+      "name": "Paul Kremer",
+      "discipline": "Abstract Art",
+      "image": "/images/paul_kremer.jpg",
+      "bio": "Paul Kremer (b. 1971, Chicago) is a contemporary American artist known for his reinterpretation of colour field painting, using overlapping hard-edged shapes to produce optical interactions rooted as much in digital software as in the work of Kenneth Noland and Jules Olitski. Self-taught as a painter, his uninflected surfaces and smooth contours have led critics to identify him as an heir to Ellsworth Kelly, with his compositions evoking both monumental architecture and broken-off glacier sections. For twenty years Kremer ran a graphic design studio, working with clients including Lou Reed, Tom Waits, and National Geographic, and he is also the inventor of the cult social media phenomenon \"Great Art in Ugly Rooms,\" which places photo-realistic renderings of masterworks in laundromats, discount stores, and public restrooms. "
+    },
+    {
+      "id": "yoon-hyup",
+      "name": "Yoon Hyup",
+      "discipline": "Urban Contemporary",
+      "image": "/images/yoon_hyup.jpg",
+      "bio": "Born in Seoul, South Korea in 1982, Yoon Hyup lives and works in Brooklyn, New York. Drawn to hip-hop and skate culture from an early age, he began creating large-scale murals and live paintings in the early 2000s, experimenting with lines and dots as a way of reflecting the rhythm and flow of music. Working with acrylic on canvas, he translates cityscapes, rain, and light into compositions of flat orbs and rhythmic marks, comparing his process to jazz improvisation, where each colour represents a different note and together they build a chord. Hyup has exhibited in New York, London, Seoul, Milan, Tokyo, Miami, and Hong Kong, and has collaborated with Dior, Tiffany & Co., Nike, and Maison Kitsuné, among others"
+    },
+    {
+      "id": "the-miaz-brothers",
+      "name": "The Miaz Brothers",
+      "image": "/images/the_miaz-_brothers.jpg",
+      "bio": "Roberto and Renato Miaz (b. 1965 & 1968, Monza, Italy) are an Italian sibling duo who have redefined contemporary portraiture through their \"Antimatter\" series; large-format works rendered in aerosol paint, in which subjects are presented deliberately out of focus, bypassing immediate reaction and inviting viewers to draw on their own memory and perception to complete the image. Classically trained and guided by the model of Renaissance artists, they first exhibited at the Viafarini Gallery in Milan in 1996, before being awarded the Arte Laguna International Art Prize in Venice in 2011 and launching the Antimatter series in 2012. They have collaborated with major brands including Adidas, Nike, Diesel, and Kenzo, and designed the cover of the New York Times Magazine in 2017.",
+      "discipline": "Contemporary Figurative"
+    },
+    {
+      "id": "ben-eine",
+      "name": "Ben Eine",
+      "discipline": "Typographic Art",
+      "image": "/images/ben_eine.jpg",
+      "bio": "Ben Eine (born Ben Flynn, b. 1970, London) is a British street artist who began his career as a graffiti writer, tagging the streets of his home city before developing the distinctive typographic style he is known for today. He later co-founded the cult screen print company Pictures on Walls (POW) with Banksy, producing hand-pulled prints for artists including Jamie Hewlett, David Shrigley, and Mode 2. He is regarded as a forerunner in the exploration of typography in contemporary street art, best known for his oversized, brightly coloured letterforms on shop shutters - most famously the full alphabet he painted onto Middlesex Street in East London, known internationally as Alphabet Street. In 2010, British Prime Minister David Cameron gifted one of Eine's paintings, Twenty First Century City, to President Barack Obama during a state visit — catapulting Eine to international fame and selling out his subsequent San Francisco solo show before it opened. His work is held in the collection of the Victoria and Albert Museum."
+    },
+    {
+      "id": "david-shrigley",
+      "name": "David Shrigley",
+      "discipline": "Illustration / Print",
+      "image": "/images/david_shrigley.jpg",
+      "bio": "David Shrigley OBE (b. 1968, Macclesfield) is a British artist best known for his distinctive drawing style and satirical commentary on everyday situations and human interactions. His quick-witted drawings and hand-rendered texts are typically deadpan in their humour, capturing chance utterings, overheard conversations, and the compulsive habits of everyday life. While drawing is at the centre of his practice, Shrigley also works across sculpture, large-scale installation, animation, painting, photography, and music; most notably his monumental sculpture Really Good, unveiled on the Fourth Plinth in Trafalgar Square in 2016. His works are held in the collections of MoMA New York, the Art Institute of Chicago, the Centre Pompidou, the Tate, and the Thyssen-Bornemisza Contemporary Art Foundation, and he was shortlisted for the Turner Prize in 2013."
+    },
+    {
+      "id": "oli-epp",
+      "name": "Oli Epp",
+      "discipline": "Contemporary Art",
+      "image": "/images/oli_epp.jpg",
+      "bio": "Oli Epp (b. 1994, London) is a contemporary painter whose tragicomic works explore identity, consumerism, addiction, and anxiety in the digital age. Working with a combination of airbrush, oil, and acrylic to create his flat, graphic style (which he describes as \"Post-Digital Pop\") Epp depicts contorted, faceless figures surrounded by the slick pleasures of contemporary material culture: money, cigarettes, logos, and fast food. He received his BA in Fine Art from the City & Guilds of London Art School and has exhibited in Paris, New York, London, Berlin, and Los Angeles, with institutional shows at the Schlossmuseum Linz and the Museum of Fine Arts Leipzig. His work is held in the collections of the V&A, the Museo Nacional Thyssen-Bornemisza, and the Museum of Modern Art, Paris."
+    },
+    {
+      "bio": "Sweet Toof is an anonymous British graffiti and street artist who began tagging at age 13, saving lunch money to buy cheap spray cans, before going on to graduate with a master's degree from the Royal Academy of Arts. A member of the Burning Candy Crew, he began painting the streets of East London, where his signature motif, a set of grinning pearly white teeth behind bright pink gums, became one of the most recognisable images in the city. Equally disciplined in traditional painting and printmaking, Sweet Toof masterfully blends urban detritus with bygone decadence, fusing ancient methods with modern materials to create work that is at once iconoclastic and deeply rooted in art history. His work featured in Banksy's documentary Exit Through the Gift Shop and is held in the permanent collection of the Victoria and Albert Museum.",
+      "image": "/images/sweet_toof.jpg",
+      "discipline": "Urban Contemporary",
+      "name": "Sweet Toof",
+      "id": "sweet-toof"
+    },
+    {
+      "id": "jason-revok",
+      "name": "Jason Revok",
+      "discipline": "Contemporary Abstraction",
+      "image": "/images/jason_revok.jpg",
+      "bio": "Jason Revok (b. 1977, Riverside, California) is a self-taught artist whose practice began in the Los Angeles graffiti scene of the 1990s, where he built a reputation as one of the most prolific writers of his generation before pivoting to an ambitious studio practice driven by minimalism and post-painterly abstraction. Refusing to be limited by his early recognition, Revok allows only certain elements from graffiti culture to transition to his contemporary work (modest materials, industrial tools, ingenuity) while his proclivity towards systematic yet imperfect mark-making has become the driving force behind his practice. In 2011 he relocated to Detroit, where he founded the Detroit Beautification Project, and in 2022 his solo exhibition was mounted at the Museum of Contemporary Art Detroit (MOCAD)."
+    },
+    {
+      "bio": "Gary Stranger is a largely self-taught British artist who took up graffiti in 1996 and went on to become a member of the MSK street art crew, before merging the aesthetics of street art with his deep interest in typography in the late 2000s. Recognised for their minimal aesthetic, precise freehand execution, and bold colour choices, his works typically depict a single word or phrase in a three-dimensional typographic style, produced across murals, studio paintings, works on paper, and sculpture. He is co-founder, alongside Pref, of Typograffic Circle; a collective of artists working at the intersection of graffiti and typographic design, taking placement and individual style from the street and combining it with the constraints of type-making. His work was included in the Royal Academy of Arts' 2020 Winter Exhibition, and in 2025 he was featured in Graffitecture: Typographic Blueprints at STRAAT Museum, Amsterdam. ",
+      "image": "/images/gary_stranger.jpg",
+      "discipline": "Typographic Art",
+      "name": "Gary Stranger",
+      "id": "gary-stranger"
     }
   ],
   "journal": [
