@@ -304,6 +304,21 @@
       "id": "mark-drew",
       "discipline": "Pop Art / Contemporary Print",
       "image": "/images/mark_drew.jpg"
+    },
+    {
+      "id": "paul-insect",
+      "name": "Paul Insect",
+      "image": "/images/paul_insect.jpg",
+      "bio": "Paul Insect (b. 1971, south-east England) studied graphic design at Hastings and Salisbury Art Colleges before founding the Insect collective in 1996, which began by creating flyers for raves and parties in East London — an early signal of his deep roots in the underground scene. Emerging through Pictures on Walls alongside Banksy, he quickly established a reputation for blending DIY aesthetics with bold graphic experimentation, collaborating on Santa's Ghetto, the Cans Festival, and Banksy's Dismaland. His mixed-media portraits, faces obscured behind swabs of primary colour, bold patterns, and collaged elements draw on Dada, Pop Art, and graffiti, exploring the tension between what we reveal and what we conceal. His 2007 solo show Bullion at Lazarides Gallery was reportedly bought in its entirety by Damien Hirst before it opened, catapulting him into the front rank of British urban art. He remains anonymous and lives and works in London.",
+      "discipline": "Urban / Pop Art",
+      "location": "London, UK"
+    },
+    {
+      "id": "pure-evil",
+      "name": "Pure Evil",
+      "discipline": "Urban / Pop Art",
+      "bio": "Pure Evil is the alias of Charles Uzzell-Edwards (b. 1968, South Wales), the son of Welsh painter John Uzzell Edwards. After studying fashion and graphics in London, he left for California in 1990, where he designed for the influential streetwear label Anarchic Adjustment, became involved in the San Francisco electronic music scene, and was first exposed to West Coast graffiti, before returning to London with a spray can and a new identity. There he became involved in Banksy's pop-up Santa's Ghetto concept and began producing prints for Pictures on Walls, while his now-iconic images of fanged vampire bunnies appeared on streets worldwide. He is best known for his Nightmare Series; Warhol-esque portraits of famous figures depicted with a distinctive teardrop of dark paint beneath one eye, exploring lost innocence and the darker side of celebrity culture.",
+      "location": "London, UK"
     }
   ],
   "journal": [
