@@ -212,13 +212,6 @@
       "bio": "Shepard Fairey (b. 1970, Charleston, South Carolina) is an American graphic artist and social activist at the forefront of the street art movement, whose work blurs the boundary between traditional and commercial art through type and image, communicating social critique via prints, murals, stickers, and posters in public spaces. He graduated from the Rhode Island School of Design in 1992, and in 1989 launched the André the Giant Has a Posse sticker campaign, the foundation for his seminal Obey series. He is perhaps best known for the Obama Hope poster of 2008, widely considered the most successful presidential campaign poster ever created, and his works are held in the permanent collections of MoMA, the Smithsonian's National Portrait Gallery, the Victoria and Albert Museum, and LACMA. He lives and works in Los Angeles."
     },
     {
-      "bio": "Gary Stranger is a largely self-taught British artist who took up graffiti in 1996 and went on to become a member of the MSK street art crew, before merging the aesthetics of street art with his deep interest in typography in the late 2000s. Recognised for their minimal aesthetic, precise freehand execution, and bold colour choices, his works typically depict a single word or phrase in a three-dimensional typographic style, produced across murals, studio paintings, works on paper, and sculpture. He is co-founder, alongside Pref, of Typograffic Circle, a collective of artists working at the intersection of graffiti and typographic design, taking placement and individual style from the street and combining it with the constraints of type-making. His work was included in the Royal Academy of Arts' 2020 Winter Exhibition, and in 2025 he was featured in Graffitecture: Typographic Blueprints at STRAAT Museum, Amsterdam.",
-      "discipline": "Typographic Art",
-      "image": "/images/gary_stranger.jpg",
-      "id": "gary-stranger",
-      "name": "Gary Stranger"
-    },
-    {
       "bio": "David Shrigley OBE (b. 1968, Macclesfield) is a British artist best known for his distinctive drawing style and satirical commentary on everyday situations and human interactions. His quick-witted drawings and hand-rendered texts are typically deadpan in their humour, capturing chance utterings, overheard conversations, and the compulsive habits of everyday life. While drawing is at the centre of his practice, Shrigley also works across sculpture, large-scale installation, animation, painting, photography, and music, most notably his monumental sculpture Really Good, unveiled on the Fourth Plinth in Trafalgar Square in 2016. His works are held in the collections of MoMA New York, the Art Institute of Chicago, the Centre Pompidou, the Tate, and the Thyssen-Bornemisza Contemporary Art Foundation, and he was shortlisted for the Turner Prize in 2013.",
       "location": "Brighton, UK",
       "id": "david-shrigley",
@@ -227,20 +220,27 @@
       "image": "/images/david_shrigley.jpg"
     },
     {
-      "id": "jason-revok",
-      "discipline": "Contemporary Abstraction",
-      "name": "Jason Revok",
-      "image": "/images/jason_revok.jpg",
-      "bio": "Jason Revok (b. 1977, Riverside, California) is a self-taught artist whose practice began in the Los Angeles graffiti scene of the 1990s, where he built a reputation as one of the most prolific writers of his generation before pivoting to an ambitious studio practice driven by minimalism and post-painterly abstraction. Refusing to be limited by his early recognition, Revok allows only certain elements from graffiti culture to transition to his contemporary work (modest materials, industrial tools, ingenuity) while his proclivity towards systematic yet imperfect mark-making has become the driving force behind his practice. In 2011 he relocated to Detroit, where he founded the Detroit Beautification Project, and in 2022 his solo exhibition was mounted at the Museum of Contemporary Art Detroit (MOCAD).",
-      "location": "California, USA"
-    },
-    {
       "id": "dran",
       "name": "Dran",
       "bio": "Dran (b. 1979, Toulouse) is a French artist frequently referred to as \"the French Banksy\" for his satirical and sharp critique of contemporary society. As a child he copied images from comics; by 13 he was painting on walls, before going on to study at the École des Beaux-Arts in Toulouse. His work unpacks themes of creativity and freedom of expression through surrealistic characters (many of them children carrying crayons) alongside popes, riot police, clowns, and pop culture icons such as Pinocchio, Tintin, and the Mona Lisa. A member of the Da Mental Vaporz crew (DMV) since 1999, Dran works across graffiti, illustration, stencil, painting, silkscreen, and photography. He chooses to stay out of the media spotlight entirely, letting the work speak for itself, a quality that has only deepened his cult following among collectors.",
       "discipline": "Urban Contemporary / Illustration",
       "location": "France",
       "image": "/images/dran.jpg"
+    },
+    {
+      "bio": "Gary Stranger is a largely self-taught British artist who took up graffiti in 1996 and went on to become a member of the MSK street art crew, before merging the aesthetics of street art with his deep interest in typography in the late 2000s. Recognised for their minimal aesthetic, precise freehand execution, and bold colour choices, his works typically depict a single word or phrase in a three-dimensional typographic style, produced across murals, studio paintings, works on paper, and sculpture. He is co-founder, alongside Pref, of Typograffic Circle, a collective of artists working at the intersection of graffiti and typographic design, taking placement and individual style from the street and combining it with the constraints of type-making. His work was included in the Royal Academy of Arts' 2020 Winter Exhibition, and in 2025 he was featured in Graffitecture: Typographic Blueprints at STRAAT Museum, Amsterdam.",
+      "discipline": "Typographic Art",
+      "image": "/images/gary_stranger.jpg",
+      "id": "gary-stranger",
+      "name": "Gary Stranger"
+    },
+    {
+      "id": "jason-revok",
+      "discipline": "Contemporary Abstraction",
+      "name": "Jason Revok",
+      "image": "/images/jason_revok.jpg",
+      "bio": "Jason Revok (b. 1977, Riverside, California) is a self-taught artist whose practice began in the Los Angeles graffiti scene of the 1990s, where he built a reputation as one of the most prolific writers of his generation before pivoting to an ambitious studio practice driven by minimalism and post-painterly abstraction. Refusing to be limited by his early recognition, Revok allows only certain elements from graffiti culture to transition to his contemporary work (modest materials, industrial tools, ingenuity) while his proclivity towards systematic yet imperfect mark-making has become the driving force behind his practice. In 2011 he relocated to Detroit, where he founded the Detroit Beautification Project, and in 2022 his solo exhibition was mounted at the Museum of Contemporary Art Detroit (MOCAD).",
+      "location": "California, USA"
     },
     {
       "bio": "FAILE is the Brooklyn-based multimedia collaboration of Patrick McNeil (b. 1975, Edmonton) and Patrick Miller (b. 1976, Minneapolis), formed in 1999. Their name is an anagram of their original pseudonym \"A Life,\" reflecting a philosophy of transformation and the belief that failure is a necessary step toward more enlightened art and life. Their practice involves a frenetic collaging of appropriated materials (graphic novels, Asian and American culture, typography) that references the work of Pop artists like Richard Hamilton and Roy Lichtenstein, deployed initially through pioneering wheatpasting and stenciling on city streets worldwide before expanding into paintings, prints, and sculpture. An important show at Tate Modern in 2008 marked their transition into the institutional art world, and in 2015 they were commissioned for a major installation in Times Square, New York.",
