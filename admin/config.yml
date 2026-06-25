@@ -34,6 +34,7 @@ collections:
               - { label: "Edition details", name: "edition", widget: "string", required: false }
               - { label: "Provenance", name: "provenance", widget: "string", required: false }
               - { label: "Image", name: "image", widget: "image", required: false }
+              - { label: "Price (e.g. £12,500 or leave blank for POA)", name: "price", widget: "string", required: false }
               - { label: "Description", name: "description", widget: "text", required: false }
               - { label: "Available", name: "available", widget: "boolean", default: true }
 

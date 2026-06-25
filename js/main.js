@@ -40,6 +40,10 @@ function workModalHTML(w) {
     ['Year', w.year], ['Medium', w.medium], ['Dimensions', w.dimensions],
     ['Edition', w.edition], ['Category', w.category], ['Provenance', w.provenance]
   ].filter(([, v]) => v);
+
+  const priceHTML = w.price
+    ? `<p class="work-modal__price">${w.price}</p>`
+    : `<p class="work-modal__price work-modal__price--poa">Price on application</p>`;
   return `<div class="modal">
     <button class="modal__close" aria-label="Close">&#x2715;</button>
     <div class="work-modal__inner">
@@ -53,6 +57,7 @@ function workModalHTML(w) {
           ${specs.map(([k,v]) => `<div><dt class="spec__key">${k}</dt><dd class="spec__val">${v}</dd></div>`).join('')}
         </dl>
         ${w.description ? `<p class="work-modal__desc">${w.description}</p>` : ''}
+        ${priceHTML}
         <a href="/contact.html?work=${encodeURIComponent(w.title)}" class="btn btn-primary">Enquire about this work</a>
       </div>
     </div>
