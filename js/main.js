@@ -83,10 +83,14 @@ function openArtistPanel(a) {
   const closeBtn = document.getElementById('artist-panel-close');
   if (!panel || !inner) return;
 
-  const artistWorks = (_store.works || []).filter(w => w.artist === a.name);
+  const artistWorks = [];
+  (_store.works || []).forEach((w, i) => {
+    if (w.artist === a.name) artistWorks.push({ w, i });
+  });
+
   const worksSection = artistWorks.length
     ? `<div class="artist-panel__works-grid">
-        ${artistWorks.map(w => workCard(w, _store.works.indexOf(w))).join('')}
+        ${artistWorks.map(({ w, i }) => workCard(w, i)).join('')}
        </div>`
     : `<p class="artist-panel__empty">No works currently in stock</p>`;
 
