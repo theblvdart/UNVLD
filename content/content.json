@@ -243,14 +243,6 @@
       "image": "/images/dran.jpg"
     },
     {
-      "id": "hush",
-      "name": "Hush",
-      "bio": "Hush (b. 1973, Newcastle upon Tyne) is a British artist who developed an early affinity for visual culture amid the Acid House scene, designing flyers before pursuing formal training at the Newcastle School of Art and Design, graduating in 1995 with a degree in graphic design and illustration. His career pivoted decisively around 2006 when he committed fully to painting, departing from graphic design roles at advertising agencies in London and Hong Kong. Extensive time living in Asia (first Hong Kong, then Japan, where he worked as a toy designer) immersed him in Japanese visual culture and sparked a fascination with the representation of women and the collision of Eastern and Western aesthetics. In his signature works, Hush superimposes layers of vibrant wheatpaste patterns and graffiti onto delicate stencilled portraits of women, fusing the iconography of the geisha with the raw energy of street art. Has been named one of the top 20 emerging artists by The Independent.",
-      "discipline": "Urban Contemporary / Mixed Media",
-      "image": "/images/hush.jpg",
-      "location": "Newcastle, UK"
-    },
-    {
       "bio": "FAILE is the Brooklyn-based multimedia collaboration of Patrick McNeil (b. 1975, Edmonton) and Patrick Miller (b. 1976, Minneapolis), formed in 1999. Their name is an anagram of their original pseudonym \"A Life,\" reflecting a philosophy of transformation and the belief that failure is a necessary step toward more enlightened art and life. Their practice involves a frenetic collaging of appropriated materials (graphic novels, Asian and American culture, typography) that references the work of Pop artists like Richard Hamilton and Roy Lichtenstein, deployed initially through pioneering wheatpasting and stenciling on city streets worldwide before expanding into paintings, prints, and sculpture. An important show at Tate Modern in 2008 marked their transition into the institutional art world, and in 2015 they were commissioned for a major installation in Times Square, New York.",
       "location": "New York, USA",
       "image": "/images/faile.jpg",
@@ -267,12 +259,35 @@
       "image": "/images/cleon_peterson.jpg"
     },
     {
+      "bio": "Maya Hayuk (b. 1969, Baltimore) is an American artist living and working in Brooklyn, best known for the bold geometric patterns she employs in large-scale murals. She received a BFA from Massachusetts College of Art and Design and has also studied at the University of Odesa in Ukraine and the Skowhegan School of Painting and Sculpture. Her vibrant abstractions draw variously on Ukrainian Easter eggs, Mexican woven blankets, mandalas, holograms, and Rorschach blots, built up using acrylic, ink, glitter, spray paint, watercolour, and tape into kaleidoscopic geometries across public walls and canvases. She has created commissions for UCLA's Hammer Museum, the Bonnefanten Museum in Maastricht, and Socrates Sculpture Park in New York, and has produced album covers and stage sets for M.I.A., TV on the Radio, The Flaming Lips, and the Beastie Boys.",
+      "discipline": "Urban Contemporary / Abstract",
+      "image": "/images/maya_hayuk.jpg",
+      "name": "Maya Hayuk",
+      "id": "maya-hayuk"
+    },
+    {
       "bio": "Christian Rex van Minnen (b. 1980, Providence, Rhode Island) is a largely self-taught painter who applies the indirect layering and glazing techniques of the Old Masters to grotesque, otherworldly imagery — bringing elegant, illuminated surfaces into deliberate tension with deformed bodies and macabre subject matter. His absurdist canvases revel in the grotesque and violent, featuring subjects riddled with sores that call to mind horror movie monsters, while neon-hued floral arrangements are embedded with rotting skulls — a practice informed by an artistic lineage spanning Dutch vanitas painting to the magical realism of Ivan Albright. He received his BA from Regis University in 2002 and held a residency at Anderson Ranch Arts Center in 2011. His work is held in the permanent collection of the Denver Art Museum.",
       "discipline": "Contemporary Painting / Neo-Surrealism",
       "location": "California, USA",
       "image": "/images/rex_van_minnen.jpg",
       "name": "Christian Rex van Minnen",
       "id": "christian-rex-van-minnen"
+    },
+    {
+      "bio": "D*Face is the alias of Dean Stockton (b. 1978, London), a British street artist whose bright, graphic practice draws on pop art, consumerism, and the visual language of skate and punk culture. As a teenager he discovered New York subway graffiti through Henry Chalfant's publications and was shaped by skateboarding culture and Thrasher magazine's skateboard deck graphics, leading him to the DIY mentality of stickers and street intervention. After studying illustration and design and working briefly as a freelance illustrator, he devoted himself to street art in the early 2000s, building a visual language that subverts pop art and consumer culture — reinterpreting cultural icons such as Marilyn Monroe, Andy Warhol, and the Queen in a register that is at once playful and critical. In 2005 he founded StolenSpace Gallery in Shoreditch, London's leading urban art space, and has since exhibited in New York, Los Angeles, Miami, Tokyo, Dubai, and beyond. Commercial collaborations have included the cover art for Blink-182's album California and work with David Beckham's Haig Club whisky.",
+      "location": "London, UK",
+      "discipline": "Urban Contemporary / Pop Art",
+      "name": "D*Face",
+      "id": "dface",
+      "image": "/images/dface.jpg"
+    },
+    {
+      "id": "hush",
+      "name": "Hush",
+      "bio": "Hush (b. 1973, Newcastle upon Tyne) is a British artist who developed an early affinity for visual culture amid the Acid House scene, designing flyers before pursuing formal training at the Newcastle School of Art and Design, graduating in 1995 with a degree in graphic design and illustration. His career pivoted decisively around 2006 when he committed fully to painting, departing from graphic design roles at advertising agencies in London and Hong Kong. Extensive time living in Asia (first Hong Kong, then Japan, where he worked as a toy designer) immersed him in Japanese visual culture and sparked a fascination with the representation of women and the collision of Eastern and Western aesthetics. In his signature works, Hush superimposes layers of vibrant wheatpaste patterns and graffiti onto delicate stencilled portraits of women, fusing the iconography of the geisha with the raw energy of street art. Has been named one of the top 20 emerging artists by The Independent.",
+      "discipline": "Urban Contemporary / Mixed Media",
+      "image": "/images/hush.jpg",
+      "location": "Newcastle, UK"
     },
     {
       "bio": "Mue Bon (b. Thailand) grew up in the slums of Thonburi, Bangkok, studied art at the Rajamangala Institute of Technology, and graduated with honours in 2005. His alias translates as \"fidgety hands\", a nod to his relentless mark-making, and he was a founding figure of Thailand's first generation of street artists, painting at a time when the practice was neither widely known nor respected in his country. He has created a cast of signature characters over the years, including a cartoon bird named PUKRUK, a girl behind a mask, and Mr. TV, a figure with a television screen for a face, all carrying commentary on wealth disparity, media propaganda, and anti-war activism. His style and ability to translate street work into detailed and vibrant gallery paintings, sculptures, and installations sets him apart and puts him at the forefront of Asian street art,",
@@ -283,27 +298,12 @@
       "id": "mue-bon"
     },
     {
-      "bio": "Maya Hayuk (b. 1969, Baltimore) is an American artist living and working in Brooklyn, best known for the bold geometric patterns she employs in large-scale murals. She received a BFA from Massachusetts College of Art and Design and has also studied at the University of Odesa in Ukraine and the Skowhegan School of Painting and Sculpture. Her vibrant abstractions draw variously on Ukrainian Easter eggs, Mexican woven blankets, mandalas, holograms, and Rorschach blots, built up using acrylic, ink, glitter, spray paint, watercolour, and tape into kaleidoscopic geometries across public walls and canvases. She has created commissions for UCLA's Hammer Museum, the Bonnefanten Museum in Maastricht, and Socrates Sculpture Park in New York, and has produced album covers and stage sets for M.I.A., TV on the Radio, The Flaming Lips, and the Beastie Boys.",
-      "discipline": "Urban Contemporary / Abstract",
-      "image": "/images/maya_hayuk.jpg",
-      "name": "Maya Hayuk",
-      "id": "maya-hayuk"
-    },
-    {
       "bio": "Mark Drew is a Tokyo-based Australian artist best known for his mash-ups of early 1990s hip-hop lyrics with panels from vintage Peanuts comic strips — \"sampling\" visual culture in the same way that hip-hop producers layer borrowed beats into new compositions. Originally from Sydney, Drew co-founded China Heights Gallery in 2004 before relocating to Tokyo in 2009, where he continues to build a body of work that fuses music culture, comics, and graphic design. He debuted this approach in 2013 with a solo show in Sydney titled Deez Nuts, featuring lyrics by Jay-Z, Nas, Wu-Tang Clan, and the Notorious B.I.G.; his works are now in private collections worldwide, including that of Drake. His prints have been exhibited at Subliminal Projects in Los Angeles, StolenSpace Gallery in London, and Harman Projects in New York. ",
       "location": "Australia",
       "name": "Mark Drew",
       "id": "mark-drew",
       "discipline": "Pop Art / Contemporary Print",
       "image": "/images/mark_drew.jpg"
-    },
-    {
-      "bio": "D*Face is the alias of Dean Stockton (b. 1978, London), a British street artist whose bright, graphic practice draws on pop art, consumerism, and the visual language of skate and punk culture. As a teenager he discovered New York subway graffiti through Henry Chalfant's publications and was shaped by skateboarding culture and Thrasher magazine's skateboard deck graphics, leading him to the DIY mentality of stickers and street intervention. After studying illustration and design and working briefly as a freelance illustrator, he devoted himself to street art in the early 2000s, building a visual language that subverts pop art and consumer culture — reinterpreting cultural icons such as Marilyn Monroe, Andy Warhol, and the Queen in a register that is at once playful and critical. In 2005 he founded StolenSpace Gallery in Shoreditch, London's leading urban art space, and has since exhibited in New York, Los Angeles, Miami, Tokyo, Dubai, and beyond. Commercial collaborations have included the cover art for Blink-182's album California and work with David Beckham's Haig Club whisky.",
-      "location": "London, UK",
-      "discipline": "Urban Contemporary / Pop Art",
-      "name": "D*Face",
-      "id": "dface",
-      "image": "/images/dface.jpg"
     }
   ],
   "journal": [
