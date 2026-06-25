@@ -129,6 +129,35 @@
       "discipline": "Urban Contemporary / Mixed Media",
       "bio": "Hush (b. 1973, Newcastle upon Tyne) is a British artist who developed an early affinity for visual culture amid the Acid House scene, designing flyers before pursuing formal training at the Newcastle School of Art and Design, graduating in 1995 with a degree in graphic design and illustration. His career pivoted decisively around 2006 when he committed fully to painting, departing from graphic design roles at advertising agencies in London and Hong Kong. Extensive time living in Asia (first Hong Kong, then Japan, where he worked as a toy designer) immersed him in Japanese visual culture and sparked a fascination with the representation of women and the collision of Eastern and Western aesthetics. In his signature works, Hush superimposes layers of vibrant wheatpaste patterns and graffiti onto delicate stencilled portraits of women, fusing the iconography of the geisha with the raw energy of street art. He lives and works in Newcastle and has been named one of the top 20 emerging artists by The Independent.",
       "image": "/images/hush.jpg"
+    },
+    {
+      "bio": "\nCleon Peterson (b. 1973, Seattle) is an American artist best known for large-scale paintings and murals depicting stylized figures in violent conflict, exploring themes of power, domination, and societal collapse. He experienced a troubled youth — dropping out of high school, becoming a skateboard artist, and surviving addiction and incarceration — before embarking definitively on a career in the arts. He earned a BFA from ArtCenter College of Design in Pasadena and an MFA from Cranbrook Academy of Art, before beginning his career as a graphic designer at Shepard Fairey's Studio Number One. Drawing on influences including Leon Golub, Paul McCarthy, and the aesthetics of Greek pottery and political propaganda posters, his high-contrast compositions of black, white, red, and yellow figures pack scenes of raw, authoritarian violence. In 2016 he created the first-ever mural painted directly beneath the Eiffel Tower for Nuit Blanche Paris. He lives and works in Los Angeles.",
+      "discipline": "Contemporary Art / Urban Contemporary",
+      "name": "Cleon Peterson",
+      "id": "cleon-peterson",
+      "image": "/images/cleon_peterson.jpg"
+    },
+    {
+      "bio": "Christian Rex van Minnen (b. 1980, Providence, Rhode Island) is a largely self-taught painter who applies the indirect layering and glazing techniques of the Old Masters to grotesque, otherworldly imagery — bringing elegant, illuminated surfaces into deliberate tension with deformed bodies and macabre subject matter. His absurdist canvases revel in the grotesque and violent, featuring subjects riddled with sores that call to mind horror movie monsters, while neon-hued floral arrangements are embedded with rotting skulls — a practice informed by an artistic lineage spanning Dutch vanitas painting to the magical realism of Ivan Albright. He received his BA from Regis University in 2002 and held a residency at Anderson Ranch Arts Center in 2011. His work is held in the permanent collection of the Denver Art Museum.",
+      "image": "/images/rex_van_minnen.jpg",
+      "discipline": "Contemporary Painting / Neo-Surrealism",
+      "name": "Christian Rex van Minnen",
+      "id": "christian-rex-van-minnen"
+    },
+    {
+      "bio": "Mark Drew is a Tokyo-based Australian artist best known for his mash-ups of early 1990s hip-hop lyrics with panels from vintage Peanuts comic strips - \"sampling\" visual culture in the same way that hip-hop producers layer borrowed beats into new compositions. Originally from Sydney, Drew co-founded China Heights Gallery in 2004 before relocating to Tokyo in 2009, where he continues to build a body of work that fuses music culture, comics, and graphic design. He debuted this approach in 2013 with a solo show in Sydney titled Deez Nuts, featuring lyrics by Jay-Z, Nas, Wu-Tang Clan, and the Notorious B.I.G.; his works are now in private collections worldwide, including that of Drake. His prints have been exhibited at Subliminal Projects in Los Angeles, StolenSpace Gallery in London, and Harman Projects in New York.",
+      "image": "/images/mark_drew.jpg",
+      "id": "mark-drew",
+      "name": "Mark Drew",
+      "discipline": "Pop Art / Contemporary Print"
+    },
+    {
+      "bio": "Maya Hayuk (b. 1969, Baltimore) is an American artist living and working in Brooklyn, best known for the bold geometric patterns she employs in large-scale murals. She received a BFA from Massachusetts College of Art and Design and has also studied at the University of Odesa in Ukraine and the Skowhegan School of Painting and Sculpture. Her vibrant abstractions draw variously on Ukrainian Easter eggs, Mexican woven blankets, mandalas, holograms, and Rorschach blots, built up using acrylic, ink, glitter, spray paint, watercolour, and tape into kaleidoscopic geometries across public walls and canvases. She has created commissions for UCLA's Hammer Museum, the Bonnefanten Museum in Maastricht, and Socrates Sculpture Park in New York, and has produced album covers and stage sets for M.I.A., TV on the Radio, The Flaming Lips, and the Beastie Boys.",
+      "image": "/images/maya_hayuk.jpg",
+      "location": "",
+      "discipline": "Urban Contemporary / Abstract Art",
+      "name": "Maya Hayuk",
+      "id": "maya-hayuk"
     }
   ],
   "journal": [
