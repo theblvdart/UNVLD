@@ -169,13 +169,13 @@
       "id": "invader",
       "name": "Invader",
       "bio": "Invader (b. 1969, Paris) is an anonymous French street artist and graduate of a Parisian École des Beaux-Arts, who describes himself as an Unidentified Free Artist (UFA). His identity perpetually hidden behind masks and digital pixelations. Beginning in the late 1990s, he started cementing ceramic tile mosaics of pixelated characters from the 1978 Space Invaders arcade game across the streets of Paris, before expanding his roster to include Pac-Man ghosts and other 8-bit characters. Works that now adorn cities around the world, from Los Angeles to Kathmandu. As of 2020, his creations can be found in 79 cities across 20 countries, comprising over 3,800 individual works and more than 1.5 million ceramic tiles. Beyond public space, he has developed \"Rubikcubism\", a series of indoor works constructed entirely from Rubik's Cubes, and his gallery works regularly command six-figure sums.",
-      "discipline": "Street Art",
+      "discipline": "Mosaic Art",
       "image": "/images/invader.jpg"
     },
     {
       "id": "ben-eine",
       "name": "Ben Eine",
-      "discipline": "Street Art",
+      "discipline": "Typographic Art",
       "location": "London, UK",
       "bio": "Ben Eine (born Ben Flynn, b. 1970, London) is a British street artist who began his career as a graffiti writer, tagging the streets of his home city before developing the distinctive typographic style he is known for today. He later co-founded the cult screen print company Pictures on Walls (POW) with Banksy, producing hand-pulled prints for artists including Jamie Hewlett, David Shrigley, and Mode 2. He is regarded as a forerunner in the exploration of typography in contemporary street art, best known for his oversized, brightly coloured letterforms on shop shutters, most famously the full alphabet he painted onto Middlesex Street in East London, known internationally as Alphabet Street. In 2010, British Prime Minister David Cameron gifted one of Eine's paintings, Twenty First Century City, to President Barack Obama during a state visit, catapulting Eine to international fame and selling out his subsequent San Francisco solo show before it opened. His work is held in the collection of the Victoria and Albert Museum, and he lives and works in London.",
       "image": "/images/ben_eine.jpg"
@@ -212,7 +212,7 @@
     },
     {
       "id": "jason-revok",
-      "discipline": "Contemporary aAbstraction",
+      "discipline": "Contemporary Abstraction",
       "name": "Jason Revok",
       "image": "/images/jason_revok.jpg",
       "bio": "Jason Revok (b. 1977, Riverside, California) is a self-taught artist whose practice began in the Los Angeles graffiti scene of the 1990s, where he built a reputation as one of the most prolific writers of his generation before pivoting to an ambitious studio practice driven by minimalism and post-painterly abstraction. Refusing to be limited by his early recognition, Revok allows only certain elements from graffiti culture to transition to his contemporary work (modest materials, industrial tools, ingenuity) while his proclivity towards systematic yet imperfect mark-making has become the driving force behind his practice. In 2011 he relocated to Detroit, where he founded the Detroit Beautification Project, and in 2022 his solo exhibition was mounted at the Museum of Contemporary Art Detroit (MOCAD).",
