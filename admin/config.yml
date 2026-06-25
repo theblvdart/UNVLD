@@ -87,3 +87,13 @@ collections:
               - { label: "Cover image", name: "image", widget: "image", required: false }
               - { label: "Excerpt", name: "excerpt", widget: "text", required: false }
               - { label: "Body", name: "body", widget: "markdown", required: false }
+
+  - name: "settings"
+    label: "Settings"
+    files:
+      - name: "general"
+        label: "Site Settings"
+        file: "content/settings.json"
+        fields:
+          - { label: "Hero image (homepage featured work)", name: "hero_image", widget: "image", required: false }
+          - { label: "Hero image alt text", name: "hero_image_alt", widget: "string", required: false, default: "Featured Work" }

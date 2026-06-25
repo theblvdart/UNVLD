@@ -1,388 +1,73 @@
 {
   "works": [
     {
-      "provenance": "\tPrivate collection",
-      "artist": "The Miaz Brothers",
-      "price": "",
-      "available": true,
-      "dimensions": "48.5 × 38 cm",
-      "medium": "Archival inkjet on Hahnemühle Photo Rag 308gsm",
-      "title": "Gentleman with Red Dot",
-      "id": "miaz-brothers-gentleman-with-red-dot",
-      "image": "/images/miaz.jpeg",
-      "description": "Part of the Miaz Brothers' celebrated \"Antimatter\" series, this edition captures the Italian duo's signature approach; a deliberately out-of-focus portrait that challenges the viewer's perception, dissolving identity into atmosphere. Roberto and Renato Miaz, both classically trained, spent a decade refining this technique before bringing it to the international art market.",
-      "year": "2019",
+      "id": "banksy-girl-with-balloon",
+      "title": "Girl with Balloon",
+      "artist": "Banksy",
+      "year": "2004",
       "category": "Edition",
-      "edition": "From the main edition of 100, signed in pencil, hand-torn edges. Released together and frequently displayed alongside \"Lady with Green Background\"."
+      "medium": "Screen print on paper",
+      "dimensions": "50 × 70 cm",
+      "edition": "AP edition, signed",
+      "provenance": "Private collection, London",
+      "image": "",
+      "price": "£45,000",
+      "description": "One of Banksy's most iconic images, this signed AP edition represents a seminal moment in the street art market.",
+      "available": true
     },
     {
-      "provenance": "Private collection",
-      "artist": "The Miaz Brothers",
-      "available": true,
-      "dimensions": "48.5 × 38 cm",
-      "medium": "Archival inkjet on Hahnemühle Photo Rag 308gsm",
-      "title": "Lady with Green Background",
-      "id": "miaz-brothers-lady-with-green-background",
-      "image": "/images/miaz2.webp",
-      "description": "A companion piece to Gentleman with Red Dot, this print exemplifies the Miaz Brothers' \"Antimatter\" series; a ghostly, out-of-focus female portrait in which the subject dissolves into her vivid green ground, activating the viewer's own perception to complete the image.",
-      "year": "2019",
-      "category": "Edition",
-      "edition": "Edition of 100, signed in pencil, hand-torn edges."
-    },
-    {
-      "provenance": "Private collection",
-      "artist": "Paul Kremer",
-      "available": true,
-      "dimensions": "61 × 46 cm (24 × 18 in)",
-      "medium": "Hand-pulled screen print on Mohawk Superfine Smooth Paper",
-      "title": "Crevice 48",
-      "id": "paul-kremer-crevice-48",
-      "image": "/images/paul_kremer_crevice_48.jpg",
-      "description": "Part of Kremer's ongoing \"Crevice\" series, this timed edition distils his signature hard-edge abstraction into print. Bold, flat fields of colour whose precise geometry hints at landscape or architecture without ever committing to either. ",
-      "year": "2024",
-      "category": "Edition",
-      "edition": "Edition of 139"
-    },
-    {
-      "provenance": "Private collection",
-      "artist": "Yoon Hyup",
-      "available": true,
-      "dimensions": "70 × 52.8 cm",
-      "medium": "Archival pigment print with silkscreen background on 410gsm Somerset Enhanced Satin paper",
-      "title": "City Fountain",
-      "id": "yoon-hyup-city-fountain",
-      "image": "/images/yoon_hyup_city_fountain.jpg",
-      "description": "Inspired by the artist's imagined memory of wandering through Manhattan, City Fountain captures the moment Hyup pauses at a water fountain, transfixed by the reflections of electric city lights. The energy and sound of New York are distilled into his signature language of line and dot, Improvised, rhythmic, and alive long after the sun sets.",
-      "year": "2024",
-      "category": "Edition",
-      "edition": "Edition of 200"
-    },
-    {
-      "provenance": "Private collection",
-      "artist": "Paul Kremer",
-      "available": true,
-      "dimensions": "61 × 46 cm (24 × 18 in)",
-      "medium": "Hand-pulled screen print on Mohawk Superfine Smooth Paper",
-      "title": "Drop 46",
-      "id": "paul-krmer-drop-46",
-      "image": "/images/paul_kremer_drop_46.jpg",
-      "description": "From Kremer's \"Drop\" series, this timed edition explores weight, gravity, and suspension. What the artist describes as the act of being uncertainly still between two states. Released alongside Crevice 48.",
-      "year": "2024",
-      "category": "Edition",
-      "edition": "Edition of 176"
-    },
-    {
-      "provenance": "Private collection",
-      "artist": "Invader",
-      "available": true,
-      "collaborators": [
-        "Shepard Fairey"
-      ],
-      "dimensions": "53.3 × 72.3 cm (framed)",
-      "medium": "\tSilkscreen print with embossing on cotton rag paper.",
-      "title": "Positive Space/Negative Space (Cream/Red)",
-      "id": "inader-shepard-fairey-positive-space-negative-space-cream-red",
-      "image": "/images/positive_space_negative_space_cream_red.jpg",
-      "description": "Part of the Obey Invader series, a collaboration between Shepard Fairey and Invader produced for Triple Trouble, an exhibition uniting Fairey, Invader, and Damien Hirst. One of four prints in the series, this edition brings together Fairey's bold graphic language and Invader's pixelated tile aesthetic, with embossing adding a tactile dimension to the silkscreen surface.",
-      "year": "2025",
-      "category": "Edition",
-      "edition": "Edition of 250, hand signed by both artists on the front. Presented in a white aluminium frame"
-    },
-    {
-      "provenance": "Private collection",
-      "artist": "Ben Eine",
-      "available": true,
-      "dimensions": "70 × 70 cm",
-      "medium": "52-colour screenprint on fine art paper",
-      "title": "Tenderloin (Stone)",
-      "id": "ben-eine-tenderloin-stone",
-      "image": "/images/ben_eine_tenderloin_stone.jpg",
-      "description": "Part of Eine's celebrated Tenderloin A-Z series, this print presents the full alphabet in Eine's Tenderloin typeface, a font developed in collaboration with typographer Chank Diesel in 2012. The Stone colourway renders the characteristically bold letterforms in a muted, tonal palette, offering a quieter counterpart to the more vivid editions in the series.",
+      "id": "kaws-companion",
+      "title": "COMPANION (Passing Through)",
+      "artist": "KAWS",
       "year": "2013",
-      "category": "Edition",
-      "edition": "Edition of 75"
+      "category": "Rare Collectible",
+      "medium": "Cast vinyl",
+      "dimensions": "28 cm",
+      "edition": "Open edition",
+      "provenance": "Purchased directly, 2013",
+      "image": "",
+      "description": "A landmark piece in KAWS's sculptural practice, the Passing Through Companion has become one of the defining objects of urban contemporary collecting.",
+      "available": true
     },
     {
-      "artist": "KAWS",
-      "available": true,
-      "dimensions": "27.9 × 11.4 × 8.9 cm (11 × 4.5 × 3.5 in)",
-      "medium": "Painted vinyl, black exterior with neon interior",
-      "title": "Companion Flayed (Black)",
-      "id": "companion-flayed-black",
-      "image": "/images/kaws_companion_flayed_black.jpg",
-      "description": "Released in 2016, this open edition Companion Flayed splits the figure to reveal a vivid, neon-coloured interior - a literal and conceptual exposure of what lies beneath the surface. One of the most iconic works in KAWS' extensive catalogue of vinyl figures, authenticated by a stamped KAWS signature on the base.",
-      "year": "2016",
-      "category": "Rare Collectible",
-      "edition": "Open edition, unnumbered; authenticated by stamp on base; sealed in clear blister packaging."
-    },
-    {
-      "artist": "KAWS",
-      "available": true,
-      "dimensions": "24.13 cm (9.5 in) L",
-      "medium": "Vinyl figure with fluorescent moon component",
-      "title": "KAWS:Holiday Shanghai (Brown)",
-      "id": "kaws-holiday-shanghai-brown",
-      "image": "/images/kaws_holiday_shanghai_brown.jpg",
-      "description": "The brown colourway of the KAWS:Holiday Shanghai figure, released alongside the black and grey variants to commemorate the September 2024 Shanghai exhibition. The Companion reclines holding a luminous moon, with the moon component and outer box both produced in glow-in-the-dark material echoing the Mid-Autumn Festival theme.",
-      "year": "2024",
-      "category": "Rare Collectible",
-      "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint."
-    },
-    {
-      "artist": "KAWS",
-      "available": true,
-      "dimensions": "24.13 cm (9.5 in) L",
-      "medium": "Vinyl figure with fluorescent moon component",
-      "title": "KAWS:Holiday Shanghai (Black)",
-      "id": "kaws-holiday-shanghai-black",
-      "image": "/images/kaws_holiday_shanghai_black.jpg",
-      "description": "The black colourway of the KAWS:Holiday Shanghai figure, released alongside the brown and grey variants to commemorate the September 2024 Shanghai exhibition. The Companion reclines holding a luminous moon, with the moon component and outer box both produced in glow-in-the-dark material echoing the Mid-Autumn Festival theme.",
-      "year": "2024",
-      "category": "Rare Collectible",
-      "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint."
+      "id": "basquiat-untitled",
+      "title": "Untitled (Head)",
+      "artist": "Jean-Michel Basquiat",
+      "year": "1982",
+      "category": "Original",
+      "medium": "Acrylic and oil paintstick on canvas",
+      "dimensions": "120 × 100 cm",
+      "edition": "",
+      "provenance": "Estate of the artist; Private collection",
+      "image": "",
+      "description": "A rare original from Basquiat's most celebrated period, with full provenance documentation.",
+      "available": false
     }
   ],
   "artists": [
-    {
-      "id": "yoon-hyup",
-      "name": "Yoon Hyup",
-      "bio": "Born in Seoul, South Korea in 1982, Yoon Hyup lives and works in Brooklyn, New York. Drawn to hip-hop and skate culture from an early age, he began creating large-scale murals and live paintings in the early 2000s, experimenting with lines and dots as a way of reflecting the rhythm and flow of music. Working with acrylic on canvas, he translates cityscapes, rain, and light into compositions of flat orbs and rhythmic marks, comparing his process to jazz improvisation, where each colour represents a different note and together they build a chord. Hyup has exhibited in New York, London, Seoul, Milan, Tokyo, Miami, and Hong Kong, and has collaborated with Dior, Tiffany & Co., Nike, and Maison Kitsuné, among others",
-      "location": "New York, USA",
-      "discipline": "Urban Contemporary",
-      "image": "/images/yoon_hyup.jpg"
-    },
-    {
-      "bio": "Damien Hirst (b. 1965, Bristol) has created installations, sculptures, paintings, and drawings since the late 1980s that examine the complex relationships between art and beauty, religion and science, and life and death. Considered an enfant terrible of the 1990s art world, he was the most prominent of the Young British Artists (a group that first gained notoriety when Charles Saatchi began buying and exhibiting their work) and in 1988 curated the landmark student show Freeze at Goldsmiths College, widely considered the debut of the YBA movement. His mixed-media sculptures draw from a controversial assortment of formaldehyde-suspended carcasses, cigarette butts, pharmaceutical packaging, and surgical instruments, often encased in glass vitrines. He won the Turner Prize in 1995, and in 2008 set the record for the largest sum raised by a living artist at a single auction, with £111 million at Sotheby's. His work is held by Tate, the Hirshhorn, and major collections worldwide.",
-      "discipline": "Contemporary Art / Conceptual Art",
-      "location": "London, UK",
-      "image": "/images/damien_hirst.jpg",
-      "name": "Damien Hirst",
-      "id": "damien-hirst"
-    },
-    {
-      "bio": "Roberto and Renato Miaz (b. 1965 & 1968, Monza, Italy) are an Italian sibling duo who have redefined contemporary portraiture through their \"Antimatter\" series — large-format works rendered in aerosol paint, in which subjects are presented deliberately out of focus, bypassing immediate reaction and inviting viewers to draw on their own memory and perception to complete the image. Classically trained and guided by the model of Renaissance artists, they first exhibited at the Viafarini Gallery in Milan in 1996, before being awarded the Arte Laguna International Art Prize in Venice in 2011 and launching the Antimatter series in 2012. They have collaborated with major brands including Adidas, Nike, Diesel, and Kenzo, and designed the cover of the New York Times Magazine in 2017.",
-      "location": "",
-      "discipline": "New Contemporary",
-      "name": "The Miaz Brothers",
-      "id": "the-miaz-brothers",
-      "image": "/images/the_miaz-_brothers.jpg"
-    },
-    {
-      "id": "paul-kremer",
-      "name": "Paul Kremer",
-      "discipline": "Abstract",
-      "location": "Texas, USA",
-      "bio": "Paul Kremer (b. 1971, Chicago) is a contemporary American artist known for his reinterpretation of colour field painting, using overlapping hard-edged shapes to produce optical interactions rooted as much in digital software as in the work of Kenneth Noland and Jules Olitski. Self-taught as a painter, his uninflected surfaces and smooth contours have led critics to identify him as an heir to Ellsworth Kelly, with his compositions evoking both monumental architecture and broken-off glacier sections. For twenty years Kremer ran a graphic design studio, working with clients including Lou Reed, Tom Waits, and National Geographic, and he is also the inventor of the cult social media phenomenon \"Great Art in Ugly Rooms,\" which places photo-realistic renderings of masterworks in laundromats, discount stores, and public restrooms. He lives and works in Houston, Texas.",
-      "image": "/images/paul_kremer.jpg"
-    },
     {
       "id": "banksy",
       "name": "Banksy",
       "discipline": "Street Art",
       "location": "Bristol, UK",
-      "image": "/images/banksy.jpg",
-      "bio": "Banksy is an anonymous England-based street artist, political activist, and film director whose identity has never been publicly confirmed despite over three decades of activity. He began as a freehand graffiti artist in Bristol's DryBreadZ Crew in the early 1990s before switching to stencils, a faster method that became his signature. His work addresses politics, war, consumerism, and the art establishment, appearing on walls and barriers across the globe at pivotal moments in modern history. He developed a distinctive iconography of rats, police officers, and children, combined with dark wit and subversive slogans. In 2018 Girl with Balloon partially self-destructed seconds after selling for £1 million at Sotheby's. It resold in 2021 for £18 million. His 2010 documentary Exit Through the Gift Shop was nominated for an Academy Award."
+      "image": "",
+      "bio": "Banksy is an anonymous England-based street artist, political activist, and film director whose satirical street art and subversive epigrams combine dark humour with graffiti executed in a distinctive stencilling technique."
     },
     {
       "id": "kaws",
       "name": "KAWS",
-      "image": "/images/kaws.jpg",
-      "bio": "Brian Donnelly (b. 1974, Jersey City) graduated from the School of Visual Arts in New York in 1996 and began working as a freelance animator for Disney, creating backgrounds for 101 Dalmatians and Doug while spending his nights subverting billboards and phone booths across New York City. His practice centres on a cast of recurring hybrid cartoon characters (Companion, Accomplice, Chum) realised across paintings, sculpture, prints, and collectible vinyl toys that blur the line between fine art and mass culture. He has collaborated with Nike, Dior, Uniqlo, and A Bathing Ape, and in 2019 installed a 35-metre inflatable Companion in Hong Kong's Victoria Harbour. That same year, THE KAWS ALBUM sold at auction for a record $14.8 million.",
       "discipline": "Urban Contemporary",
-      "location": "New York, USA"
-    },
-    {
-      "bio": "Marina Abramović (b. 1946, Belgrade) has pioneered the use of performance as a visual art form since the early 1970s, making her body both subject and medium; exploring physical and mental limits, endurance, pain, and the possibility of spiritual transformation. She studied at the Academy of Fine Arts in Belgrade and completed postgraduate studies in Zagreb, before conceiving a series of visceral performance pieces that used her body as a site of artistic and spiritual exploration. From 1975 to 1988 she collaborated with the German artist Ulay on works exploring duality and gender identity, ending their partnership in a symbolic performance in which each walked the Great Wall of China from opposite ends to meet in the middle. In 2023 she became the first female artist to host a major solo exhibition in the Main Galleries of the Royal Academy of Arts in London. She has referred to herself as \"the grandmother of performance art\",",
-      "discipline": "Performance Art / Conceptual Art",
-      "name": "Marina Abramović",
-      "id": "marina-abramović",
       "location": "New York, USA",
-      "image": "/images/marina_abromovich.jpg"
+      "image": "",
+      "bio": "KAWS, born Brian Donnelly, is an American artist and designer who has created his own distinct visual language. Beginning with street art in the 1990s, his practice now spans painting, sculpture, and large-scale installations."
     },
     {
-      "id": "invader",
-      "name": "Invader",
-      "bio": "Invader (b. 1969, Paris) is an anonymous French street artist and graduate of a Parisian École des Beaux-Arts, who describes himself as an Unidentified Free Artist (UFA). His identity perpetually hidden behind masks and digital pixelations. Beginning in the late 1990s, he started cementing ceramic tile mosaics of pixelated characters from the 1978 Space Invaders arcade game across the streets of Paris, before expanding his roster to include Pac-Man ghosts and other 8-bit characters. Works that now adorn cities around the world, from Los Angeles to Kathmandu. As of 2020, his creations can be found in 79 cities across 20 countries, comprising over 3,800 individual works and more than 1.5 million ceramic tiles. Beyond public space, he has developed \"Rubikcubism\", a series of indoor works constructed entirely from Rubik's Cubes, and his gallery works regularly command six-figure sums.",
-      "discipline": "Mosaic Art",
-      "image": "/images/invader.jpg"
-    },
-    {
-      "id": "ben-eine",
-      "name": "Ben Eine",
-      "discipline": "Typographic Art",
-      "location": "London, UK",
-      "bio": "Ben Eine (born Ben Flynn, b. 1970, London) is a British street artist who began his career as a graffiti writer, tagging the streets of his home city before developing the distinctive typographic style he is known for today. He later co-founded the cult screen print company Pictures on Walls (POW) with Banksy, producing hand-pulled prints for artists including Jamie Hewlett, David Shrigley, and Mode 2. He is regarded as a forerunner in the exploration of typography in contemporary street art, best known for his oversized, brightly coloured letterforms on shop shutters, most famously the full alphabet he painted onto Middlesex Street in East London, known internationally as Alphabet Street. In 2010, British Prime Minister David Cameron gifted one of Eine's paintings, Twenty First Century City, to President Barack Obama during a state visit, catapulting Eine to international fame and selling out his subsequent San Francisco solo show before it opened. His work is held in the collection of the Victoria and Albert Museum, and he lives and works in London.",
-      "image": "/images/ben_eine.jpg"
-    },
-    {
-      "id": "oli-epp",
-      "name": "Oli Epp",
-      "discipline": "Contemporary Painting",
-      "image": "/images/oli_epp.jpg",
-      "bio": "Oli Epp (b. 1994, London) is a contemporary painter whose tragicomic works explore identity, consumerism, addiction, and anxiety in the digital age.  Working with a combination of airbrush, oil, and acrylic to create his flat, graphic style, which he describes as \"Post-Digital Pop\", Epp depicts contorted, faceless figures surrounded by the slick pleasures of contemporary material culture: money, cigarettes, logos, and fast food.  He received his BA in Fine Art from the City & Guilds of London Art School and has exhibited in Paris, New York, London, Berlin, and Los Angeles, with institutional shows at the Schlossmuseum Linz and the Museum of Fine Arts Leipzig.  His work is held in the collections of the V&A, the Museo Nacional Thyssen-Bornemisza, and the Museum of Modern Art, Paris.",
-      "location": "London, UK"
-    },
-    {
-      "bio": "Sweet Toof is an anonymous British graffiti and street artist who began tagging at age 13, saving lunch money to buy cheap spray cans, before going on to graduate with a master's degree from the Royal Academy of Arts. A member of the Burning Candy Crew, he began painting the streets of East London, where his signature motif, a set of grinning pearly white teeth behind bright pink gums, became one of the most recognisable images in the city. Equally disciplined in traditional painting and printmaking, Sweet Toof masterfully blends urban detritus with bygone decadence, fusing ancient methods with modern materials to create work that is at once iconoclastic and deeply rooted in art history. His work featured in Banksy's documentary Exit Through the Gift Shop and is held in the permanent collection of the Victoria and Albert Museum.",
-      "discipline": "Urban Contemporary",
-      "id": "sweet-toof",
-      "name": "Sweet Toof",
-      "image": "/images/sweet_toof.jpg"
-    },
-    {
-      "id": "shepard-fairey",
-      "name": "Shepard Fairey",
-      "discipline": "Urban Contemporary",
-      "image": "/images/shepard_fairey.jpg",
-      "bio": "Shepard Fairey (b. 1970, Charleston, South Carolina) is an American graphic artist and social activist at the forefront of the street art movement, whose work blurs the boundary between traditional and commercial art through type and image, communicating social critique via prints, murals, stickers, and posters in public spaces. He graduated from the Rhode Island School of Design in 1992, and in 1989 launched the André the Giant Has a Posse sticker campaign, the foundation for his seminal Obey series. He is perhaps best known for the Obama Hope poster of 2008, widely considered the most successful presidential campaign poster ever created, and his works are held in the permanent collections of MoMA, the Smithsonian's National Portrait Gallery, the Victoria and Albert Museum, and LACMA. He lives and works in Los Angeles."
-    },
-    {
-      "bio": "David Shrigley OBE (b. 1968, Macclesfield) is a British artist best known for his distinctive drawing style and satirical commentary on everyday situations and human interactions. His quick-witted drawings and hand-rendered texts are typically deadpan in their humour, capturing chance utterings, overheard conversations, and the compulsive habits of everyday life. While drawing is at the centre of his practice, Shrigley also works across sculpture, large-scale installation, animation, painting, photography, and music, most notably his monumental sculpture Really Good, unveiled on the Fourth Plinth in Trafalgar Square in 2016. His works are held in the collections of MoMA New York, the Art Institute of Chicago, the Centre Pompidou, the Tate, and the Thyssen-Bornemisza Contemporary Art Foundation, and he was shortlisted for the Turner Prize in 2013.",
-      "location": "Brighton, UK",
-      "id": "david-shrigley",
-      "name": "David Shrigley",
-      "discipline": "Illustration",
-      "image": "/images/david_shrigley.jpg"
-    },
-    {
-      "id": "dran",
-      "name": "Dran",
-      "bio": "Dran (b. 1979, Toulouse) is a French artist frequently referred to as \"the French Banksy\" for his satirical and sharp critique of contemporary society. As a child he copied images from comics; by 13 he was painting on walls, before going on to study at the École des Beaux-Arts in Toulouse. His work unpacks themes of creativity and freedom of expression through surrealistic characters (many of them children carrying crayons) alongside popes, riot police, clowns, and pop culture icons such as Pinocchio, Tintin, and the Mona Lisa. A member of the Da Mental Vaporz crew (DMV) since 1999, Dran works across graffiti, illustration, stencil, painting, silkscreen, and photography. He chooses to stay out of the media spotlight entirely, letting the work speak for itself, a quality that has only deepened his cult following among collectors.",
-      "discipline": "Urban Contemporary / Illustration",
-      "location": "France",
-      "image": "/images/dran.jpg"
-    },
-    {
-      "bio": "Gary Stranger is a largely self-taught British artist who took up graffiti in 1996 and went on to become a member of the MSK street art crew, before merging the aesthetics of street art with his deep interest in typography in the late 2000s. Recognised for their minimal aesthetic, precise freehand execution, and bold colour choices, his works typically depict a single word or phrase in a three-dimensional typographic style, produced across murals, studio paintings, works on paper, and sculpture. He is co-founder, alongside Pref, of Typograffic Circle, a collective of artists working at the intersection of graffiti and typographic design, taking placement and individual style from the street and combining it with the constraints of type-making. His work was included in the Royal Academy of Arts' 2020 Winter Exhibition, and in 2025 he was featured in Graffitecture: Typographic Blueprints at STRAAT Museum, Amsterdam.",
-      "discipline": "Typographic Art",
-      "image": "/images/gary_stranger.jpg",
-      "id": "gary-stranger",
-      "name": "Gary Stranger"
-    },
-    {
-      "id": "jason-revok",
-      "discipline": "Contemporary Abstraction",
-      "name": "Jason Revok",
-      "image": "/images/jason_revok.jpg",
-      "bio": "Jason Revok (b. 1977, Riverside, California) is a self-taught artist whose practice began in the Los Angeles graffiti scene of the 1990s, where he built a reputation as one of the most prolific writers of his generation before pivoting to an ambitious studio practice driven by minimalism and post-painterly abstraction. Refusing to be limited by his early recognition, Revok allows only certain elements from graffiti culture to transition to his contemporary work (modest materials, industrial tools, ingenuity) while his proclivity towards systematic yet imperfect mark-making has become the driving force behind his practice. In 2011 he relocated to Detroit, where he founded the Detroit Beautification Project, and in 2022 his solo exhibition was mounted at the Museum of Contemporary Art Detroit (MOCAD).",
-      "location": "California, USA"
-    },
-    {
-      "bio": "Christian Rex van Minnen (b. 1980, Providence, Rhode Island) is a largely self-taught painter who applies the indirect layering and glazing techniques of the Old Masters to grotesque, otherworldly imagery — bringing elegant, illuminated surfaces into deliberate tension with deformed bodies and macabre subject matter. His absurdist canvases revel in the grotesque and violent, featuring subjects riddled with sores that call to mind horror movie monsters, while neon-hued floral arrangements are embedded with rotting skulls — a practice informed by an artistic lineage spanning Dutch vanitas painting to the magical realism of Ivan Albright. He received his BA from Regis University in 2002 and held a residency at Anderson Ranch Arts Center in 2011. His work is held in the permanent collection of the Denver Art Museum.",
-      "discipline": "Contemporary Painting / Neo-Surrealism",
-      "location": "California, USA",
-      "image": "/images/rex_van_minnen.jpg",
-      "name": "Christian Rex van Minnen",
-      "id": "christian-rex-van-minnen"
-    },
-    {
-      "bio": "FAILE is the Brooklyn-based multimedia collaboration of Patrick McNeil (b. 1975, Edmonton) and Patrick Miller (b. 1976, Minneapolis), formed in 1999. Their name is an anagram of their original pseudonym \"A Life,\" reflecting a philosophy of transformation and the belief that failure is a necessary step toward more enlightened art and life. Their practice involves a frenetic collaging of appropriated materials (graphic novels, Asian and American culture, typography) that references the work of Pop artists like Richard Hamilton and Roy Lichtenstein, deployed initially through pioneering wheatpasting and stenciling on city streets worldwide before expanding into paintings, prints, and sculpture. An important show at Tate Modern in 2008 marked their transition into the institutional art world, and in 2015 they were commissioned for a major installation in Times Square, New York.",
+      "id": "basquiat",
+      "name": "Jean-Michel Basquiat",
+      "discipline": "Neo-Expressionism",
       "location": "New York, USA",
-      "image": "/images/faile.jpg",
-      "id": "faile",
-      "name": "Faile",
-      "discipline": "Urban Contemporary / Pop Art"
-    },
-    {
-      "bio": "Cleon Peterson (b. 1973, Seattle) is an American artist best known for large-scale paintings and murals depicting stylized figures in violent conflict, exploring themes of power, domination, and societal collapse. He experienced a troubled youth — dropping out of high school, becoming a skateboard artist, and surviving addiction and incarceration — before embarking definitively on a career in the arts. He earned a BFA from ArtCenter College of Design in Pasadena and an MFA from Cranbrook Academy of Art, before beginning his career as a graphic designer at Shepard Fairey's Studio Number One. Drawing on influences including Leon Golub, Paul McCarthy, and the aesthetics of Greek pottery and political propaganda posters, his high-contrast compositions of black, white, red, and yellow figures pack scenes of raw, authoritarian violence. In 2016 he created the first-ever mural painted directly beneath the Eiffel Tower for Nuit Blanche Paris",
-      "discipline": "Contemporary / Urban Contemporary",
-      "location": "California, USA",
-      "name": "Cleon Peterson",
-      "id": "cleon-peterson",
-      "image": "/images/cleon_peterson.jpg"
-    },
-    {
-      "bio": "Maya Hayuk (b. 1969, Baltimore) is an American artist living and working in Brooklyn, best known for the bold geometric patterns she employs in large-scale murals. She received a BFA from Massachusetts College of Art and Design and has also studied at the University of Odesa in Ukraine and the Skowhegan School of Painting and Sculpture. Her vibrant abstractions draw variously on Ukrainian Easter eggs, Mexican woven blankets, mandalas, holograms, and Rorschach blots, built up using acrylic, ink, glitter, spray paint, watercolour, and tape into kaleidoscopic geometries across public walls and canvases. She has created commissions for UCLA's Hammer Museum, the Bonnefanten Museum in Maastricht, and Socrates Sculpture Park in New York, and has produced album covers and stage sets for M.I.A., TV on the Radio, The Flaming Lips, and the Beastie Boys.",
-      "discipline": "Urban Contemporary / Abstract",
-      "image": "/images/maya_hayuk.jpg",
-      "name": "Maya Hayuk",
-      "id": "maya-hayuk"
-    },
-    {
-      "bio": "Robert Del Naja (b. 1965, Bristol), known as 3D, emerged as a graffiti artist in the Bristol collective The Wild Bunch in the 1980s. One of the first British artists to make stencil graffiti a language, with his work appearing in Henry Chalfant's seminal Spraycan Art (1987) as one of the few UK artists featured. He went on to co-found Massive Attack, whose 1991 debut Blue Lines is widely credited with defining trip hop, and received the Ivor Novello Award for Outstanding Contribution to British Music in 2009. His visual art is inseparable from Massive Attack's identity, designing album covers, tour visuals, and immersive live shows combining film, LED installation, and political content, while his standalone War Paint series, exhibited at Lazarides Gallery, addressed global conflict and power. He has long been the subject of speculation that he is Banksy, which he has denied.",
-      "image": "/images/robert_del_naja_3d.jpg",
-      "location": "Bristol, UK",
-      "id": "robert-del-naja-3d",
-      "name": "Robert Del Naja / 3D",
-      "discipline": "Urban / Conceptual Art"
-    },
-    {
-      "id": "paul-insect",
-      "name": "Paul Insect",
-      "image": "/images/paul_insect.jpg",
-      "bio": "Paul Insect (b. 1971, south-east England) studied graphic design at Hastings and Salisbury Art Colleges before founding the Insect collective in 1996, which began by creating flyers for raves and parties in East London — an early signal of his deep roots in the underground scene. Emerging through Pictures on Walls alongside Banksy, he quickly established a reputation for blending DIY aesthetics with bold graphic experimentation, collaborating on Santa's Ghetto, the Cans Festival, and Banksy's Dismaland. His mixed-media portraits, faces obscured behind swabs of primary colour, bold patterns, and collaged elements draw on Dada, Pop Art, and graffiti, exploring the tension between what we reveal and what we conceal. His 2007 solo show Bullion at Lazarides Gallery was reportedly bought in its entirety by Damien Hirst before it opened, catapulting him into the front rank of British urban art. He remains anonymous and lives and works in London.",
-      "discipline": "Urban / Pop Art",
-      "location": "London, UK"
-    },
-    {
-      "bio": "D*Face is the alias of Dean Stockton (b. 1978, London), a British street artist whose bright, graphic practice draws on pop art, consumerism, and the visual language of skate and punk culture. As a teenager he discovered New York subway graffiti through Henry Chalfant's publications and was shaped by skateboarding culture and Thrasher magazine's skateboard deck graphics, leading him to the DIY mentality of stickers and street intervention. After studying illustration and design and working briefly as a freelance illustrator, he devoted himself to street art in the early 2000s, building a visual language that subverts pop art and consumer culture — reinterpreting cultural icons such as Marilyn Monroe, Andy Warhol, and the Queen in a register that is at once playful and critical. In 2005 he founded StolenSpace Gallery in Shoreditch, London's leading urban art space, and has since exhibited in New York, Los Angeles, Miami, Tokyo, Dubai, and beyond. Commercial collaborations have included the cover art for Blink-182's album California and work with David Beckham's Haig Club whisky.",
-      "location": "London, UK",
-      "discipline": "Urban Contemporary / Pop Art",
-      "name": "D*Face",
-      "id": "dface",
-      "image": "/images/dface.jpg"
-    },
-    {
-      "id": "stik",
-      "name": "Stik",
-      "discipline": "Urban Contemporary",
-      "location": "London, UK",
-      "image": "/images/stik.jpg",
-      "bio": "Stik (b. 1979, London) is a self-taught British street artist who spent several years living in homeless shelters before beginning to paint unofficial murals on the streets of Hackney in 2001. His signature figures, composed of just six lines and two dots, draw subtle influence from Japanese kanji characters, achieving a neutrality that allows them to carry enormous emotional weight. Each work is conceived as a donation to the community, addressing homelessness, LGBTQ+ rights, and social housing; Stik only authorises primary market sales on the condition that all proceeds go to charity. He has collaborated with Amnesty International, recreated Old Master paintings for Dulwich Picture Gallery, and in 2022 a work sold at Bonhams for £247,000."
-    },
-    {
-      "id": "piet parra",
-      "name": "Piet Parra",
-      "bio": "Parra (born Pieter Janssen, 1976, Amsterdam) came up through skateboarding before transitioning into art direction for the Dutch skateboard brand Colorblind, where he designed logos, board graphics, and flyers for parties and music venues — the hand-drawn style he developed there becoming the foundation of everything that followed. His fine art practice features flat, saturated planes of bold colour and faceless female characters in abstracted domestic scenes, drawing comparisons to Tom Wesselmann and Matisse, alongside his earlier signature beaked, bird-like figures. His \"Post Pop\" aesthetic draws on Pop Art and the experimental graphics of the 1960s, and extends across painting, sculpture, illustration, and his clothing line ByParra. His work has been acquired by the San Francisco Museum of Modern Art and exhibited in New York, Los Angeles, Berlin, Hong Kong, London, and Amsterdam.",
-      "location": "Amsterdam, The Netherlands",
-      "discipline": "Urban Contemporary",
-      "image": "/images/piet_parra.jpg"
-    },
-    {
-      "id": "ralph-steadman",
-      "name": "Ralph Steadman",
-      "discipline": "Illustration / Print",
-      "image": "/images/ralph_steadman.jpg",
-      "bio": "Ralph Steadman (b. 1936, Wallasey) is a Welsh illustrator and cartoonist who trained at East Ham Technical College and the London College of Printing, doing freelance work for Punch, Private Eye, The Daily Telegraph, and Rolling Stone. Inspired by George Grosz and John Heartfield, he developed a distinctive style defined by energetic ink splatters and grotesque, flamboyant figures; a visual language inseparable from his 40-year collaboration with Hunter S. Thompson, which produced the defining images of Fear and Loathing in Las Vegas and helped birth gonzo journalism. After regretting the sale of his Fear and Loathing originals for $75, Steadman largely refused to sell original artwork, declaring \"if anyone owns a Steadman original, it's stolen.\" He has also illustrated Alice in Wonderland, Animal Farm, and Treasure Island, and created the Breaking Bad DVD box set artwork"
-    },
-    {
-      "id": "hush",
-      "name": "Hush",
-      "bio": "Hush (b. 1973, Newcastle upon Tyne) is a British artist who developed an early affinity for visual culture amid the Acid House scene, designing flyers before pursuing formal training at the Newcastle School of Art and Design, graduating in 1995 with a degree in graphic design and illustration. His career pivoted decisively around 2006 when he committed fully to painting, departing from graphic design roles at advertising agencies in London and Hong Kong. Extensive time living in Asia (first Hong Kong, then Japan, where he worked as a toy designer) immersed him in Japanese visual culture and sparked a fascination with the representation of women and the collision of Eastern and Western aesthetics. In his signature works, Hush superimposes layers of vibrant wheatpaste patterns and graffiti onto delicate stencilled portraits of women, fusing the iconography of the geisha with the raw energy of street art. Has been named one of the top 20 emerging artists by The Independent.",
-      "discipline": "Urban Contemporary / Mixed Media",
-      "image": "/images/hush.jpg",
-      "location": "Newcastle, UK"
-    },
-    {
-      "id": "pure-evil",
-      "name": "Pure Evil",
-      "discipline": "Urban / Pop Art",
-      "bio": "Pure Evil is the alias of Charles Uzzell-Edwards (b. 1968, South Wales), the son of Welsh painter John Uzzell Edwards. After studying fashion and graphics in London, he left for California in 1990, where he designed for the influential streetwear label Anarchic Adjustment, became involved in the San Francisco electronic music scene, and was first exposed to West Coast graffiti, before returning to London with a spray can and a new identity. There he became involved in Banksy's pop-up Santa's Ghetto concept and began producing prints for Pictures on Walls, while his now-iconic images of fanged vampire bunnies appeared on streets worldwide. He is best known for his Nightmare Series; Warhol-esque portraits of famous figures depicted with a distinctive teardrop of dark paint beneath one eye, exploring lost innocence and the darker side of celebrity culture.",
-      "location": "London, UK",
-      "image": "/images/pure_evil.jpg"
-    },
-    {
-      "bio": "Mue Bon (b. Thailand) grew up in the slums of Thonburi, Bangkok, studied art at the Rajamangala Institute of Technology, and graduated with honours in 2005. His alias translates as \"fidgety hands\", a nod to his relentless mark-making, and he was a founding figure of Thailand's first generation of street artists, painting at a time when the practice was neither widely known nor respected in his country. He has created a cast of signature characters over the years, including a cartoon bird named PUKRUK, a girl behind a mask, and Mr. TV, a figure with a television screen for a face, all carrying commentary on wealth disparity, media propaganda, and anti-war activism. His style and ability to translate street work into detailed and vibrant gallery paintings, sculptures, and installations sets him apart and puts him at the forefront of Asian street art,",
-      "image": "/images/mue_bon.jpg",
-      "location": "Bangkok, Thailand",
-      "discipline": "Urban Contemporary",
-      "name": "Mue Bon",
-      "id": "mue-bon"
-    },
-    {
-      "id": "james-joyce",
-      "name": "James Joyce",
-      "discipline": "Urban Contemporary / Graphic",
-      "bio": "James Joyce was born in Wolverhampton and studied at Walsall College of Art and Kingston University. Working across painting, screen printing, and drawing, he has developed a striking visual language built on typographic forms and everyday symbols; dismantling and reconfiguring familiar imagery to create something that is simultaneously recognisable and fundamentally altered. His rotating video installation Perseverance in the Face of Absurdity was a central piece in Banksy's landmark 2015 exhibition Dismaland, chosen by Banksy as the signature image for the event. His commercial clients include Apple, Nike, The Guardian, and the New York Times, and his work has been exhibited at the Royal Academy of Arts and Saatchi Gallery. ",
-      "image": "/images/james_joyce.jpg"
-    },
-    {
-      "bio": "Mark Drew is a Tokyo-based Australian artist best known for his mash-ups of early 1990s hip-hop lyrics with panels from vintage Peanuts comic strips — \"sampling\" visual culture in the same way that hip-hop producers layer borrowed beats into new compositions. Originally from Sydney, Drew co-founded China Heights Gallery in 2004 before relocating to Tokyo in 2009, where he continues to build a body of work that fuses music culture, comics, and graphic design. He debuted this approach in 2013 with a solo show in Sydney titled Deez Nuts, featuring lyrics by Jay-Z, Nas, Wu-Tang Clan, and the Notorious B.I.G.; his works are now in private collections worldwide, including that of Drake. His prints have been exhibited at Subliminal Projects in Los Angeles, StolenSpace Gallery in London, and Harman Projects in New York. ",
-      "location": "Australia",
-      "name": "Mark Drew",
-      "id": "mark-drew",
-      "discipline": "Pop Art / Contemporary Print",
-      "image": "/images/mark_drew.jpg"
+      "image": "",
+      "bio": "Jean-Michel Basquiat rose to fame in 1980s New York, moving from graffiti to gallery with extraordinary speed. His work remains among the most sought-after in the blue-chip contemporary market."
     }
   ],
   "journal": [
