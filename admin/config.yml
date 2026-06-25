@@ -24,6 +24,11 @@ collections:
               - { label: "ID (no spaces, e.g. banksy-girl)", name: "id", widget: "string" }
               - { label: "Title", name: "title", widget: "string" }
               - { label: "Artist", name: "artist", widget: "string" }
+              - label: "Collaborators (optional, for joint works)"
+                name: "collaborators"
+                widget: "list"
+                required: false
+                field: { label: "Artist name", name: "collaborator", widget: "string" }
               - { label: "Year", name: "year", widget: "string" }
               - label: "Category"
                 name: "category"

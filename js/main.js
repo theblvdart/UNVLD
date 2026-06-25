@@ -14,7 +14,19 @@ function fmtDate(str) {
   return new Date(str).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 }
 
-/* ── WORK MODAL ───────────────────────────────────────── */
+/* ── COLLABORATION HELPERS ────────────────────────────── */
+function workBelongsToArtist(w, artistName) {
+  if (w.artist === artistName) return true;
+  if (w.collaborators && w.collaborators.includes(artistName)) return true;
+  return false;
+}
+
+function displayArtist(w) {
+  if (!w.collaborators || !w.collaborators.length) return w.artist;
+  return [w.artist, ...w.collaborators].join(' & ');
+}
+
+
 function openModal(html) {
   const backdrop = document.getElementById('modal-backdrop');
   const inner = document.getElementById('modal-inner');
@@ -51,7 +63,7 @@ function workModalHTML(w) {
         ${w.image ? `<img src="${w.image}" alt="${w.title}" loading="lazy">` : '<div class="work-modal__image-placeholder"></div>'}
       </div>
       <div class="work-modal__info">
-        <p class="work-modal__artist">${w.artist || ''}</p>
+        <p class="work-modal__artist">${displayArtist(w)}</p>
         <h2 class="work-modal__title">${w.title}</h2>
         <dl class="work-modal__specs">
           ${specs.map(([k,v]) => `<div><dt class="spec__key">${k}</dt><dd class="spec__val">${v}</dd></div>`).join('')}
@@ -90,7 +102,7 @@ function openArtistPanel(a) {
 
   const artistWorks = [];
   (_store.works || []).forEach((w, i) => {
-    if (w.artist === a.name) artistWorks.push({ w, i });
+    if (workBelongsToArtist(w, a.name)) artistWorks.push({ w, i });
   });
 
   const worksSection = artistWorks.length
@@ -142,7 +154,7 @@ function workCard(w, i) {
       ${w.image ? `<img src="${w.image}" alt="${w.title}" loading="lazy">` : `<div class="work-card__placeholder"><span>${w.title}</span></div>`}
     </div>
     <div class="work-card__meta">
-      <p class="work-card__artist">${w.artist || ''}</p>
+      <p class="work-card__artist">${displayArtist(w)}</p>
       <p class="work-card__title">${w.title}</p>
       <div class="work-card__foot">
         <span class="work-card__year">${w.year || ''}</span>
