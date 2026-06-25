@@ -1,73 +1,63 @@
 {
   "works": [
     {
-      "id": "banksy-girl-with-balloon",
-      "title": "Girl with Balloon",
+      "provenance": "Private collection, London",
       "artist": "Banksy",
+      "price": "£45,000",
+      "available": true,
+      "dimensions": "50 × 70 cm",
+      "medium": "Screen print on paper",
+      "title": "Girl with Balloon",
+      "id": "banksy-girl-with-balloon",
+      "image": "",
+      "description": "One of Banksy's most iconic images, this signed AP edition represents a seminal moment in the street art market.",
       "year": "2004",
       "category": "Edition",
-      "medium": "Screen print on paper",
-      "dimensions": "50 × 70 cm",
-      "edition": "AP edition, signed",
-      "provenance": "Private collection, London",
-      "image": "",
-      "price": "£45,000",
-      "description": "One of Banksy's most iconic images, this signed AP edition represents a seminal moment in the street art market.",
-      "available": true
+      "edition": "AP edition, signed"
     },
     {
-      "id": "kaws-companion",
-      "title": "COMPANION (Passing Through)",
-      "artist": "KAWS",
-      "year": "2013",
-      "category": "Rare Collectible",
-      "medium": "Cast vinyl",
-      "dimensions": "28 cm",
-      "edition": "Open edition",
       "provenance": "Purchased directly, 2013",
+      "artist": "KAWS",
+      "available": true,
+      "dimensions": "28 cm",
+      "medium": "Cast vinyl",
+      "title": "COMPANION (Passing Through)",
+      "id": "kaws-companion",
       "image": "",
       "description": "A landmark piece in KAWS's sculptural practice, the Passing Through Companion has become one of the defining objects of urban contemporary collecting.",
-      "available": true
+      "year": "2013",
+      "category": "Rare Collectible",
+      "edition": "Open edition"
     },
     {
-      "id": "basquiat-untitled",
-      "title": "Untitled (Head)",
-      "artist": "Jean-Michel Basquiat",
-      "year": "1982",
-      "category": "Original",
-      "medium": "Acrylic and oil paintstick on canvas",
-      "dimensions": "120 × 100 cm",
-      "edition": "",
       "provenance": "Estate of the artist; Private collection",
+      "artist": "Jean-Michel Basquiat",
+      "available": false,
+      "dimensions": "120 × 100 cm",
+      "medium": "Acrylic and oil paintstick on canvas",
+      "title": "Untitled (Head)",
+      "id": "basquiat-untitled",
       "image": "",
       "description": "A rare original from Basquiat's most celebrated period, with full provenance documentation.",
-      "available": false
+      "year": "1982",
+      "category": "Original",
+      "edition": ""
     }
   ],
   "artists": [
     {
-      "id": "banksy",
-      "name": "Banksy",
-      "discipline": "Street Art",
-      "location": "Bristol, UK",
-      "image": "",
-      "bio": "Banksy is an anonymous England-based street artist, political activist, and film director whose satirical street art and subversive epigrams combine dark humour with graffiti executed in a distinctive stencilling technique."
+      "id": "invader",
+      "name": "Invader",
+      "bio": "Invader (b. 1969, Paris) is an anonymous French street artist and graduate of a Parisian École des Beaux-Arts, who describes himself as an Unidentified Free Artist (UFA) — his identity perpetually hidden behind masks and digital pixelations. Beginning in the late 1990s, he started cementing ceramic tile mosaics of pixelated characters from the 1978 Space Invaders arcade game across the streets of Paris, before expanding his roster to include Pac-Man ghosts and other 8-bit characters, works that now adorn cities around the world, from Los Angeles to Kathmandu. As of 2020, his creations can be found in 79 cities across 20 countries, comprising over 3,800 individual works and more than 1.5 million ceramic tiles. Beyond public space, he has developed \"Rubikcubism\" (a series of indoor works constructed entirely from Rubik's Cubes) and his gallery works regularly command six-figure sums.",
+      "image": "/images/invader.jpg",
+      "discipline": "Mosaic Art"
     },
     {
-      "id": "kaws",
-      "name": "KAWS",
-      "discipline": "Urban Contemporary",
-      "location": "New York, USA",
-      "image": "",
-      "bio": "KAWS, born Brian Donnelly, is an American artist and designer who has created his own distinct visual language. Beginning with street art in the 1990s, his practice now spans painting, sculpture, and large-scale installations."
-    },
-    {
-      "id": "basquiat",
-      "name": "Jean-Michel Basquiat",
-      "discipline": "Neo-Expressionism",
-      "location": "New York, USA",
-      "image": "",
-      "bio": "Jean-Michel Basquiat rose to fame in 1980s New York, moving from graffiti to gallery with extraordinary speed. His work remains among the most sought-after in the blue-chip contemporary market."
+      "id": "shepard-fairey",
+      "name": "Shepard Fairey",
+      "bio": "Shepard Fairey (b. 1970, Charleston, South Carolina) is an American graphic artist and social activist at the forefront of the street art movement, whose work blurs the boundary between traditional and commercial art through type and image, communicating social critique via prints, murals, stickers, and posters in public spaces. He graduated from the Rhode Island School of Design in 1992, and in 1989 launched the André the Giant Has a Posse sticker campaign — the foundation for his seminal Obey series. He is perhaps best known for the Obama Hope poster of 2008, widely considered the most successful presidential campaign poster ever created, and his works are held in the permanent collections of MoMA, the Smithsonian's National Portrait Gallery, the Victoria and Albert Museum, and LACMA.",
+      "image": "/images/shepard_fairey.jpg",
+      "discipline": "Urban Contemporary"
     }
   ],
   "journal": [
