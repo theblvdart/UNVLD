@@ -116,6 +116,7 @@ function openArtistPanel(a) {
   document.body.style.overflow = 'hidden';
   panel.scrollTop = 0;
   closeBtn.onclick = closeArtistPanel;
+  initReveals();
 }
 
 function closeArtistPanel() {
