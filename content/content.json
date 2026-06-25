@@ -298,20 +298,20 @@
       "image": "/images/dface.jpg"
     },
     {
-      "id": "piet parra",
-      "name": "Piet Parra",
-      "bio": "Parra (born Pieter Janssen, 1976, Amsterdam) came up through skateboarding before transitioning into art direction for the Dutch skateboard brand Colorblind, where he designed logos, board graphics, and flyers for parties and music venues — the hand-drawn style he developed there becoming the foundation of everything that followed. His fine art practice features flat, saturated planes of bold colour and faceless female characters in abstracted domestic scenes, drawing comparisons to Tom Wesselmann and Matisse, alongside his earlier signature beaked, bird-like figures. His \"Post Pop\" aesthetic draws on Pop Art and the experimental graphics of the 1960s, and extends across painting, sculpture, illustration, and his clothing line ByParra. His work has been acquired by the San Francisco Museum of Modern Art and exhibited in New York, Los Angeles, Berlin, Hong Kong, London, and Amsterdam.",
-      "location": "Amsterdam, The Netherlands",
-      "discipline": "Urban Contemporary",
-      "image": "/images/piet_parra.jpg"
-    },
-    {
       "id": "stik",
       "name": "Stik",
       "discipline": "Urban Contemporary",
       "location": "London, UK",
       "image": "/images/stik.jpg",
       "bio": "Stik (b. 1979, London) is a self-taught British street artist who spent several years living in homeless shelters before beginning to paint unofficial murals on the streets of Hackney in 2001. His signature figures, composed of just six lines and two dots, draw subtle influence from Japanese kanji characters, achieving a neutrality that allows them to carry enormous emotional weight. Each work is conceived as a donation to the community, addressing homelessness, LGBTQ+ rights, and social housing; Stik only authorises primary market sales on the condition that all proceeds go to charity. He has collaborated with Amnesty International, recreated Old Master paintings for Dulwich Picture Gallery, and in 2022 a work sold at Bonhams for £247,000."
+    },
+    {
+      "id": "piet parra",
+      "name": "Piet Parra",
+      "bio": "Parra (born Pieter Janssen, 1976, Amsterdam) came up through skateboarding before transitioning into art direction for the Dutch skateboard brand Colorblind, where he designed logos, board graphics, and flyers for parties and music venues — the hand-drawn style he developed there becoming the foundation of everything that followed. His fine art practice features flat, saturated planes of bold colour and faceless female characters in abstracted domestic scenes, drawing comparisons to Tom Wesselmann and Matisse, alongside his earlier signature beaked, bird-like figures. His \"Post Pop\" aesthetic draws on Pop Art and the experimental graphics of the 1960s, and extends across painting, sculpture, illustration, and his clothing line ByParra. His work has been acquired by the San Francisco Museum of Modern Art and exhibited in New York, Los Angeles, Berlin, Hong Kong, London, and Amsterdam.",
+      "location": "Amsterdam, The Netherlands",
+      "discipline": "Urban Contemporary",
+      "image": "/images/piet_parra.jpg"
     },
     {
       "id": "hush",
