@@ -274,6 +274,14 @@
       "id": "maya-hayuk"
     },
     {
+      "id": "paul-insect",
+      "name": "Paul Insect",
+      "image": "/images/paul_insect.jpg",
+      "bio": "Paul Insect (b. 1971, south-east England) studied graphic design at Hastings and Salisbury Art Colleges before founding the Insect collective in 1996, which began by creating flyers for raves and parties in East London — an early signal of his deep roots in the underground scene. Emerging through Pictures on Walls alongside Banksy, he quickly established a reputation for blending DIY aesthetics with bold graphic experimentation, collaborating on Santa's Ghetto, the Cans Festival, and Banksy's Dismaland. His mixed-media portraits, faces obscured behind swabs of primary colour, bold patterns, and collaged elements draw on Dada, Pop Art, and graffiti, exploring the tension between what we reveal and what we conceal. His 2007 solo show Bullion at Lazarides Gallery was reportedly bought in its entirety by Damien Hirst before it opened, catapulting him into the front rank of British urban art. He remains anonymous and lives and works in London.",
+      "discipline": "Urban / Pop Art",
+      "location": "London, UK"
+    },
+    {
       "bio": "D*Face is the alias of Dean Stockton (b. 1978, London), a British street artist whose bright, graphic practice draws on pop art, consumerism, and the visual language of skate and punk culture. As a teenager he discovered New York subway graffiti through Henry Chalfant's publications and was shaped by skateboarding culture and Thrasher magazine's skateboard deck graphics, leading him to the DIY mentality of stickers and street intervention. After studying illustration and design and working briefly as a freelance illustrator, he devoted himself to street art in the early 2000s, building a visual language that subverts pop art and consumer culture — reinterpreting cultural icons such as Marilyn Monroe, Andy Warhol, and the Queen in a register that is at once playful and critical. In 2005 he founded StolenSpace Gallery in Shoreditch, London's leading urban art space, and has since exhibited in New York, Los Angeles, Miami, Tokyo, Dubai, and beyond. Commercial collaborations have included the cover art for Blink-182's album California and work with David Beckham's Haig Club whisky.",
       "location": "London, UK",
       "discipline": "Urban Contemporary / Pop Art",
@@ -304,14 +312,6 @@
       "id": "mark-drew",
       "discipline": "Pop Art / Contemporary Print",
       "image": "/images/mark_drew.jpg"
-    },
-    {
-      "id": "paul-insect",
-      "name": "Paul Insect",
-      "image": "/images/paul_insect.jpg",
-      "bio": "Paul Insect (b. 1971, south-east England) studied graphic design at Hastings and Salisbury Art Colleges before founding the Insect collective in 1996, which began by creating flyers for raves and parties in East London — an early signal of his deep roots in the underground scene. Emerging through Pictures on Walls alongside Banksy, he quickly established a reputation for blending DIY aesthetics with bold graphic experimentation, collaborating on Santa's Ghetto, the Cans Festival, and Banksy's Dismaland. His mixed-media portraits, faces obscured behind swabs of primary colour, bold patterns, and collaged elements draw on Dada, Pop Art, and graffiti, exploring the tension between what we reveal and what we conceal. His 2007 solo show Bullion at Lazarides Gallery was reportedly bought in its entirety by Damien Hirst before it opened, catapulting him into the front rank of British urban art. He remains anonymous and lives and works in London.",
-      "discipline": "Urban / Pop Art",
-      "location": "London, UK"
     },
     {
       "id": "pure-evil",
