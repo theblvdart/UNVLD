@@ -1,47 +1,20 @@
 {
   "works": [
     {
-      "provenance": "Private collection, London",
-      "artist": "Banksy",
-      "price": "£45,000",
+      "artist": "Invader",
       "available": true,
-      "dimensions": "50 × 70 cm",
-      "medium": "Screen print on paper",
-      "title": "Girl with Balloon",
-      "id": "banksy-girl-with-balloon",
-      "image": "",
-      "description": "One of Banksy's most iconic images, this signed AP edition represents a seminal moment in the street art market.",
-      "year": "2004",
+      "collaborators": [
+        "Shepard Fairey"
+      ],
+      "dimensions": "53.3 × 72.3 cm (framed)",
+      "medium": "Silkscreen print with embossing on cotton rag paper",
+      "title": "Positive Space/Negative Space (Cream/Red)",
+      "id": "invader-shepard-fairey-positive-space-negative-space-cream-red",
+      "image": "/images/positive_space_negative_space_cream_red.jpg",
+      "description": "Part of the Obey Invader series: a collaboration between Shepard Fairey and Invader produced for the Triple Trouble exhibition at Newport Street Gallery, London. One of four prints in the series, this edition brings together Fairey's bold graphic language and Invader's pixelated tile aesthetic, with embossing adding a tactile dimension to the silkscreen surface.",
+      "year": "2025",
       "category": "Edition",
-      "edition": "AP edition, signed"
-    },
-    {
-      "provenance": "Purchased directly, 2013",
-      "artist": "KAWS",
-      "available": true,
-      "dimensions": "28 cm",
-      "medium": "Cast vinyl",
-      "title": "COMPANION (Passing Through)",
-      "id": "kaws-companion",
-      "image": "",
-      "description": "A landmark piece in KAWS's sculptural practice, the Passing Through Companion has become one of the defining objects of urban contemporary collecting.",
-      "year": "2013",
-      "category": "Rare Collectible",
-      "edition": "Open edition"
-    },
-    {
-      "provenance": "Estate of the artist; Private collection",
-      "artist": "Jean-Michel Basquiat",
-      "available": false,
-      "dimensions": "120 × 100 cm",
-      "medium": "Acrylic and oil paintstick on canvas",
-      "title": "Untitled (Head)",
-      "id": "basquiat-untitled",
-      "image": "",
-      "description": "A rare original from Basquiat's most celebrated period, with full provenance documentation.",
-      "year": "1982",
-      "category": "Original",
-      "edition": ""
+      "edition": "Edition of 250, hand signed by both artists on the front. Presented in a white aluminium frame"
     }
   ],
   "artists": [
