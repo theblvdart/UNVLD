@@ -167,19 +167,19 @@
       "bio": "KAWS, born Brian Donnelly, is an American artist and designer who has created his own distinct visual language. Beginning with street art in the 1990s, his practice now spans painting, sculpture, and large-scale installations."
     },
     {
-      "id": "invader",
-      "name": "Invader",
-      "bio": "Invader (b. 1969, Paris) is an anonymous French street artist and graduate of a Parisian École des Beaux-Arts, who describes himself as an Unidentified Free Artist (UFA). His identity perpetually hidden behind masks and digital pixelations. Beginning in the late 1990s, he started cementing ceramic tile mosaics of pixelated characters from the 1978 Space Invaders arcade game across the streets of Paris, before expanding his roster to include Pac-Man ghosts and other 8-bit characters. Works that now adorn cities around the world, from Los Angeles to Kathmandu. As of 2020, his creations can be found in 79 cities across 20 countries, comprising over 3,800 individual works and more than 1.5 million ceramic tiles. Beyond public space, he has developed \"Rubikcubism\", a series of indoor works constructed entirely from Rubik's Cubes, and his gallery works regularly command six-figure sums.",
-      "discipline": "Mosaic Art",
-      "image": "/images/invader.jpg"
-    },
-    {
       "bio": "Marina Abramović (b. 1946, Belgrade) has pioneered the use of performance as a visual art form since the early 1970s, making her body both subject and medium; exploring physical and mental limits, endurance, pain, and the possibility of spiritual transformation. She studied at the Academy of Fine Arts in Belgrade and completed postgraduate studies in Zagreb, before conceiving a series of visceral performance pieces that used her body as a site of artistic and spiritual exploration. From 1975 to 1988 she collaborated with the German artist Ulay on works exploring duality and gender identity, ending their partnership in a symbolic performance in which each walked the Great Wall of China from opposite ends to meet in the middle. In 2023 she became the first female artist to host a major solo exhibition in the Main Galleries of the Royal Academy of Arts in London. She has referred to herself as \"the grandmother of performance art\",",
       "discipline": "Performance Art / Conceptual Art",
       "name": "Marina Abramović",
       "id": "marina-abramović",
       "location": "New York, USA",
       "image": "/images/marina_abromovich.jpg"
+    },
+    {
+      "id": "invader",
+      "name": "Invader",
+      "bio": "Invader (b. 1969, Paris) is an anonymous French street artist and graduate of a Parisian École des Beaux-Arts, who describes himself as an Unidentified Free Artist (UFA). His identity perpetually hidden behind masks and digital pixelations. Beginning in the late 1990s, he started cementing ceramic tile mosaics of pixelated characters from the 1978 Space Invaders arcade game across the streets of Paris, before expanding his roster to include Pac-Man ghosts and other 8-bit characters. Works that now adorn cities around the world, from Los Angeles to Kathmandu. As of 2020, his creations can be found in 79 cities across 20 countries, comprising over 3,800 individual works and more than 1.5 million ceramic tiles. Beyond public space, he has developed \"Rubikcubism\", a series of indoor works constructed entirely from Rubik's Cubes, and his gallery works regularly command six-figure sums.",
+      "discipline": "Mosaic Art",
+      "image": "/images/invader.jpg"
     },
     {
       "id": "ben-eine",
