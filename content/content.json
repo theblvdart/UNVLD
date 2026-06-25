@@ -306,28 +306,20 @@
       "image": "/images/piet_parra.jpg"
     },
     {
+      "id": "stik",
+      "name": "Stik",
+      "discipline": "Urban Contemporary",
+      "location": "London, UK",
+      "image": "/images/stik.jpg",
+      "bio": "Stik (b. 1979, London) is a self-taught British street artist who spent several years living in homeless shelters before beginning to paint unofficial murals on the streets of Hackney in 2001. His signature figures, composed of just six lines and two dots, draw subtle influence from Japanese kanji characters, achieving a neutrality that allows them to carry enormous emotional weight. Each work is conceived as a donation to the community, addressing homelessness, LGBTQ+ rights, and social housing; Stik only authorises primary market sales on the condition that all proceeds go to charity. He has collaborated with Amnesty International, recreated Old Master paintings for Dulwich Picture Gallery, and in 2022 a work sold at Bonhams for £247,000."
+    },
+    {
       "id": "hush",
       "name": "Hush",
       "bio": "Hush (b. 1973, Newcastle upon Tyne) is a British artist who developed an early affinity for visual culture amid the Acid House scene, designing flyers before pursuing formal training at the Newcastle School of Art and Design, graduating in 1995 with a degree in graphic design and illustration. His career pivoted decisively around 2006 when he committed fully to painting, departing from graphic design roles at advertising agencies in London and Hong Kong. Extensive time living in Asia (first Hong Kong, then Japan, where he worked as a toy designer) immersed him in Japanese visual culture and sparked a fascination with the representation of women and the collision of Eastern and Western aesthetics. In his signature works, Hush superimposes layers of vibrant wheatpaste patterns and graffiti onto delicate stencilled portraits of women, fusing the iconography of the geisha with the raw energy of street art. Has been named one of the top 20 emerging artists by The Independent.",
       "discipline": "Urban Contemporary / Mixed Media",
       "image": "/images/hush.jpg",
       "location": "Newcastle, UK"
-    },
-    {
-      "bio": "Mue Bon (b. Thailand) grew up in the slums of Thonburi, Bangkok, studied art at the Rajamangala Institute of Technology, and graduated with honours in 2005. His alias translates as \"fidgety hands\", a nod to his relentless mark-making, and he was a founding figure of Thailand's first generation of street artists, painting at a time when the practice was neither widely known nor respected in his country. He has created a cast of signature characters over the years, including a cartoon bird named PUKRUK, a girl behind a mask, and Mr. TV, a figure with a television screen for a face, all carrying commentary on wealth disparity, media propaganda, and anti-war activism. His style and ability to translate street work into detailed and vibrant gallery paintings, sculptures, and installations sets him apart and puts him at the forefront of Asian street art,",
-      "image": "/images/mue_bon.jpg",
-      "location": "Bangkok, Thailand",
-      "discipline": "Urban Contemporary",
-      "name": "Mue Bon",
-      "id": "mue-bon"
-    },
-    {
-      "bio": "Mark Drew is a Tokyo-based Australian artist best known for his mash-ups of early 1990s hip-hop lyrics with panels from vintage Peanuts comic strips — \"sampling\" visual culture in the same way that hip-hop producers layer borrowed beats into new compositions. Originally from Sydney, Drew co-founded China Heights Gallery in 2004 before relocating to Tokyo in 2009, where he continues to build a body of work that fuses music culture, comics, and graphic design. He debuted this approach in 2013 with a solo show in Sydney titled Deez Nuts, featuring lyrics by Jay-Z, Nas, Wu-Tang Clan, and the Notorious B.I.G.; his works are now in private collections worldwide, including that of Drake. His prints have been exhibited at Subliminal Projects in Los Angeles, StolenSpace Gallery in London, and Harman Projects in New York. ",
-      "location": "Australia",
-      "name": "Mark Drew",
-      "id": "mark-drew",
-      "discipline": "Pop Art / Contemporary Print",
-      "image": "/images/mark_drew.jpg"
     },
     {
       "id": "pure-evil",
@@ -338,12 +330,12 @@
       "image": "/images/pure_evil.jpg"
     },
     {
-      "id": "stik",
-      "name": "Stik",
+      "bio": "Mue Bon (b. Thailand) grew up in the slums of Thonburi, Bangkok, studied art at the Rajamangala Institute of Technology, and graduated with honours in 2005. His alias translates as \"fidgety hands\", a nod to his relentless mark-making, and he was a founding figure of Thailand's first generation of street artists, painting at a time when the practice was neither widely known nor respected in his country. He has created a cast of signature characters over the years, including a cartoon bird named PUKRUK, a girl behind a mask, and Mr. TV, a figure with a television screen for a face, all carrying commentary on wealth disparity, media propaganda, and anti-war activism. His style and ability to translate street work into detailed and vibrant gallery paintings, sculptures, and installations sets him apart and puts him at the forefront of Asian street art,",
+      "image": "/images/mue_bon.jpg",
+      "location": "Bangkok, Thailand",
       "discipline": "Urban Contemporary",
-      "location": "London, UK",
-      "image": "/images/stik.jpg",
-      "bio": "Stik (b. 1979, London) is a self-taught British street artist who spent several years living in homeless shelters before beginning to paint unofficial murals on the streets of Hackney in 2001. His signature figures, composed of just six lines and two dots, draw subtle influence from Japanese kanji characters, achieving a neutrality that allows them to carry enormous emotional weight. Each work is conceived as a donation to the community, addressing homelessness, LGBTQ+ rights, and social housing; Stik only authorises primary market sales on the condition that all proceeds go to charity. He has collaborated with Amnesty International, recreated Old Master paintings for Dulwich Picture Gallery, and in 2022 a work sold at Bonhams for £247,000."
+      "name": "Mue Bon",
+      "id": "mue-bon"
     },
     {
       "id": "ralph-steadman",
@@ -351,6 +343,14 @@
       "discipline": "Illustration / Print",
       "image": "/images/ralph_steadman.jpg",
       "bio": "Ralph Steadman (b. 1936, Wallasey) is a Welsh illustrator and cartoonist who trained at East Ham Technical College and the London College of Printing, doing freelance work for Punch, Private Eye, The Daily Telegraph, and Rolling Stone. Inspired by George Grosz and John Heartfield, he developed a distinctive style defined by energetic ink splatters and grotesque, flamboyant figures; a visual language inseparable from his 40-year collaboration with Hunter S. Thompson, which produced the defining images of Fear and Loathing in Las Vegas and helped birth gonzo journalism. After regretting the sale of his Fear and Loathing originals for $75, Steadman largely refused to sell original artwork, declaring \"if anyone owns a Steadman original, it's stolen.\" He has also illustrated Alice in Wonderland, Animal Farm, and Treasure Island, and created the Breaking Bad DVD box set artwork"
+    },
+    {
+      "bio": "Mark Drew is a Tokyo-based Australian artist best known for his mash-ups of early 1990s hip-hop lyrics with panels from vintage Peanuts comic strips — \"sampling\" visual culture in the same way that hip-hop producers layer borrowed beats into new compositions. Originally from Sydney, Drew co-founded China Heights Gallery in 2004 before relocating to Tokyo in 2009, where he continues to build a body of work that fuses music culture, comics, and graphic design. He debuted this approach in 2013 with a solo show in Sydney titled Deez Nuts, featuring lyrics by Jay-Z, Nas, Wu-Tang Clan, and the Notorious B.I.G.; his works are now in private collections worldwide, including that of Drake. His prints have been exhibited at Subliminal Projects in Los Angeles, StolenSpace Gallery in London, and Harman Projects in New York. ",
+      "location": "Australia",
+      "name": "Mark Drew",
+      "id": "mark-drew",
+      "discipline": "Pop Art / Contemporary Print",
+      "image": "/images/mark_drew.jpg"
     },
     {
       "id": "james-joyce",
