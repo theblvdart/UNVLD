@@ -127,6 +127,14 @@
       "image": "/images/yoon_hyup.jpg"
     },
     {
+      "bio": "Damien Hirst (b. 1965, Bristol) has created installations, sculptures, paintings, and drawings since the late 1980s that examine the complex relationships between art and beauty, religion and science, and life and death. Considered an enfant terrible of the 1990s art world, he was the most prominent of the Young British Artists (a group that first gained notoriety when Charles Saatchi began buying and exhibiting their work) and in 1988 curated the landmark student show Freeze at Goldsmiths College, widely considered the debut of the YBA movement. His mixed-media sculptures draw from a controversial assortment of formaldehyde-suspended carcasses, cigarette butts, pharmaceutical packaging, and surgical instruments, often encased in glass vitrines. He won the Turner Prize in 1995, and in 2008 set the record for the largest sum raised by a living artist at a single auction, with £111 million at Sotheby's. His work is held by Tate, the Hirshhorn, and major collections worldwide.",
+      "discipline": "Contemporary Art / Conceptual Art",
+      "location": "London, UK",
+      "image": "/images/damien_hirst.jpg",
+      "name": "Damien Hirst",
+      "id": "damien-hirst"
+    },
+    {
       "bio": "Roberto and Renato Miaz (b. 1965 & 1968, Monza, Italy) are an Italian sibling duo who have redefined contemporary portraiture through their \"Antimatter\" series — large-format works rendered in aerosol paint, in which subjects are presented deliberately out of focus, bypassing immediate reaction and inviting viewers to draw on their own memory and perception to complete the image. Classically trained and guided by the model of Renaissance artists, they first exhibited at the Viafarini Gallery in Milan in 1996, before being awarded the Arte Laguna International Art Prize in Venice in 2011 and launching the Antimatter series in 2012. They have collaborated with major brands including Adidas, Nike, Diesel, and Kenzo, and designed the cover of the New York Times Magazine in 2017.",
       "location": "",
       "discipline": "New Contemporary",
@@ -233,14 +241,6 @@
       "discipline": "Urban Contemporary / Mixed Media",
       "image": "/images/hush.jpg",
       "location": "Newcastle, UK"
-    },
-    {
-      "bio": "Damien Hirst (b. 1965, Bristol) has created installations, sculptures, paintings, and drawings since the late 1980s that examine the complex relationships between art and beauty, religion and science, and life and death. Considered an enfant terrible of the 1990s art world, he was the most prominent of the Young British Artists (a group that first gained notoriety when Charles Saatchi began buying and exhibiting their work) and in 1988 curated the landmark student show Freeze at Goldsmiths College, widely considered the debut of the YBA movement. His mixed-media sculptures draw from a controversial assortment of formaldehyde-suspended carcasses, cigarette butts, pharmaceutical packaging, and surgical instruments, often encased in glass vitrines. He won the Turner Prize in 1995, and in 2008 set the record for the largest sum raised by a living artist at a single auction, with £111 million at Sotheby's. His work is held by Tate, the Hirshhorn, and major collections worldwide.",
-      "discipline": "Contemporary Art / Conceptual Art",
-      "location": "London, UK",
-      "image": "/images/damien_hirst.jpg",
-      "name": "Damien Hirst",
-      "id": "damien-hirst"
     },
     {
       "bio": "Marina Abramović (b. 1946, Belgrade) has pioneered the use of performance as a visual art form since the early 1970s, making her body both subject and medium; exploring physical and mental limits, endurance, pain, and the possibility of spiritual transformation. She studied at the Academy of Fine Arts in Belgrade and completed postgraduate studies in Zagreb, before conceiving a series of visceral performance pieces that used her body as a site of artistic and spiritual exploration. From 1975 to 1988 she collaborated with the German artist Ulay on works exploring duality and gender identity, ending their partnership in a symbolic performance in which each walked the Great Wall of China from opposite ends to meet in the middle. In 2023 she became the first female artist to host a major solo exhibition in the Main Galleries of the Royal Academy of Arts in London. She has referred to herself as \"the grandmother of performance art\",",
