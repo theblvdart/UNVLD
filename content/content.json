@@ -88,6 +88,30 @@
   ],
   "artists": [
     {
+      "id": "yoon-hyup",
+      "name": "Yoon Hyup",
+      "bio": "Born in Seoul, South Korea in 1982, Yoon Hyup lives and works in Brooklyn, New York. Drawn to hip-hop and skate culture from an early age, he began creating large-scale murals and live paintings in the early 2000s, experimenting with lines and dots as a way of reflecting the rhythm and flow of music. Working with acrylic on canvas, he translates cityscapes, rain, and light into compositions of flat orbs and rhythmic marks, comparing his process to jazz improvisation, where each colour represents a different note and together they build a chord. Hyup has exhibited in New York, London, Seoul, Milan, Tokyo, Miami, and Hong Kong, and has collaborated with Dior, Tiffany & Co., Nike, and Maison Kitsuné, among others",
+      "location": "New York, USA",
+      "discipline": "Urban Contemporary",
+      "image": "/images/yoon_hyup.jpg"
+    },
+    {
+      "bio": "Roberto and Renato Miaz (b. 1965 & 1968, Monza, Italy) are an Italian sibling duo who have redefined contemporary portraiture through their \"Antimatter\" series — large-format works rendered in aerosol paint, in which subjects are presented deliberately out of focus, bypassing immediate reaction and inviting viewers to draw on their own memory and perception to complete the image. Classically trained and guided by the model of Renaissance artists, they first exhibited at the Viafarini Gallery in Milan in 1996, before being awarded the Arte Laguna International Art Prize in Venice in 2011 and launching the Antimatter series in 2012. They have collaborated with major brands including Adidas, Nike, Diesel, and Kenzo, and designed the cover of the New York Times Magazine in 2017.",
+      "location": "",
+      "discipline": "New Contemporary",
+      "name": "The Miaz Brothers",
+      "id": "the-miaz-brothers",
+      "image": "/images/the_miaz-_brothers.jpg"
+    },
+    {
+      "id": "paul-kremer",
+      "name": "Paul Kremer",
+      "discipline": "Abstract",
+      "location": "Texas, USA",
+      "bio": "Paul Kremer (b. 1971, Chicago) is a contemporary American artist known for his reinterpretation of colour field painting, using overlapping hard-edged shapes to produce optical interactions rooted as much in digital software as in the work of Kenneth Noland and Jules Olitski. Self-taught as a painter, his uninflected surfaces and smooth contours have led critics to identify him as an heir to Ellsworth Kelly, with his compositions evoking both monumental architecture and broken-off glacier sections. For twenty years Kremer ran a graphic design studio, working with clients including Lou Reed, Tom Waits, and National Geographic, and he is also the inventor of the cult social media phenomenon \"Great Art in Ugly Rooms,\" which places photo-realistic renderings of masterworks in laundromats, discount stores, and public restrooms. He lives and works in Houston, Texas.",
+      "image": "/images/paul_kremer.jpg"
+    },
+    {
       "id": "banksy",
       "name": "Banksy",
       "discipline": "Street Art",
@@ -110,30 +134,6 @@
       "location": "New York, USA",
       "image": "",
       "bio": "Jean-Michel Basquiat rose to fame in 1980s New York, moving from graffiti to gallery with extraordinary speed. His work remains among the most sought-after in the blue-chip contemporary market."
-    },
-    {
-      "bio": "Roberto and Renato Miaz (b. 1965 & 1968, Monza, Italy) are an Italian sibling duo who have redefined contemporary portraiture through their \"Antimatter\" series — large-format works rendered in aerosol paint, in which subjects are presented deliberately out of focus, bypassing immediate reaction and inviting viewers to draw on their own memory and perception to complete the image. Classically trained and guided by the model of Renaissance artists, they first exhibited at the Viafarini Gallery in Milan in 1996, before being awarded the Arte Laguna International Art Prize in Venice in 2011 and launching the Antimatter series in 2012. They have collaborated with major brands including Adidas, Nike, Diesel, and Kenzo, and designed the cover of the New York Times Magazine in 2017.",
-      "location": "",
-      "discipline": "New Contemporary",
-      "name": "The Miaz Brothers",
-      "id": "the-miaz-brothers",
-      "image": "/images/the_miaz-_brothers.jpg"
-    },
-    {
-      "id": "yoon-hyup",
-      "name": "Yoon Hyup",
-      "bio": "Born in Seoul, South Korea in 1982, Yoon Hyup lives and works in Brooklyn, New York. Drawn to hip-hop and skate culture from an early age, he began creating large-scale murals and live paintings in the early 2000s, experimenting with lines and dots as a way of reflecting the rhythm and flow of music. Working with acrylic on canvas, he translates cityscapes, rain, and light into compositions of flat orbs and rhythmic marks, comparing his process to jazz improvisation, where each colour represents a different note and together they build a chord. Hyup has exhibited in New York, London, Seoul, Milan, Tokyo, Miami, and Hong Kong, and has collaborated with Dior, Tiffany & Co., Nike, and Maison Kitsuné, among others",
-      "location": "New York, USA",
-      "discipline": "Urban Contemporary",
-      "image": "/images/yoon_hyup.jpg"
-    },
-    {
-      "id": "paul-kremer",
-      "name": "Paul Kremer",
-      "discipline": "Abstract",
-      "location": "Texas, USA",
-      "bio": "Paul Kremer (b. 1971, Chicago) is a contemporary American artist known for his reinterpretation of colour field painting, using overlapping hard-edged shapes to produce optical interactions rooted as much in digital software as in the work of Kenneth Noland and Jules Olitski. Self-taught as a painter, his uninflected surfaces and smooth contours have led critics to identify him as an heir to Ellsworth Kelly, with his compositions evoking both monumental architecture and broken-off glacier sections. For twenty years Kremer ran a graphic design studio, working with clients including Lou Reed, Tom Waits, and National Geographic, and he is also the inventor of the cult social media phenomenon \"Great Art in Ugly Rooms,\" which places photo-realistic renderings of masterworks in laundromats, discount stores, and public restrooms. He lives and works in Houston, Texas.",
-      "image": "/images/paul_kremer.jpg"
     }
   ],
   "journal": [
