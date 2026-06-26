@@ -186,19 +186,6 @@
       "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
     },
     {
-      "artist": "Damien Hirst",
-      "available": true,
-      "dimensions": "30 x 30cm",
-      "medium": "Laminated giclée print on aluminium composite panel",
-      "title": "Fruitful (Small)",
-      "id": "damien-hirst-fruitful-smal",
-      "image": "/images/damien_hirst_fruitful_small.jpg",
-      "description": "A close-up detail from Hirst's Cherry Blossoms series (2018–20), inspired by Bonnard, Monet, Van Gogh, and the Pointillist innovations of Seurat. Released as a timed edition in September 2020 in support of Save the Children's Italian campaign Riscriviamo il Futuro, with all profits donated to the charity. The series raised €3.3 million in total.",
-      "year": "2020",
-      "category": "Edition",
-      "edition": "Timed edition, closing at 2,908 copies; digitally signed and numbered on HENI label verso"
-    },
-    {
       "artist": "Oli Epp",
       "available": true,
       "dimensions": "59 x 52.9cm",
@@ -210,6 +197,19 @@
       "year": "2024",
       "category": "Edition",
       "edition": "Main edition of 45, signed and numbered by the artist"
+    },
+    {
+      "artist": "Hush",
+      "available": true,
+      "dimensions": "29 x 22cm",
+      "medium": "9-colour screenprint with hand-applied spray paint on 300gsm handmade cotton paper",
+      "title": "Unseen I",
+      "id": "hush-unseen-1",
+      "image": "/images/hush_unseen_1.jpg",
+      "description": "art of the Unseen I & II box set - a sold-out 2013 release comprising both prints. Each print in the edition is uniquely hand-finished with spray paint, making every copy a one-of-a-kind variant within the edition. A signature example of Hush's fusion of Eastern iconography and urban mark-making.",
+      "year": "2013",
+      "category": "Edition",
+      "edition": "Edition of 225, signed and numbered by the artist. Each print uniquely hand-finished — no two are alike"
     },
     {
       "artist": "Stik",
@@ -255,19 +255,6 @@
       "available": true,
       "dimensions": "29 x 22cm",
       "medium": "9-colour screenprint with hand-applied spray paint on 300gsm handmade cotton paper",
-      "title": "Unseen I",
-      "id": "hush-unseen-1",
-      "image": "/images/hush_unseen_1.jpg",
-      "description": "art of the Unseen I & II box set - a sold-out 2013 release comprising both prints. Each print in the edition is uniquely hand-finished with spray paint, making every copy a one-of-a-kind variant within the edition. A signature example of Hush's fusion of Eastern iconography and urban mark-making.",
-      "year": "2013",
-      "category": "Edition",
-      "edition": "Edition of 225, signed and numbered by the artist. Each print uniquely hand-finished — no two are alike"
-    },
-    {
-      "artist": "Hush",
-      "available": true,
-      "dimensions": "29 x 22cm",
-      "medium": "9-colour screenprint with hand-applied spray paint on 300gsm handmade cotton paper",
       "title": "Unseen II",
       "id": "hush-unseen-2",
       "image": "/images/hush_unseen_2.jpg",
@@ -275,6 +262,19 @@
       "year": "2014",
       "category": "Edition",
       "edition": "Edition of 225, signed and numbered by the artist. Each print uniquely hand-finished — no two are alike"
+    },
+    {
+      "artist": "Damien Hirst",
+      "available": true,
+      "dimensions": "30 x 30cm",
+      "medium": "Laminated giclée print on aluminium composite panel",
+      "title": "Fruitful (Small)",
+      "id": "damien-hirst-fruitful-smal",
+      "image": "/images/damien_hirst_fruitful_small.jpg",
+      "description": "A close-up detail from Hirst's Cherry Blossoms series (2018–20), inspired by Bonnard, Monet, Van Gogh, and the Pointillist innovations of Seurat. Released as a timed edition in September 2020 in support of Save the Children's Italian campaign Riscriviamo il Futuro, with all profits donated to the charity. The series raised €3.3 million in total.",
+      "year": "2020",
+      "category": "Edition",
+      "edition": "Timed edition, closing at 2,908 copies; digitally signed and numbered on HENI label verso"
     },
     {
       "artist": "Hush",
