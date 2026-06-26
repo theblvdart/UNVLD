@@ -15,6 +15,19 @@
       "year": "2025",
       "category": "Edition",
       "edition": "Edition of 250, hand signed by both artists on the front. Presented in a white aluminium frame"
+    },
+    {
+      "artist": "Kaws",
+      "available": true,
+      "dimensions": "27.9 × 11.4 × 8.9 cm (11 × 4.5 × 3.5 in)",
+      "medium": "Painted vinyl, black exterior with neon interior",
+      "title": "Companion Flayed (Black)",
+      "id": "kaws-companion-flayed-black",
+      "image": "/images/kaws_companion_flayed_black.jpg",
+      "description": "Released in 2016, this open edition Companion Flayed splits the figure to reveal a vivid, neon-coloured interior - a literal and conceptual exposure of what lies beneath the surface. One of the most iconic works in KAWS' extensive catalogue of vinyl figures, authenticated by a stamped KAWS signature on the base.",
+      "year": "2016",
+      "category": "Rare Collectible",
+      "edition": "Open edition, unnumbered; authenticated by stamp on base; sealed in clear blister packaging"
     }
   ],
   "artists": [
