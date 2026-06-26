@@ -157,6 +157,45 @@
       "year": "2024",
       "category": "Edition",
       "edition": "Edition of 1,668, signed by the artist and numbered on publisher's COA"
+    },
+    {
+      "artist": "Damien Hirst",
+      "available": true,
+      "dimensions": "20 x 30cm",
+      "medium": "Enamel paint on handmade paper",
+      "title": "The Currency, 'Where it's Night'",
+      "id": "damien-hirst-the-currency-where-its-night",
+      "image": "/images/damien_hirst_the_currency.jpg",
+      "description": "Originally one of 10,000 unique hand-painted spot works created in 2016 and released as NFTs in 2021 via HENI. Each collector was given one year to choose between the physical work or the NFT - the other was destroyed. Of the 10,000 works, 5,149 collectors chose the physical; 4,851 NFTs were retained. The 4,851 corresponding physical works were ceremonially burned by Hirst at Newport Street Gallery, London, in September 2022.",
+      "year": "2016 (Released 2021)",
+      "category": "Original",
+      "edition": "Unique work signed, titled and numbered by the artist. Embossed hologram of the artist's portrait and individual microdot on verso. Physical work redeemed from NFT - corresponding NFT burned"
+    },
+    {
+      "artist": "Damien Hirst",
+      "available": true,
+      "dimensions": "30 x 30cm",
+      "medium": "Laminated giclée print on aluminium composite panel",
+      "title": "Fruitful (Small)",
+      "id": "damien-hirst-fruitful-smal",
+      "image": "/images/damien_hirst_fruitful_small.jpg",
+      "description": "A close-up detail from Hirst's Cherry Blossoms series (2018–20), inspired by Bonnard, Monet, Van Gogh, and the Pointillist innovations of Seurat. Released as a timed edition in September 2020 in support of Save the Children's Italian campaign Riscriviamo il Futuro, with all profits donated to the charity. The series raised €3.3 million in total.",
+      "year": "2020",
+      "category": "Edition",
+      "edition": "Timed edition, closing at 2,908 copies; digitally signed and numbered on HENI label verso"
+    },
+    {
+      "artist": "Damien Hirst",
+      "available": true,
+      "dimensions": "80 x 80cm",
+      "medium": "Diasec-mounted giclée print on aluminium composite panel",
+      "title": "Great Expectations",
+      "id": "damien-hirst-great-expectations",
+      "image": "/images/damien_hirst_great_expectations.jpg",
+      "description": "Hirst's second NFT collection, airdropped free to holders of The Currency NFTs in 2021. Each of the 10,000 works features a grid of twelve emoji-like pregnant women constructed from spots taken directly from The Currency artworks, referencing Drake's Certified Lover Boy album cover, for which Hirst created the imagery. Of the 10,000 NFTs, only 748 collectors chose to burn their NFT for the physical print during the redemption window (November 2023 - January 2024), making each physical work both unique and exceptionally rare.",
+      "year": "2021 (physical edition 2023-2024)",
+      "category": "Original",
+      "edition": "Unique work; one of only 748 physical prints produced from the collection of 10,000 NFTs. Hand-signed by the artist on the front and numbered on label. Physical work redeemed from NFT - corresponding NFT burned"
     }
   ],
   "artists": [
