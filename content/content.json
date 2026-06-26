@@ -264,6 +264,44 @@
       "edition": "Edition of 225, signed and numbered by the artist. Each print uniquely hand-finished — no two are alike"
     },
     {
+      "artist": "D*Face",
+      "available": true,
+      "medium": "Letterpress on paper",
+      "title": "Wall Hugger (VNA Edition)",
+      "id": "dface-wall-hugger-vna",
+      "image": "/images/dface_wall_hugger_vna.jpg",
+      "description": "A small-format letterpress print reproducing the Wall Hugger image, released as part of the limited edition VNA x D*Face Issue 35 box set - available exclusively at Rebels Alliance, D*Face's East London motorbike café on Sclater Street, Shoreditch, on 2 March 2017, strictly one per person. The box set marked VNA Magazine's 10th anniversary, with D*Face as cover artist.",
+      "year": "2017",
+      "category": "Edition",
+      "edition": "Edition of 150, hand-signed and numbered by the artist in pencil"
+    },
+    {
+      "artist": "David Shrigley",
+      "available": true,
+      "dimensions": "29 × 12.5 × 7.5 cm",
+      "medium": "Polystone with bronze and grey paint",
+      "title": "Really Good",
+      "id": "david-shrigley-really-good",
+      "image": "/images/david-shrigley_really_good.jpg",
+      "description": "A miniature edition of Shrigley's seven-metre bronze Really Good, unveiled on the Fourth Plinth in Trafalgar Square in September 2016 - a giant hand giving a disproportionately elongated thumbs up, cast in the same dark patina as the Square's permanent statues. Released in collaboration with the Mayor of London's Culture Team and retailer Tiger to mark the commission, the edition sold out at speed.",
+      "year": "2016",
+      "category": "Rare Collectible",
+      "edition": "Edition of 3,000, edition number stamped on the base"
+    },
+    {
+      "artist": "Miss Bugs",
+      "available": true,
+      "dimensions": "44 x 66cm",
+      "medium": "\tScreenprint with stencil and hand-applied acrylic on heavyweight paper",
+      "title": "Her Brain Thinks Bomb Like",
+      "id": "miss-bugs-her-brain-thinks-bomb-like",
+      "image": "/images/miss_bugs_her_brain_thinks_bomb_like.jpg",
+      "description": "This is a characteristically layered Miss Bugs work; a bird-like figure set against a star-filled sky, densely packed with borrowed imagery and individually hand-finished with stencils in acrylic, meaning no two prints in the edition are identical.",
+      "year": "2016",
+      "category": "Edition",
+      "edition": "Edition of 35, signed and numbered by the artist. Each print uniquely hand-finished with stencils in acrylic"
+    },
+    {
       "artist": "Damien Hirst",
       "available": true,
       "dimensions": "30 x 30cm",
@@ -290,31 +328,6 @@
       "edition": "Edition of 99, signed and numbered by the artist. Each print uniquely hand-finished"
     },
     {
-      "artist": "D*Face",
-      "available": true,
-      "medium": "Letterpress on paper",
-      "title": "Wall Hugger (VNA Edition)",
-      "id": "dface-wall-hugger-vna",
-      "image": "/images/dface_wall_hugger_vna.jpg",
-      "description": "A small-format letterpress print reproducing the Wall Hugger image, released as part of the limited edition VNA x D*Face Issue 35 box set - available exclusively at Rebels Alliance, D*Face's East London motorbike café on Sclater Street, Shoreditch, on 2 March 2017, strictly one per person. The box set marked VNA Magazine's 10th anniversary, with D*Face as cover artist.",
-      "year": "2017",
-      "category": "Edition",
-      "edition": "Edition of 150, hand-signed and numbered by the artist in pencil"
-    },
-    {
-      "artist": "Miss Bugs",
-      "available": true,
-      "dimensions": "44 x 66cm",
-      "medium": "\tScreenprint with stencil and hand-applied acrylic on heavyweight paper",
-      "title": "Her Brain Thinks Bomb Like",
-      "id": "miss-bugs-her-brain-thinks-bomb-like",
-      "image": "/images/miss_bugs_her_brain_thinks_bomb_like.jpg",
-      "description": "This is a characteristically layered Miss Bugs work; a bird-like figure set against a star-filled sky, densely packed with borrowed imagery and individually hand-finished with stencils in acrylic, meaning no two prints in the edition are identical.",
-      "year": "2016",
-      "category": "Edition",
-      "edition": "Edition of 35, signed and numbered by the artist. Each print uniquely hand-finished with stencils in acrylic"
-    },
-    {
       "artist": "Paul Insect",
       "available": true,
       "dimensions": "18 × 27 cm (image) / 30.5 × 38 cm (sheet)",
@@ -326,19 +339,6 @@
       "year": "2019",
       "category": "Edition",
       "edition": "Edition of 50, signed, dated and inscribed 'Margate' in pencil. Published by Coriander Studio with embossed blindstamp"
-    },
-    {
-      "artist": "David Shrigley",
-      "available": true,
-      "dimensions": "29 × 12.5 × 7.5 cm",
-      "medium": "Polystone with bronze and grey paint",
-      "title": "Really Good",
-      "id": "david-shrigley-really-good",
-      "image": "/images/david-shrigley_really_good.jpg",
-      "description": "A miniature edition of Shrigley's seven-metre bronze Really Good, unveiled on the Fourth Plinth in Trafalgar Square in September 2016 - a giant hand giving a disproportionately elongated thumbs up, cast in the same dark patina as the Square's permanent statues. Released in collaboration with the Mayor of London's Culture Team and retailer Tiger to mark the commission, the edition sold out at speed.",
-      "year": "2016",
-      "category": "Rare Collectible",
-      "edition": "Edition of 3,000, edition number stamped on the base"
     }
   ],
   "artists": [
