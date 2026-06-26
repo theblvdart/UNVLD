@@ -82,6 +82,19 @@
       "edition": "Edition of 100, signed and numbered by the artist in pastel/crayon. Each print uniquely hand finished - no two are alike"
     },
     {
+      "artist": "Ben Eine",
+      "available": true,
+      "dimensions": "70 x 70cm",
+      "medium": "52-colour screenprint on fine art paper",
+      "title": "Tenderloin (Stone)",
+      "id": "ben-eine-tenderloin-stone",
+      "image": "/images/ben_eine_tenderloin_stone.jpg",
+      "description": "Part of Eine's celebrated Tenderloin A-Z series, this print presents the full alphabet in Eine's Tenderloin typeface, a font developed in collaboration with typographer Chank Diesel in 2012. The Stone colourway renders the characteristically bold letterforms in a muted, tonal palette, offering a quieter counterpart to the more vivid editions in the series.",
+      "year": "2013",
+      "category": "Edition",
+      "edition": "Edition of 75, hand signed by the artist"
+    },
+    {
       "artist": "Kaws",
       "available": true,
       "dimensions": "27.9 × 11.4 × 8.9 cm (11 × 4.5 × 3.5 in)",
@@ -132,19 +145,6 @@
       "year": "2024",
       "category": "Rare Collectible",
       "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
-    },
-    {
-      "artist": "Ben Eine",
-      "available": true,
-      "dimensions": "70 x 70cm",
-      "medium": "52-colour screenprint on fine art paper",
-      "title": "Tenderloin (Stone)",
-      "id": "ben-eine-tenderloin-stone",
-      "image": "/images/ben_eine_tenderloin_stone.jpg",
-      "description": "Part of Eine's celebrated Tenderloin A-Z series, this print presents the full alphabet in Eine's Tenderloin typeface, a font developed in collaboration with typographer Chank Diesel in 2012. The Stone colourway renders the characteristically bold letterforms in a muted, tonal palette, offering a quieter counterpart to the more vivid editions in the series.",
-      "year": "2013",
-      "category": "Edition",
-      "edition": "Edition of 75, hand signed by the artist"
     }
   ],
   "artists": [
