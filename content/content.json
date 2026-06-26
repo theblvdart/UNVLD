@@ -43,6 +43,19 @@
       "edition": "Edition of 250, hand signed by both artists on the front. Presented in a white aluminium frame"
     },
     {
+      "artist": "Damien Hirst",
+      "available": true,
+      "dimensions": "20 x 30cm",
+      "medium": "Enamel paint on handmade paper",
+      "title": "The Currency, 'Where it's Night'",
+      "id": "damien-hirst-the-currency-where-its-night",
+      "image": "/images/damien_hirst_the_currency.jpg",
+      "description": "Originally one of 10,000 unique hand-painted spot works created in 2016 and released as NFTs in 2021 via HENI. Each collector was given one year to choose between the physical work or the NFT - the other was destroyed. Of the 10,000 works, 5,149 collectors chose the physical; 4,851 NFTs were retained. The 4,851 corresponding physical works were ceremonially burned by Hirst at Newport Street Gallery, London, in September 2022.",
+      "year": "2016 (Released 2021)",
+      "category": "Original",
+      "edition": "Unique work signed, titled and numbered by the artist. Embossed hologram of the artist's portrait and individual microdot on verso. Physical work redeemed from NFT - corresponding NFT burned"
+    },
+    {
       "artist": "Kaws",
       "available": true,
       "dimensions": "24.13 cm (9.5 in) L",
@@ -67,6 +80,19 @@
       "year": "2024",
       "category": "Edition",
       "edition": "Timed edition of 176, signed and numbered by the artist"
+    },
+    {
+      "artist": "Damien Hirst",
+      "available": true,
+      "dimensions": "80 x 80cm",
+      "medium": "Diasec-mounted giclée print on aluminium composite panel",
+      "title": "Great Expectations",
+      "id": "damien-hirst-great-expectations",
+      "image": "/images/damien_hirst_great_expectations.jpg",
+      "description": "Hirst's second NFT collection, airdropped free to holders of The Currency NFTs in 2021. Each of the 10,000 works features a grid of twelve emoji-like pregnant women constructed from spots taken directly from The Currency artworks, referencing Drake's Certified Lover Boy album cover, for which Hirst created the imagery. Of the 10,000 NFTs, only 748 collectors chose to burn their NFT for the physical print during the redemption window (November 2023 - January 2024), making each physical work both unique and exceptionally rare.",
+      "year": "2021 (physical edition 2023-2024)",
+      "category": "Original",
+      "edition": "Unique work; one of only 748 physical prints produced from the collection of 10,000 NFTs. Hand-signed by the artist on the front and numbered on label. Physical work redeemed from NFT - corresponding NFT burned"
     },
     {
       "artist": "Dran",
@@ -134,6 +160,19 @@
       "edition": "Timed edition of 139, signed and numbered by the artist"
     },
     {
+      "artist": "Marina Abramović",
+      "available": true,
+      "dimensions": "30.5 × 22.9 cm (12 × 9 in)",
+      "medium": "Screenprint on paper",
+      "title": "Seven Minutes of Collective Silence ",
+      "id": "marina-abramović-seven -minutes-of-collective-silence",
+      "image": "/images/marina-abramović-seven-minutes-of-collective-silence.jpg",
+      "description": "Released to mark Abramović's Seven Minutes of Collective Silence - a live intervention on the Pyramid Stage at Glastonbury, June 2024, in which she brought an audience of up to 200,000 to stillness for seven minutes in response to a world in conflict. One of the very few hand-signed print editions the artist has ever released.",
+      "year": "2024",
+      "category": "Edition",
+      "edition": "Timed edition, closing at 1,668 copies; signed by the artist and numbered on publisher's COA"
+    },
+    {
       "artist": "Kaws",
       "available": true,
       "dimensions": "24.13 cm (9.5 in) L",
@@ -145,31 +184,6 @@
       "year": "2024",
       "category": "Rare Collectible",
       "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
-    },
-    {
-      "artist": "Marina Abramović",
-      "available": true,
-      "dimensions": "30.5 × 22.9 cm (12 × 9 in)",
-      "medium": "Screenprint on paper",
-      "title": "Seven Minutes of Collective Silence",
-      "id": "marina-abramović-seven-minutes-of-collective-silence",
-      "description": "Produced to commemorate Abramović's Seven Minutes of Collective Silence — a live performance on the Pyramid Stage at Glastonbury Festival, June 2024, in which she invited an audience of up to 200,000 to observe seven minutes of silence in response to global conflict. The edition size of 1,668 is not arbitrary: it reflects the total number of minutes of collective silence observed at the performance, a conceptual extension of the work itself.",
-      "year": "2024",
-      "category": "Edition",
-      "edition": "Edition of 1,668, signed by the artist and numbered on publisher's COA"
-    },
-    {
-      "artist": "Damien Hirst",
-      "available": true,
-      "dimensions": "20 x 30cm",
-      "medium": "Enamel paint on handmade paper",
-      "title": "The Currency, 'Where it's Night'",
-      "id": "damien-hirst-the-currency-where-its-night",
-      "image": "/images/damien_hirst_the_currency.jpg",
-      "description": "Originally one of 10,000 unique hand-painted spot works created in 2016 and released as NFTs in 2021 via HENI. Each collector was given one year to choose between the physical work or the NFT - the other was destroyed. Of the 10,000 works, 5,149 collectors chose the physical; 4,851 NFTs were retained. The 4,851 corresponding physical works were ceremonially burned by Hirst at Newport Street Gallery, London, in September 2022.",
-      "year": "2016 (Released 2021)",
-      "category": "Original",
-      "edition": "Unique work signed, titled and numbered by the artist. Embossed hologram of the artist's portrait and individual microdot on verso. Physical work redeemed from NFT - corresponding NFT burned"
     },
     {
       "artist": "Damien Hirst",
@@ -185,30 +199,17 @@
       "edition": "Timed edition, closing at 2,908 copies; digitally signed and numbered on HENI label verso"
     },
     {
-      "artist": "Damien Hirst",
+      "artist": "Oli Epp",
       "available": true,
-      "dimensions": "80 x 80cm",
-      "medium": "Diasec-mounted giclée print on aluminium composite panel",
-      "title": "Great Expectations",
-      "id": "damien-hirst-great-expectations",
-      "image": "/images/damien_hirst_great_expectations.jpg",
-      "description": "Hirst's second NFT collection, airdropped free to holders of The Currency NFTs in 2021. Each of the 10,000 works features a grid of twelve emoji-like pregnant women constructed from spots taken directly from The Currency artworks, referencing Drake's Certified Lover Boy album cover, for which Hirst created the imagery. Of the 10,000 NFTs, only 748 collectors chose to burn their NFT for the physical print during the redemption window (November 2023 - January 2024), making each physical work both unique and exceptionally rare.",
-      "year": "2021 (physical edition 2023-2024)",
-      "category": "Original",
-      "edition": "Unique work; one of only 748 physical prints produced from the collection of 10,000 NFTs. Hand-signed by the artist on the front and numbered on label. Physical work redeemed from NFT - corresponding NFT burned"
-    },
-    {
-      "artist": "Marina Abramović",
-      "available": true,
-      "dimensions": "30.5 × 22.9 cm (12 × 9 in)",
-      "medium": "Screenprint on paper",
-      "title": "Seven Minutes of Collective Silence ",
-      "id": "marina-abramović-seven -minutes-of-collective-silence",
-      "image": "/images/marina-abramović-seven-minutes-of-collective-silence.jpg",
-      "description": "Released to mark Abramović's Seven Minutes of Collective Silence - a live intervention on the Pyramid Stage at Glastonbury, June 2024, in which she brought an audience of up to 200,000 to stillness for seven minutes in response to a world in conflict. One of the very few hand-signed print editions the artist has ever released.",
+      "dimensions": "59 x 52.9cm",
+      "medium": "Pigment print with high gloss varnish on Somerset Enhanced White Satin 410gsm, deckled edge",
+      "title": "Wet Weather Warning",
+      "id": "oli-epp-wet-weather-warning",
+      "image": "/images/oli_epp_wet_weather_warning.jpg",
+      "description": "Released on the occasion of Epp's solo exhibition 'Fire the Menu' at Perrotin New York (September – October 2024). The print reproduces the 2022 painting of the same name - a faceless, rain-slicked figure in Epp's signature flat, hyper-digital aesthetic, deadpan in its humour and quietly unsettling beneath the surface.",
       "year": "2024",
       "category": "Edition",
-      "edition": "Timed edition, closing at 1,668 copies; signed by the artist and numbered on publisher's COA"
+      "edition": "Main edition of 45, signed and numbered by the artist"
     }
   ],
   "artists": [
