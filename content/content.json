@@ -56,32 +56,6 @@
       "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
     },
     {
-      "artist": "Kaws",
-      "available": true,
-      "dimensions": "27.9 × 11.4 × 8.9 cm (11 × 4.5 × 3.5 in)",
-      "medium": "Painted vinyl, black exterior with neon interior",
-      "title": "Companion Flayed (Black)",
-      "id": "kaws-companion-flayed-black",
-      "image": "/images/kaws_companion_flayed_black.jpg",
-      "description": "Released in 2016, this open edition Companion Flayed splits the figure to reveal a vivid, neon-coloured interior - a literal and conceptual exposure of what lies beneath the surface. One of the most iconic works in KAWS' extensive catalogue of vinyl figures, authenticated by a stamped KAWS signature on the base.",
-      "year": "2016",
-      "category": "Rare Collectible",
-      "edition": "Open edition, unnumbered; authenticated by stamp on base; sealed in clear blister packaging"
-    },
-    {
-      "artist": "Kaws",
-      "available": true,
-      "dimensions": "24.13 cm (9.5 in) L",
-      "medium": "Vinyl figure with fluorescent moon component",
-      "title": "KAWS:Holiday Shanghai (Black)",
-      "id": "kaws-holiday-shanghai-black",
-      "image": "/images/kaws_holiday_shanghai_black.jpg",
-      "description": "The black colourway of the KAWS:Holiday Shanghai figure, released alongside the brown and grey variants to commemorate the September 2024 Shanghai exhibition. The Companion reclines holding a luminous moon, with the moon component and outer box both produced in glow-in-the-dark material echoing the Mid-Autumn Festival theme.",
-      "year": "2024",
-      "category": "Rare Collectible",
-      "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
-    },
-    {
       "artist": "Paul Kremer",
       "available": true,
       "dimensions": "61 × 46 cm (24 × 18 in)",
@@ -93,19 +67,6 @@
       "year": "2024",
       "category": "Edition",
       "edition": "Timed edition of 176, signed and numbered by the artist"
-    },
-    {
-      "artist": "The Miaz Brothers",
-      "available": true,
-      "dimensions": "48.5 × 38 cm",
-      "medium": "Archival inkjet on Hahnemühle Photo Rag 308gsm",
-      "title": "Lady with Green Background",
-      "id": "miaz-brother-lady-with-green-background",
-      "image": "/images/miaz_brothers_lady_with_green_background.jpg",
-      "description": "A companion piece to Gentleman with Red Dot, this print exemplifies the Miaz Brothers' \"Antimatter\" series - a ghostly, out-of-focus female portrait in which the subject dissolves into her vivid green ground, activating the viewer's own perception to complete the image.",
-      "year": "2019",
-      "category": "Edition",
-      "edition": "Edition of 100, signed and numbered by the artists"
     },
     {
       "artist": "Dran",
@@ -121,6 +82,32 @@
       "edition": "Edition of 100, signed and numbered by the artist in pastel/crayon. Each print uniquely hand finished - no two are alike"
     },
     {
+      "artist": "Kaws",
+      "available": true,
+      "dimensions": "27.9 × 11.4 × 8.9 cm (11 × 4.5 × 3.5 in)",
+      "medium": "Painted vinyl, black exterior with neon interior",
+      "title": "Companion Flayed (Black)",
+      "id": "kaws-companion-flayed-black",
+      "image": "/images/kaws_companion_flayed_black.jpg",
+      "description": "Released in 2016, this open edition Companion Flayed splits the figure to reveal a vivid, neon-coloured interior - a literal and conceptual exposure of what lies beneath the surface. One of the most iconic works in KAWS' extensive catalogue of vinyl figures, authenticated by a stamped KAWS signature on the base.",
+      "year": "2016",
+      "category": "Rare Collectible",
+      "edition": "Open edition, unnumbered; authenticated by stamp on base; sealed in clear blister packaging"
+    },
+    {
+      "artist": "The Miaz Brothers",
+      "available": true,
+      "dimensions": "48.5 × 38 cm",
+      "medium": "Archival inkjet on Hahnemühle Photo Rag 308gsm",
+      "title": "Lady with Green Background",
+      "id": "miaz-brother-lady-with-green-background",
+      "image": "/images/miaz_brothers_lady_with_green_background.jpg",
+      "description": "A companion piece to Gentleman with Red Dot, this print exemplifies the Miaz Brothers' \"Antimatter\" series - a ghostly, out-of-focus female portrait in which the subject dissolves into her vivid green ground, activating the viewer's own perception to complete the image.",
+      "year": "2019",
+      "category": "Edition",
+      "edition": "Edition of 100, signed and numbered by the artists"
+    },
+    {
       "artist": "Paul Kremer",
       "available": true,
       "dimensions": "61 × 46 cm (24 × 18 in)",
@@ -132,6 +119,19 @@
       "year": "2024",
       "category": "Edition",
       "edition": "Timed edition of 139, signed and numbered by the artist"
+    },
+    {
+      "artist": "Kaws",
+      "available": true,
+      "dimensions": "24.13 cm (9.5 in) L",
+      "medium": "Vinyl figure with fluorescent moon component",
+      "title": "KAWS:Holiday Shanghai (Black)",
+      "id": "kaws-holiday-shanghai-black",
+      "image": "/images/kaws_holiday_shanghai_black.jpg",
+      "description": "The black colourway of the KAWS:Holiday Shanghai figure, released alongside the brown and grey variants to commemorate the September 2024 Shanghai exhibition. The Companion reclines holding a luminous moon, with the moon component and outer box both produced in glow-in-the-dark material echoing the Mid-Autumn Festival theme.",
+      "year": "2024",
+      "category": "Rare Collectible",
+      "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
     },
     {
       "artist": "Ben Eine",
