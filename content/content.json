@@ -168,6 +168,35 @@
       "bio": "Jason Revok (b. 1977, Riverside, California) is a self-taught artist whose practice began in the Los Angeles graffiti scene of the 1990s, where he built a reputation as one of the most prolific writers of his generation before pivoting to an ambitious studio practice driven by minimalism and post-painterly abstraction. Refusing to be limited by his early recognition, Revok allows only certain elements from graffiti culture to transition to his contemporary work (modest materials, industrial tools, ingenuity) while his proclivity towards systematic yet imperfect mark-making has become the driving force behind his practice. In 2011 he relocated to Detroit, where he founded the Detroit Beautification Project, and in 2022 his solo exhibition was mounted at the Museum of Contemporary Art Detroit (MOCAD)."
     },
     {
+      "bio": "Christian Rex van Minnen (b. 1980, Providence, Rhode Island) is a largely self-taught painter who applies the indirect layering and glazing techniques of the Old Masters to grotesque, otherworldly imagery — bringing elegant, illuminated surfaces into deliberate tension with deformed bodies and macabre subject matter. His absurdist canvases revel in the grotesque and violent, featuring subjects riddled with sores that call to mind horror movie monsters, while neon-hued floral arrangements are embedded with rotting skulls — a practice informed by an artistic lineage spanning Dutch vanitas painting to the magical realism of Ivan Albright. He received his BA from Regis University in 2002 and held a residency at Anderson Ranch Arts Center in 2011. His work is held in the permanent collection of the Denver Art Museum.",
+      "image": "/images/rex_van_minnen.jpg",
+      "discipline": "Contemporary Painting / Neo-Surrealism",
+      "name": "Christian Rex van Minnen",
+      "id": "christian-rex-van-minnen"
+    },
+    {
+      "id": "banksy",
+      "name": "Banksy",
+      "discipline": "Urban Contemporary / Conceptual Art",
+      "image": "/images/banksy.jpg",
+      "bio": "Banksy is an anonymous England-based street artist, political activist, and film director whose satirical street art combines dark humour with a distinctive stencilling technique - his identity never publicly confirmed despite over three decades of activity. He began as a freehand graffiti artist in the early 1990s as part of Bristol's DryBreadZ Crew, before switching to stencils after realising how much less time they took - a method that allowed him to move faster and reach further. His works address politics, war, consumerism, and the art establishment itself, appearing on streets, walls, and bridges across the globe at vital moments in modern history and provoking alternative viewpoints on a mass scale. He developed a distinctive iconography of recognisable recurring images; rats, police officers, and children combined with slogans and dark wit. In 2018, his canvas Girl with Balloon partially self-destructed immediately after selling for £1 million at Sotheby's. It resold in 2021 for £18 million. His 2010 documentary Exit Through the Gift Shop was nominated for an Academy Award."
+    },
+    {
+      "id": "kaws",
+      "name": "Kaws",
+      "discipline": "Urban Contemporary / Fine Art",
+      "image": "/images/kaws.jpg",
+      "bio": "AWS (b. 1974, Jersey City, NJ) is the alias of Brian Donnelly, an American artist and designer whose work straddles fine art, street culture, and global commerce through a cast of recurring figurative characters (among them Companion, Accomplice, and Chum) rendered across paintings, sculptures, prints, and collectible vinyl toys. He obtained his BFA from the School of Visual Arts in New York and immediately after graduating in 1996 began working as a freelance animator for Disney, creating backgrounds for animated series including 101 Dalmatians, Daria, and Doug - by night subverting billboards, bus shelters, and phone booths across New York with his signature imagery. By the late 1990s he had begun producing limited-edition vinyl toys which became an instant phenomenon in Japan, launching a career that has since encompassed collaborations with Nike, Dior, Uniqlo, A Bathing Ape, and Kanye West. In 2019, THE KAWS ALBUM sold at auction for a record $14.8 million, and his monumental inflatable Companion was installed in Hong Kong's Victoria Harbour the same year."
+    },
+    {
+      "bio": "Maya Hayuk (b. 1969, Baltimore) is an American artist living and working in Brooklyn, best known for the bold geometric patterns she employs in large-scale murals. She received a BFA from Massachusetts College of Art and Design and has also studied at the University of Odesa in Ukraine and the Skowhegan School of Painting and Sculpture. Her vibrant abstractions draw variously on Ukrainian Easter eggs, Mexican woven blankets, mandalas, holograms, and Rorschach blots, built up using acrylic, ink, glitter, spray paint, watercolour, and tape into kaleidoscopic geometries across public walls and canvases. She has created commissions for UCLA's Hammer Museum, the Bonnefanten Museum in Maastricht, and Socrates Sculpture Park in New York, and has produced album covers and stage sets for M.I.A., TV on the Radio, The Flaming Lips, and the Beastie Boys.",
+      "image": "/images/maya_hayuk.jpg",
+      "location": "",
+      "discipline": "Urban Contemporary / Abstract Art",
+      "name": "Maya Hayuk",
+      "id": "maya-hayuk"
+    },
+    {
       "bio": "Gary Stranger is a largely self-taught British artist who took up graffiti in 1996 and went on to become a member of the MSK street art crew, before merging the aesthetics of street art with his deep interest in typography in the late 2000s. Recognised for their minimal aesthetic, precise freehand execution, and bold colour choices, his works typically depict a single word or phrase in a three-dimensional typographic style, produced across murals, studio paintings, works on paper, and sculpture. He is co-founder, alongside Pref, of Typograffic Circle; a collective of artists working at the intersection of graffiti and typographic design, taking placement and individual style from the street and combining it with the constraints of type-making. His work was included in the Royal Academy of Arts' 2020 Winter Exhibition, and in 2025 he was featured in Graffitecture: Typographic Blueprints at STRAAT Museum, Amsterdam. ",
       "image": "/images/gary_stranger.jpg",
       "discipline": "Typographic Art",
@@ -203,13 +232,6 @@
       "image": "/images/cleon_peterson.jpg"
     },
     {
-      "bio": "Christian Rex van Minnen (b. 1980, Providence, Rhode Island) is a largely self-taught painter who applies the indirect layering and glazing techniques of the Old Masters to grotesque, otherworldly imagery — bringing elegant, illuminated surfaces into deliberate tension with deformed bodies and macabre subject matter. His absurdist canvases revel in the grotesque and violent, featuring subjects riddled with sores that call to mind horror movie monsters, while neon-hued floral arrangements are embedded with rotting skulls — a practice informed by an artistic lineage spanning Dutch vanitas painting to the magical realism of Ivan Albright. He received his BA from Regis University in 2002 and held a residency at Anderson Ranch Arts Center in 2011. His work is held in the permanent collection of the Denver Art Museum.",
-      "image": "/images/rex_van_minnen.jpg",
-      "discipline": "Contemporary Painting / Neo-Surrealism",
-      "name": "Christian Rex van Minnen",
-      "id": "christian-rex-van-minnen"
-    },
-    {
       "bio": "Mark Drew is a Tokyo-based Australian artist best known for his mash-ups of early 1990s hip-hop lyrics with panels from vintage Peanuts comic strips - \"sampling\" visual culture in the same way that hip-hop producers layer borrowed beats into new compositions. Originally from Sydney, Drew co-founded China Heights Gallery in 2004 before relocating to Tokyo in 2009, where he continues to build a body of work that fuses music culture, comics, and graphic design. He debuted this approach in 2013 with a solo show in Sydney titled Deez Nuts, featuring lyrics by Jay-Z, Nas, Wu-Tang Clan, and the Notorious B.I.G.; his works are now in private collections worldwide, including that of Drake. His prints have been exhibited at Subliminal Projects in Los Angeles, StolenSpace Gallery in London, and Harman Projects in New York.",
       "image": "/images/mark_drew.jpg",
       "id": "mark-drew",
@@ -217,33 +239,11 @@
       "discipline": "Pop Art / Contemporary Print"
     },
     {
-      "bio": "Maya Hayuk (b. 1969, Baltimore) is an American artist living and working in Brooklyn, best known for the bold geometric patterns she employs in large-scale murals. She received a BFA from Massachusetts College of Art and Design and has also studied at the University of Odesa in Ukraine and the Skowhegan School of Painting and Sculpture. Her vibrant abstractions draw variously on Ukrainian Easter eggs, Mexican woven blankets, mandalas, holograms, and Rorschach blots, built up using acrylic, ink, glitter, spray paint, watercolour, and tape into kaleidoscopic geometries across public walls and canvases. She has created commissions for UCLA's Hammer Museum, the Bonnefanten Museum in Maastricht, and Socrates Sculpture Park in New York, and has produced album covers and stage sets for M.I.A., TV on the Radio, The Flaming Lips, and the Beastie Boys.",
-      "image": "/images/maya_hayuk.jpg",
-      "location": "",
-      "discipline": "Urban Contemporary / Abstract Art",
-      "name": "Maya Hayuk",
-      "id": "maya-hayuk"
-    },
-    {
       "id": "dface",
       "name": "D*Face",
       "bio": "D*Face is the alias of Dean Stockton (b. 1978, London), a British street artist whose bright, graphic practice draws on pop art, consumerism, and the visual language of skate and punk culture. As a teenager he discovered New York subway graffiti through Henry Chalfant's publications and was shaped by skateboarding culture and Thrasher magazine's skateboard deck graphics, leading him to the DIY mentality of stickers and street intervention. After studying illustration and design and working briefly as a freelance illustrator, he devoted himself to street art in the early 2000s, building a visual language that subverts pop art and consumer culture - reinterpreting cultural icons such as Marilyn Monroe, Andy Warhol, and the Queen in a register that is at once playful and critical. In 2005 he founded StolenSpace Gallery in Shoreditch, London's leading urban art space, and has since exhibited in New York, Los Angeles, Miami, Tokyo, Dubai, and beyond. Commercial collaborations have included the cover art for Blink-182's album California and work with David Beckham's Haig Club whisky.",
       "discipline": "Urban Contemporary / Pop Art",
       "image": "/images/dface.jpg"
-    },
-    {
-      "id": "banksy",
-      "name": "Banksy",
-      "discipline": "Urban Contemporary / Conceptual Art",
-      "image": "/images/banksy.jpg",
-      "bio": "Banksy is an anonymous England-based street artist, political activist, and film director whose satirical street art combines dark humour with a distinctive stencilling technique - his identity never publicly confirmed despite over three decades of activity. He began as a freehand graffiti artist in the early 1990s as part of Bristol's DryBreadZ Crew, before switching to stencils after realising how much less time they took - a method that allowed him to move faster and reach further. His works address politics, war, consumerism, and the art establishment itself, appearing on streets, walls, and bridges across the globe at vital moments in modern history and provoking alternative viewpoints on a mass scale. He developed a distinctive iconography of recognisable recurring images; rats, police officers, and children combined with slogans and dark wit. In 2018, his canvas Girl with Balloon partially self-destructed immediately after selling for £1 million at Sotheby's. It resold in 2021 for £18 million. His 2010 documentary Exit Through the Gift Shop was nominated for an Academy Award."
-    },
-    {
-      "id": "kaws",
-      "name": "Kaws",
-      "discipline": "Urban Contemporary / Fine Art",
-      "image": "/images/kaws.jpg",
-      "bio": "AWS (b. 1974, Jersey City, NJ) is the alias of Brian Donnelly, an American artist and designer whose work straddles fine art, street culture, and global commerce through a cast of recurring figurative characters (among them Companion, Accomplice, and Chum) rendered across paintings, sculptures, prints, and collectible vinyl toys. He obtained his BFA from the School of Visual Arts in New York and immediately after graduating in 1996 began working as a freelance animator for Disney, creating backgrounds for animated series including 101 Dalmatians, Daria, and Doug - by night subverting billboards, bus shelters, and phone booths across New York with his signature imagery. By the late 1990s he had begun producing limited-edition vinyl toys which became an instant phenomenon in Japan, launching a career that has since encompassed collaborations with Nike, Dior, Uniqlo, A Bathing Ape, and Kanye West. In 2019, THE KAWS ALBUM sold at auction for a record $14.8 million, and his monumental inflatable Companion was installed in Hong Kong's Victoria Harbour the same year."
     },
     {
       "id": "paul-insect",
