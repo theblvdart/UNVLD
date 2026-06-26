@@ -28,6 +28,32 @@
       "year": "2016",
       "category": "Rare Collectible",
       "edition": "Open edition, unnumbered; authenticated by stamp on base; sealed in clear blister packaging"
+    },
+    {
+      "artist": "Kaws",
+      "available": true,
+      "dimensions": "24.13 cm (9.5 in) L",
+      "medium": "Vinyl figure with fluorescent moon component",
+      "title": "KAWS:Holiday Shanghai (Brown)",
+      "id": "kaws-holiday-shanghai-brown",
+      "image": "/images/kaws_holiday_shanghai_brown.jpg",
+      "description": "The brown colourway of the KAWS:Holiday Shanghai figure, released alongside the black and grey variants to commemorate the September 2024 Shanghai exhibition. The Companion reclines holding a luminous moon, with the moon component and outer box both produced in glow-in-the-dark material echoing the Mid-Autumn Festival theme.",
+      "year": "2024",
+      "category": "Rare Collectible",
+      "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
+    },
+    {
+      "artist": "Kaws",
+      "available": true,
+      "dimensions": "24.13 cm (9.5 in) L",
+      "medium": "Vinyl figure with fluorescent moon component",
+      "title": "KAWS:Holiday Shanghai (Black)",
+      "id": "kaws-holiday-shanghai-black",
+      "image": "/images/kaws_holiday_shanghai_black.jpg",
+      "description": "The black colourway of the KAWS:Holiday Shanghai figure, released alongside the brown and grey variants to commemorate the September 2024 Shanghai exhibition. The Companion reclines holding a luminous moon, with the moon component and outer box both produced in glow-in-the-dark material echoing the Mid-Autumn Festival theme.",
+      "year": "2024",
+      "category": "Rare Collectible",
+      "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
     }
   ],
   "artists": [
