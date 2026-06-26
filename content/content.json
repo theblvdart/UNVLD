@@ -80,6 +80,71 @@
       "year": "2024",
       "category": "Edition",
       "edition": "Timed edition of 139, signed and numbered by the artist"
+    },
+    {
+      "artist": "The Miaz Brothers",
+      "available": true,
+      "dimensions": "48.5 × 38 cm",
+      "medium": "Archival inkjet on Hahnemühle Photo Rag 308gsm",
+      "title": "Lady with Green Background",
+      "id": "miaz-brother-lady-with-green-background",
+      "image": "/images/miaz_brothers_lady_with_green_background.jpg",
+      "description": "A companion piece to Gentleman with Red Dot, this print exemplifies the Miaz Brothers' \"Antimatter\" series - a ghostly, out-of-focus female portrait in which the subject dissolves into her vivid green ground, activating the viewer's own perception to complete the image.",
+      "year": "2019",
+      "category": "Edition",
+      "edition": "Edition of 100, signed and numbered by the artists"
+    },
+    {
+      "artist": "The Miaz Brothers",
+      "available": true,
+      "dimensions": "48.5 × 38 cm",
+      "medium": "Archival inkjet on Hahnemühle Photo Rag 308gsm",
+      "title": "Gentleman with Red Dot",
+      "id": "miaz-brother-gentleman-with-red-dot",
+      "image": "/images/miaz_brothers_gentleman_with_red_dot.jpg",
+      "description": "Part of the Miaz Brothers' celebrated \"Antimatter\" series, this AP edition captures the Italian duo's signature approach - a deliberately out-of-focus portrait that challenges the viewer's perception, dissolving identity into atmosphere. A companion piece to Lady with Green Background.",
+      "year": "2019",
+      "category": "Edition",
+      "edition": "Edition of 100, signed and numbered by the artists"
+    },
+    {
+      "artist": "Ben Eine",
+      "available": true,
+      "dimensions": "70 x 70cm",
+      "medium": "52-colour screenprint on fine art paper",
+      "title": "Tenderloin (Stone)",
+      "id": "ben-eine-tenderloin-stone",
+      "image": "/images/ben_eine_tenderloin_stone.jpg",
+      "description": "Part of Eine's celebrated Tenderloin A-Z series, this print presents the full alphabet in Eine's Tenderloin typeface, a font developed in collaboration with typographer Chank Diesel in 2012. The Stone colourway renders the characteristically bold letterforms in a muted, tonal palette, offering a quieter counterpart to the more vivid editions in the series.",
+      "year": "2013",
+      "category": "Edition",
+      "edition": "Edition of 75, hand signed by the artist"
+    },
+    {
+      "artist": "Yoon Hyup",
+      "available": true,
+      "dimensions": "70 x 52.8cm",
+      "medium": "Archival pigment print with silkscreen background on 410gsm Somerset Enhanced Satin paper",
+      "title": "City Fountain",
+      "id": "yoon-hyup-city-fountain",
+      "image": "/images/yoon_hyup_city_fountain.jpg",
+      "description": "Inspired by the artist's imagined memory of wandering through Manhattan, City Fountain captures the moment Hyup pauses at a water fountain, transfixed by the reflections of electric city lights. The energy and sound of New York are distilled into his signature language of line and dot - improvised, rhythmic, and alive long after the sun sets.",
+      "year": "2024",
+      "category": "Edition",
+      "edition": "Edition of 200, signed and numbered by the artist"
+    },
+    {
+      "artist": "Dran",
+      "available": true,
+      "dimensions": "45 × 32 cm",
+      "medium": "Hand embellished screen print with watercolours and pastels on 300gsm cotton paper",
+      "title": "Cher Père Noël (Pinocchio)",
+      "id": "dran-cher-père-noël-pinocchio",
+      "image": "/images/dran_cher_pere_noel_pinocchio-.jpg",
+      "description": "Dran, famous for his wry and socially conscious street art, often depicts children and toys to comment on societal truths. In \"Cher Père Noël\", he subverts the classic story of Pinocchio, capturing the innocence of childhood colliding with slightly cynical or surreal adult themes. Every piece in the edition of 100 was uniquely hand-embellished by the artist.",
+      "year": "2018",
+      "category": "Edition",
+      "edition": "Edition of 100, signed and numbered by the artist in pastel/crayon. Each print uniquely hand finished - no two are alike"
     }
   ],
   "artists": [
