@@ -225,20 +225,6 @@
       "image": "/images/hush.jpg"
     },
     {
-      "bio": "\nCleon Peterson (b. 1973, Seattle) is an American artist best known for large-scale paintings and murals depicting stylized figures in violent conflict, exploring themes of power, domination, and societal collapse. He experienced a troubled youth — dropping out of high school, becoming a skateboard artist, and surviving addiction and incarceration — before embarking definitively on a career in the arts. He earned a BFA from ArtCenter College of Design in Pasadena and an MFA from Cranbrook Academy of Art, before beginning his career as a graphic designer at Shepard Fairey's Studio Number One. Drawing on influences including Leon Golub, Paul McCarthy, and the aesthetics of Greek pottery and political propaganda posters, his high-contrast compositions of black, white, red, and yellow figures pack scenes of raw, authoritarian violence. In 2016 he created the first-ever mural painted directly beneath the Eiffel Tower for Nuit Blanche Paris. He lives and works in Los Angeles.",
-      "discipline": "Contemporary Art / Urban Contemporary",
-      "name": "Cleon Peterson",
-      "id": "cleon-peterson",
-      "image": "/images/cleon_peterson.jpg"
-    },
-    {
-      "bio": "Mark Drew is a Tokyo-based Australian artist best known for his mash-ups of early 1990s hip-hop lyrics with panels from vintage Peanuts comic strips - \"sampling\" visual culture in the same way that hip-hop producers layer borrowed beats into new compositions. Originally from Sydney, Drew co-founded China Heights Gallery in 2004 before relocating to Tokyo in 2009, where he continues to build a body of work that fuses music culture, comics, and graphic design. He debuted this approach in 2013 with a solo show in Sydney titled Deez Nuts, featuring lyrics by Jay-Z, Nas, Wu-Tang Clan, and the Notorious B.I.G.; his works are now in private collections worldwide, including that of Drake. His prints have been exhibited at Subliminal Projects in Los Angeles, StolenSpace Gallery in London, and Harman Projects in New York.",
-      "image": "/images/mark_drew.jpg",
-      "id": "mark-drew",
-      "name": "Mark Drew",
-      "discipline": "Pop Art / Contemporary Print"
-    },
-    {
       "id": "dface",
       "name": "D*Face",
       "bio": "D*Face is the alias of Dean Stockton (b. 1978, London), a British street artist whose bright, graphic practice draws on pop art, consumerism, and the visual language of skate and punk culture. As a teenager he discovered New York subway graffiti through Henry Chalfant's publications and was shaped by skateboarding culture and Thrasher magazine's skateboard deck graphics, leading him to the DIY mentality of stickers and street intervention. After studying illustration and design and working briefly as a freelance illustrator, he devoted himself to street art in the early 2000s, building a visual language that subverts pop art and consumer culture - reinterpreting cultural icons such as Marilyn Monroe, Andy Warhol, and the Queen in a register that is at once playful and critical. In 2005 he founded StolenSpace Gallery in Shoreditch, London's leading urban art space, and has since exhibited in New York, Los Angeles, Miami, Tokyo, Dubai, and beyond. Commercial collaborations have included the cover art for Blink-182's album California and work with David Beckham's Haig Club whisky.",
@@ -251,6 +237,20 @@
       "discipline": "Pop Art / Mixed Media",
       "image": "/images/paul_insect.jpg",
       "bio": "Paul Insect (b. 1971, south-east England) studied graphic design at Hastings and Salisbury Art Colleges before founding the Insect collective in 1996, which began by creating flyers for raves and parties in East London - an early signal of his deep roots in the underground scene. Emerging through Pictures on Walls alongside Banksy, he quickly established a reputation for blending DIY aesthetics with bold graphic experimentation, collaborating on Santa's Ghetto, the Cans Festival, and Banksy's Dismaland. His mixed-media portraits (faces obscured behind swabs of primary colour, bold patterns, and collaged elements) draw on Dada, Pop Art, and graffiti, exploring the tension between what we reveal and what we conceal. His 2007 solo show Bullion at Lazarides Gallery was reportedly bought in its entirety by Damien Hirst before it opened, catapulting him into the front rank of British urban art. He remains anonymous."
+    },
+    {
+      "bio": "\nCleon Peterson (b. 1973, Seattle) is an American artist best known for large-scale paintings and murals depicting stylized figures in violent conflict, exploring themes of power, domination, and societal collapse. He experienced a troubled youth — dropping out of high school, becoming a skateboard artist, and surviving addiction and incarceration — before embarking definitively on a career in the arts. He earned a BFA from ArtCenter College of Design in Pasadena and an MFA from Cranbrook Academy of Art, before beginning his career as a graphic designer at Shepard Fairey's Studio Number One. Drawing on influences including Leon Golub, Paul McCarthy, and the aesthetics of Greek pottery and political propaganda posters, his high-contrast compositions of black, white, red, and yellow figures pack scenes of raw, authoritarian violence. In 2016 he created the first-ever mural painted directly beneath the Eiffel Tower for Nuit Blanche Paris. He lives and works in Los Angeles.",
+      "discipline": "Contemporary Art / Urban Contemporary",
+      "name": "Cleon Peterson",
+      "id": "cleon-peterson",
+      "image": "/images/cleon_peterson.jpg"
+    },
+    {
+      "bio": "Mark Drew is a Tokyo-based Australian artist best known for his mash-ups of early 1990s hip-hop lyrics with panels from vintage Peanuts comic strips - \"sampling\" visual culture in the same way that hip-hop producers layer borrowed beats into new compositions. Originally from Sydney, Drew co-founded China Heights Gallery in 2004 before relocating to Tokyo in 2009, where he continues to build a body of work that fuses music culture, comics, and graphic design. He debuted this approach in 2013 with a solo show in Sydney titled Deez Nuts, featuring lyrics by Jay-Z, Nas, Wu-Tang Clan, and the Notorious B.I.G.; his works are now in private collections worldwide, including that of Drake. His prints have been exhibited at Subliminal Projects in Los Angeles, StolenSpace Gallery in London, and Harman Projects in New York.",
+      "image": "/images/mark_drew.jpg",
+      "id": "mark-drew",
+      "name": "Mark Drew",
+      "discipline": "Pop Art / Contemporary Print"
     },
     {
       "id": "piet-parra",
