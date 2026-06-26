@@ -1,6 +1,32 @@
 {
   "works": [
     {
+      "artist": "The Miaz Brothers",
+      "available": true,
+      "dimensions": "48.5 × 38 cm",
+      "medium": "Archival inkjet on Hahnemühle Photo Rag 308gsm",
+      "title": "Gentleman with Red Dot",
+      "id": "miaz-brother-gentleman-with-red-dot",
+      "image": "/images/miaz_brothers_gentleman_with_red_dot.jpg",
+      "description": "Part of the Miaz Brothers' celebrated \"Antimatter\" series, this AP edition captures the Italian duo's signature approach - a deliberately out-of-focus portrait that challenges the viewer's perception, dissolving identity into atmosphere. A companion piece to Lady with Green Background.",
+      "year": "2019",
+      "category": "Edition",
+      "edition": "Edition of 100, signed and numbered by the artists"
+    },
+    {
+      "artist": "Yoon Hyup",
+      "available": true,
+      "dimensions": "70 x 52.8cm",
+      "medium": "Archival pigment print with silkscreen background on 410gsm Somerset Enhanced Satin paper",
+      "title": "City Fountain",
+      "id": "yoon-hyup-city-fountain",
+      "image": "/images/yoon_hyup_city_fountain.jpg",
+      "description": "Inspired by the artist's imagined memory of wandering through Manhattan, City Fountain captures the moment Hyup pauses at a water fountain, transfixed by the reflections of electric city lights. The energy and sound of New York are distilled into his signature language of line and dot - improvised, rhythmic, and alive long after the sun sets.",
+      "year": "2024",
+      "category": "Edition",
+      "edition": "Edition of 200, signed and numbered by the artist"
+    },
+    {
       "artist": "Invader",
       "available": true,
       "collaborators": [
@@ -19,19 +45,6 @@
     {
       "artist": "Kaws",
       "available": true,
-      "dimensions": "27.9 × 11.4 × 8.9 cm (11 × 4.5 × 3.5 in)",
-      "medium": "Painted vinyl, black exterior with neon interior",
-      "title": "Companion Flayed (Black)",
-      "id": "kaws-companion-flayed-black",
-      "image": "/images/kaws_companion_flayed_black.jpg",
-      "description": "Released in 2016, this open edition Companion Flayed splits the figure to reveal a vivid, neon-coloured interior - a literal and conceptual exposure of what lies beneath the surface. One of the most iconic works in KAWS' extensive catalogue of vinyl figures, authenticated by a stamped KAWS signature on the base.",
-      "year": "2016",
-      "category": "Rare Collectible",
-      "edition": "Open edition, unnumbered; authenticated by stamp on base; sealed in clear blister packaging"
-    },
-    {
-      "artist": "Kaws",
-      "available": true,
       "dimensions": "24.13 cm (9.5 in) L",
       "medium": "Vinyl figure with fluorescent moon component",
       "title": "KAWS:Holiday Shanghai (Brown)",
@@ -41,6 +54,19 @@
       "year": "2024",
       "category": "Rare Collectible",
       "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
+    },
+    {
+      "artist": "Kaws",
+      "available": true,
+      "dimensions": "27.9 × 11.4 × 8.9 cm (11 × 4.5 × 3.5 in)",
+      "medium": "Painted vinyl, black exterior with neon interior",
+      "title": "Companion Flayed (Black)",
+      "id": "kaws-companion-flayed-black",
+      "image": "/images/kaws_companion_flayed_black.jpg",
+      "description": "Released in 2016, this open edition Companion Flayed splits the figure to reveal a vivid, neon-coloured interior - a literal and conceptual exposure of what lies beneath the surface. One of the most iconic works in KAWS' extensive catalogue of vinyl figures, authenticated by a stamped KAWS signature on the base.",
+      "year": "2016",
+      "category": "Rare Collectible",
+      "edition": "Open edition, unnumbered; authenticated by stamp on base; sealed in clear blister packaging"
     },
     {
       "artist": "Kaws",
@@ -95,19 +121,6 @@
       "edition": "Edition of 100, signed and numbered by the artists"
     },
     {
-      "artist": "The Miaz Brothers",
-      "available": true,
-      "dimensions": "48.5 × 38 cm",
-      "medium": "Archival inkjet on Hahnemühle Photo Rag 308gsm",
-      "title": "Gentleman with Red Dot",
-      "id": "miaz-brother-gentleman-with-red-dot",
-      "image": "/images/miaz_brothers_gentleman_with_red_dot.jpg",
-      "description": "Part of the Miaz Brothers' celebrated \"Antimatter\" series, this AP edition captures the Italian duo's signature approach - a deliberately out-of-focus portrait that challenges the viewer's perception, dissolving identity into atmosphere. A companion piece to Lady with Green Background.",
-      "year": "2019",
-      "category": "Edition",
-      "edition": "Edition of 100, signed and numbered by the artists"
-    },
-    {
       "artist": "Ben Eine",
       "available": true,
       "dimensions": "70 x 70cm",
@@ -119,19 +132,6 @@
       "year": "2013",
       "category": "Edition",
       "edition": "Edition of 75, hand signed by the artist"
-    },
-    {
-      "artist": "Yoon Hyup",
-      "available": true,
-      "dimensions": "70 x 52.8cm",
-      "medium": "Archival pigment print with silkscreen background on 410gsm Somerset Enhanced Satin paper",
-      "title": "City Fountain",
-      "id": "yoon-hyup-city-fountain",
-      "image": "/images/yoon_hyup_city_fountain.jpg",
-      "description": "Inspired by the artist's imagined memory of wandering through Manhattan, City Fountain captures the moment Hyup pauses at a water fountain, transfixed by the reflections of electric city lights. The energy and sound of New York are distilled into his signature language of line and dot - improvised, rhythmic, and alive long after the sun sets.",
-      "year": "2024",
-      "category": "Edition",
-      "edition": "Edition of 200, signed and numbered by the artist"
     },
     {
       "artist": "Dran",
