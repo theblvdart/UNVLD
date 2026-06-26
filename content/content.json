@@ -246,6 +246,13 @@
       "image": "/images/cleon_peterson.jpg"
     },
     {
+      "id": "stik",
+      "name": "Stik",
+      "discipline": "Urban Contemporary",
+      "image": "/images/stik.jpg",
+      "bio": "Stik (b. 1979, London) is an anonymous, self-taught British street artist who spent several years living in homeless shelters before beginning to paint unofficial murals on the streets of Hackney in 2001. His signature figures, composed of just six lines and two dots, draw subtle influence from Japanese kanji characters, achieving a neutrality that allows them to carry enormous emotional weight. Each work is conceived as a donation to the community, addressing homelessness, LGBTQ+ rights, and social housing; Stik only authorises primary market sales on the condition that all proceeds go to charity. He has collaborated with Amnesty International, recreated Old Master paintings for Dulwich Picture Gallery, and in 2022 a work sold at Bonhams for £247,000. "
+    },
+    {
       "bio": "Mark Drew is a Tokyo-based Australian artist best known for his mash-ups of early 1990s hip-hop lyrics with panels from vintage Peanuts comic strips - \"sampling\" visual culture in the same way that hip-hop producers layer borrowed beats into new compositions. Originally from Sydney, Drew co-founded China Heights Gallery in 2004 before relocating to Tokyo in 2009, where he continues to build a body of work that fuses music culture, comics, and graphic design. He debuted this approach in 2013 with a solo show in Sydney titled Deez Nuts, featuring lyrics by Jay-Z, Nas, Wu-Tang Clan, and the Notorious B.I.G.; his works are now in private collections worldwide, including that of Drake. His prints have been exhibited at Subliminal Projects in Los Angeles, StolenSpace Gallery in London, and Harman Projects in New York.",
       "image": "/images/mark_drew.jpg",
       "id": "mark-drew",
@@ -258,13 +265,6 @@
       "discipline": "Urban Contemporary",
       "image": "/images/piet_parra.jpg",
       "bio": "Parra (born Pieter Janssen, 1976, Amsterdam) came up through skateboarding before transitioning into art direction for the Dutch skateboard brand Colorblind, where he designed logos, board graphics, and flyers for parties and music venues - the hand-drawn style he developed there becoming the foundation of everything that followed. His fine art practice features flat, saturated planes of bold colour and faceless female characters in abstracted domestic scenes, drawing comparisons to Tom Wesselmann and Matisse, alongside his earlier signature beaked, bird-like figures. His \"Post Pop\" aesthetic draws on Pop Art and the experimental graphics of the 1960s, and extends across painting, sculpture, illustration, and his clothing line ByParra. His work has been acquired by the San Francisco Museum of Modern Art and exhibited in New York, Los Angeles, Berlin, Hong Kong, London, and Amsterdam. "
-    },
-    {
-      "id": "stik",
-      "name": "Stik",
-      "discipline": "Urban Contemporary",
-      "image": "/images/stik.jpg",
-      "bio": "Stik (b. 1979, London) is an anonymous, self-taught British street artist who spent several years living in homeless shelters before beginning to paint unofficial murals on the streets of Hackney in 2001. His signature figures, composed of just six lines and two dots, draw subtle influence from Japanese kanji characters, achieving a neutrality that allows them to carry enormous emotional weight. Each work is conceived as a donation to the community, addressing homelessness, LGBTQ+ rights, and social housing; Stik only authorises primary market sales on the condition that all proceeds go to charity. He has collaborated with Amnesty International, recreated Old Master paintings for Dulwich Picture Gallery, and in 2022 a work sold at Bonhams for £247,000. "
     },
     {
       "id": "ralph-steadman",
