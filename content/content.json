@@ -158,6 +158,76 @@
       "discipline": "Urban Contemporary / Abstract Art",
       "name": "Maya Hayuk",
       "id": "maya-hayuk"
+    },
+    {
+      "id": "dface",
+      "name": "D*Face",
+      "bio": "D*Face is the alias of Dean Stockton (b. 1978, London), a British street artist whose bright, graphic practice draws on pop art, consumerism, and the visual language of skate and punk culture. As a teenager he discovered New York subway graffiti through Henry Chalfant's publications and was shaped by skateboarding culture and Thrasher magazine's skateboard deck graphics, leading him to the DIY mentality of stickers and street intervention. After studying illustration and design and working briefly as a freelance illustrator, he devoted himself to street art in the early 2000s, building a visual language that subverts pop art and consumer culture - reinterpreting cultural icons such as Marilyn Monroe, Andy Warhol, and the Queen in a register that is at once playful and critical. In 2005 he founded StolenSpace Gallery in Shoreditch, London's leading urban art space, and has since exhibited in New York, Los Angeles, Miami, Tokyo, Dubai, and beyond. Commercial collaborations have included the cover art for Blink-182's album California and work with David Beckham's Haig Club whisky.",
+      "discipline": "Urban Contemporary / Pop Art",
+      "image": "/images/dface.jpg"
+    },
+    {
+      "id": "banksy",
+      "name": "Banksy",
+      "discipline": "Urban Contemporary / Conceptual Art",
+      "image": "/images/banksy.jpg",
+      "bio": "Banksy is an anonymous England-based street artist, political activist, and film director whose satirical street art combines dark humour with a distinctive stencilling technique - his identity never publicly confirmed despite over three decades of activity. He began as a freehand graffiti artist in the early 1990s as part of Bristol's DryBreadZ Crew, before switching to stencils after realising how much less time they took - a method that allowed him to move faster and reach further. His works address politics, war, consumerism, and the art establishment itself, appearing on streets, walls, and bridges across the globe at vital moments in modern history and provoking alternative viewpoints on a mass scale. He developed a distinctive iconography of recognisable recurring images; rats, police officers, and children combined with slogans and dark wit. In 2018, his canvas Girl with Balloon partially self-destructed immediately after selling for £1 million at Sotheby's. It resold in 2021 for £18 million. His 2010 documentary Exit Through the Gift Shop was nominated for an Academy Award."
+    },
+    {
+      "id": "kaws",
+      "name": "Kaws",
+      "discipline": "Urban Contemporary / Fine Art",
+      "image": "/images/kaws.jpg",
+      "bio": "AWS (b. 1974, Jersey City, NJ) is the alias of Brian Donnelly, an American artist and designer whose work straddles fine art, street culture, and global commerce through a cast of recurring figurative characters (among them Companion, Accomplice, and Chum) rendered across paintings, sculptures, prints, and collectible vinyl toys. He obtained his BFA from the School of Visual Arts in New York and immediately after graduating in 1996 began working as a freelance animator for Disney, creating backgrounds for animated series including 101 Dalmatians, Daria, and Doug - by night subverting billboards, bus shelters, and phone booths across New York with his signature imagery. By the late 1990s he had begun producing limited-edition vinyl toys which became an instant phenomenon in Japan, launching a career that has since encompassed collaborations with Nike, Dior, Uniqlo, A Bathing Ape, and Kanye West. In 2019, THE KAWS ALBUM sold at auction for a record $14.8 million, and his monumental inflatable Companion was installed in Hong Kong's Victoria Harbour the same year."
+    },
+    {
+      "id": "paul-insect",
+      "name": "Paul Insect",
+      "discipline": "Pop Art / Mixed Media",
+      "image": "/images/paul_insect.jpg",
+      "bio": "Paul Insect (b. 1971, south-east England) studied graphic design at Hastings and Salisbury Art Colleges before founding the Insect collective in 1996, which began by creating flyers for raves and parties in East London - an early signal of his deep roots in the underground scene. Emerging through Pictures on Walls alongside Banksy, he quickly established a reputation for blending DIY aesthetics with bold graphic experimentation, collaborating on Santa's Ghetto, the Cans Festival, and Banksy's Dismaland. His mixed-media portraits (faces obscured behind swabs of primary colour, bold patterns, and collaged elements) draw on Dada, Pop Art, and graffiti, exploring the tension between what we reveal and what we conceal. His 2007 solo show Bullion at Lazarides Gallery was reportedly bought in its entirety by Damien Hirst before it opened, catapulting him into the front rank of British urban art. He remains anonymous."
+    },
+    {
+      "id": "piet-parra",
+      "name": "Piet Parra",
+      "discipline": "Urban Contemporary",
+      "image": "/images/piet_parra.jpg",
+      "bio": "Parra (born Pieter Janssen, 1976, Amsterdam) came up through skateboarding before transitioning into art direction for the Dutch skateboard brand Colorblind, where he designed logos, board graphics, and flyers for parties and music venues - the hand-drawn style he developed there becoming the foundation of everything that followed. His fine art practice features flat, saturated planes of bold colour and faceless female characters in abstracted domestic scenes, drawing comparisons to Tom Wesselmann and Matisse, alongside his earlier signature beaked, bird-like figures. His \"Post Pop\" aesthetic draws on Pop Art and the experimental graphics of the 1960s, and extends across painting, sculpture, illustration, and his clothing line ByParra. His work has been acquired by the San Francisco Museum of Modern Art and exhibited in New York, Los Angeles, Berlin, Hong Kong, London, and Amsterdam. "
+    },
+    {
+      "id": "stik",
+      "name": "Stik",
+      "discipline": "Urban Contemporary",
+      "image": "/images/stik.jpg",
+      "bio": "Stik (b. 1979, London) is an anonymous, self-taught British street artist who spent several years living in homeless shelters before beginning to paint unofficial murals on the streets of Hackney in 2001. His signature figures, composed of just six lines and two dots, draw subtle influence from Japanese kanji characters, achieving a neutrality that allows them to carry enormous emotional weight. Each work is conceived as a donation to the community, addressing homelessness, LGBTQ+ rights, and social housing; Stik only authorises primary market sales on the condition that all proceeds go to charity. He has collaborated with Amnesty International, recreated Old Master paintings for Dulwich Picture Gallery, and in 2022 a work sold at Bonhams for £247,000. "
+    },
+    {
+      "id": "ralph-steadman",
+      "name": "Ralph Steadman",
+      "discipline": "Illustration / Print",
+      "image": "/images/ralph_steadman.jpg",
+      "bio": "Ralph Steadman (b. 1936, Wallasey) is a Welsh illustrator and cartoonist who trained at East Ham Technical College and the London College of Printing, doing freelance work for Punch, Private Eye, The Daily Telegraph, and Rolling Stone. Inspired by George Grosz and John Heartfield, he developed a distinctive style defined by energetic ink splatters and grotesque, flamboyant figures - a visual language inseparable from his 40-year collaboration with Hunter S. Thompson, which produced the defining images of Fear and Loathing in Las Vegas and helped birth gonzo journalism. After regretting the sale of his Fear and Loathing originals for $75, Steadman largely refused to sell original artwork, declaring \"if anyone owns a Steadman original, it's stolen.\" He has also illustrated Alice in Wonderland, Animal Farm, and Treasure Island, and created the Breaking Bad DVD box set artwork."
+    },
+    {
+      "id": "james-joyce",
+      "name": "Urban Contemporary",
+      "discipline": "Urban Contemporary / Graphic Art",
+      "bio": "James Joyce was born in Wolverhampton and studied at Walsall College of Art and Kingston University. Working across painting, screen printing, and drawing, he has developed a striking visual language built on typographic forms and everyday symbols - dismantling and reconfiguring familiar imagery to create something that is simultaneously recognisable and fundamentally altered. His rotating video installation Perseverance in the Face of Absurdity was a central piece in Banksy's landmark 2015 exhibition Dismaland, chosen by Banksy as the signature image for the event. His commercial clients include Apple, Nike, The Guardian, and the New York Times, and his work has been exhibited at the Royal Academy of Arts and Saatchi Gallery. He lives and works in London.",
+      "image": "/images/james_joyce.jpg"
+    },
+    {
+      "discipline": "Urban Contemporary / Conceptual",
+      "id": "robert-del-naja-3d",
+      "name": "Robert Del Naja / 3D",
+      "bio": "Robert Del Naja (b. 1965, Bristol), known as 3D, emerged as a graffiti artist in the Bristol collective The Wild Bunch in the 1980s - one of the first British artists to make stencil graffiti a language, with his work appearing in Henry Chalfant's seminal Spraycan Art (1987) as one of the few UK artists featured. He went on to co-found Massive Attack, whose 1991 debut Blue Lines is widely credited with defining trip hop, and received the Ivor Novello Award for Outstanding Contribution to British Music in 2009. His visual art is inseparable from Massive Attack's identity - designing album covers, tour visuals, and immersive live shows combining film, LED installation, and political content — while his standalone War Paint series, exhibited at Lazarides Gallery, addressed global conflict and power. He has long been the subject of speculation that he is Banksy, which he has denied.",
+      "image": "/images/robert_del_naja_3d.jpg"
+    },
+    {
+      "id": "mue-bon",
+      "name": "Mue Bon",
+      "discipline": "Urban Contemporary",
+      "bio": "Mue Bon (b. Thailand) grew up in the slums of Thonburi, Bangkok, studied art at the Rajamangala Institute of Technology, and graduated with honours in 2005. His alias translates as \"fidgety hands\" (a nod to his relentless mark-making) and he was a founding figure of Thailand's first generation of street artists, painting at a time when the practice was neither widely known nor respected in his country. He has created a cast of signature characters over the years, including a cartoon bird named PUKRUK, a girl behind a mask, and Mr. TV (a figure with a television screen for a face) all carrying commentary on wealth disparity, media propaganda, and anti-war activism. His style and ability to translate street work into detailed and vibrant gallery paintings, sculptures, and installations sets him apart and puts him at the forefront of Asian street art.",
+      "image": "/images/mue_bon.jpg"
     }
   ],
   "journal": [
