@@ -276,6 +276,19 @@
       "edition": "Edition of 150, hand-signed and numbered by the artist in pencil"
     },
     {
+      "artist": "Paul Insect",
+      "available": true,
+      "dimensions": "18 × 27 cm (image) / 30.5 × 38 cm (sheet)",
+      "medium": "Screenprint in colours on wove paper",
+      "title": "In a Dreamland",
+      "id": "paul-insect-in-a-dreamland",
+      "image": "/images/paul_insect_in_a_dreamland.jpg",
+      "description": "A rare small-format edition from Paul Insect, published by Coriander Studio and personally inscribed 'Margate' by the artist - a nod to the seaside town that has become a focal point for British artists and a recurring presence in his work. One of just 50 copies, this is among his most intimate print releases.",
+      "year": "2019",
+      "category": "Edition",
+      "edition": "Edition of 50, signed, dated and inscribed 'Margate' in pencil. Published by Coriander Studio with embossed blindstamp"
+    },
+    {
       "artist": "David Shrigley",
       "available": true,
       "dimensions": "29 × 12.5 × 7.5 cm",
@@ -326,19 +339,6 @@
       "year": "2012",
       "category": "Edition",
       "edition": "Edition of 99, signed and numbered by the artist. Each print uniquely hand-finished"
-    },
-    {
-      "artist": "Paul Insect",
-      "available": true,
-      "dimensions": "18 × 27 cm (image) / 30.5 × 38 cm (sheet)",
-      "medium": "Screenprint in colours on wove paper",
-      "title": "In a Dreamland",
-      "id": "paul-insect-in-a-dreamland",
-      "image": "/images/paul_insect_in_a_dreamland.jpg",
-      "description": "A rare small-format edition from Paul Insect, published by Coriander Studio and personally inscribed 'Margate' by the artist - a nod to the seaside town that has become a focal point for British artists and a recurring presence in his work. One of just 50 copies, this is among his most intimate print releases.",
-      "year": "2019",
-      "category": "Edition",
-      "edition": "Edition of 50, signed, dated and inscribed 'Margate' in pencil. Published by Coriander Studio with embossed blindstamp"
     }
   ],
   "artists": [
