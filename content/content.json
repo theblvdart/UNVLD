@@ -145,6 +145,18 @@
       "year": "2024",
       "category": "Rare Collectible",
       "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
+    },
+    {
+      "artist": "Marina Abramović",
+      "available": true,
+      "dimensions": "30.5 × 22.9 cm (12 × 9 in)",
+      "medium": "Screenprint on paper",
+      "title": "Seven Minutes of Collective Silence",
+      "id": "marina-abramović-seven-minutes-of-collective-silence",
+      "description": "Produced to commemorate Abramović's Seven Minutes of Collective Silence — a live performance on the Pyramid Stage at Glastonbury Festival, June 2024, in which she invited an audience of up to 200,000 to observe seven minutes of silence in response to global conflict. The edition size of 1,668 is not arbitrary: it reflects the total number of minutes of collective silence observed at the performance, a conceptual extension of the work itself.",
+      "year": "2024",
+      "category": "Edition",
+      "edition": "Edition of 1,668, signed by the artist and numbered on publisher's COA"
     }
   ],
   "artists": [
