@@ -54,6 +54,32 @@
       "year": "2024",
       "category": "Rare Collectible",
       "edition": "Limited edition, certified NFC chip of authenticity; packaging box with special fluorescent paint"
+    },
+    {
+      "artist": "Paul Kremer",
+      "available": true,
+      "dimensions": "61 × 46 cm (24 × 18 in)",
+      "medium": "Hand-pulled screen print on Mohawk Superfine Smooth Paper",
+      "title": "Drop 46",
+      "id": "paul-kremer-drop-46",
+      "image": "/images/paul_kremer_drop_46.jpg",
+      "description": "From Kremer's \"Drop\" series, this timed edition explores weight, gravity, and suspension —-what the artist describes as the act of being uncertainly still between two states. Released alongside Crevice 48 as part of Louis Buhl Gallery's 48-hour timed sale in March 2024.",
+      "year": "2024",
+      "category": "Edition",
+      "edition": "Timed edition of 176, signed and numbered by the artist"
+    },
+    {
+      "artist": "Paul Kremer",
+      "available": true,
+      "dimensions": "61 × 46 cm (24 × 18 in)",
+      "medium": "Hand-pulled screen print on Mohawk Superfine Smooth Paper",
+      "title": "Crevice 48",
+      "id": "paul-kremer-crevice-48",
+      "image": "/images/paul_kremer_crevice_48.jpg",
+      "description": "Part of Kremer's ongoing \"Crevice\" series, this timed edition distils his signature hard-edge abstraction into print - bold, flat fields of colour whose precise geometry hints at landscape or architecture without ever committing to either. Published by Louis Buhl Gallery as a timed release in 2024.",
+      "year": "2024",
+      "category": "Edition",
+      "edition": "Timed edition of 139, signed and numbered by the artist"
     }
   ],
   "artists": [
