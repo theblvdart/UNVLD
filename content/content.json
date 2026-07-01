@@ -339,6 +339,45 @@
       "year": "2012",
       "category": "Edition",
       "edition": "Edition of 99, signed and numbered by the artist. Each print uniquely hand-finished"
+    },
+    {
+      "artist": "Ralph Steadman",
+      "available": true,
+      "dimensions": "30 × 21 cm",
+      "medium": "Giclée print",
+      "title": "Shane MacGowan (Tribute)",
+      "id": "ralph-steadman-shane-macgowan",
+      "image": "/images/ralph-steadman-shane-macgowan.jpg",
+      "description": "Steadman's portrait of Shane MacGowan - two kindred spirits whose work shares a feral, ink-splattered energy and a deep affinity for music, excess, and the grotesque. Signed in ink; a characteristic of Steadman, who rarely signs in pencil.",
+      "year": "2021",
+      "category": "Edition",
+      "edition": "Limited edition, hand-signed by the artist in ink"
+    },
+    {
+      "artist": "Maya Hayuk",
+      "available": true,
+      "dimensions": "28 × 28 cm (11 × 11 in)",
+      "medium": "4-colour risograph in Turquoise, Flo Pink, Sunflower and Midnight inks on 110lb index / 200gsm fine art paper",
+      "title": "Riso Print",
+      "id": "maya-hayuk-riso-print",
+      "image": "/images/riso-print-maya-hayuk.jpg",
+      "description": "A compact, jewel-like edition that distils Hayuk's kaleidoscopic mural language into an intimate format. The risograph process, a soy-based ink system developed in Japan, produces a characteristic softness and slight registration variation that gives each print a subtly unique quality. Printed at Chute Studio in Berkeley, a press closely associated with the West Coast art publishing scene.",
+      "year": "2021",
+      "category": "Edition",
+      "edition": "Edition of 150, signed and numbered by the artist in pencil"
+    },
+    {
+      "artist": "Jason Revok",
+      "available": true,
+      "dimensions": "60.96 × 74.93 cm (24 × 29.5 in)",
+      "medium": "3-colour, two-sided serigraph with Ultra Gloss Spot UV on 160lb Mohawk Superfine Ultra White Cover. Reverse printed in luminous yellow",
+      "title": "Kundalini Loop 1",
+      "id": "jason-revok-kundalini-loop-1",
+      "image": "/images/jason-revok-kundalini-loop-1.jpg",
+      "description": "A technically ambitious two-sided print published by Louis Buhl Gallery, Detroit. The reverse is printed in luminous yellow; a direct reference to the original Kundalini paintings, in which Revok applied fluorescent paint to the edges of his canvases. When float mounted, the luminous reverse bleeds through from behind, causing the print to appear to glow; an installation effect built into the edition itself.",
+      "year": "2017",
+      "category": "Edition",
+      "edition": "Edition of 75, deckled edges, signed and numbered by the artist"
     }
   ],
   "artists": [
