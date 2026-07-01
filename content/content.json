@@ -328,19 +328,6 @@
       "edition": "Timed edition, closing at 2,908 copies; digitally signed and numbered on HENI label verso"
     },
     {
-      "artist": "Hush",
-      "available": true,
-      "dimensions": "30 x 30cm",
-      "medium": "4-colour screenprint with hand-painted background",
-      "title": "Untitled / Moniker",
-      "id": "hush-untitled-moniker",
-      "image": "/images/hush_untitled.jpg",
-      "description": "Officially untitled, this print is fondly known as Moniker among collectors - a nod to its origins at the Moniker Art Fair, Shoreditch, October 2012, where it was produced during a live printing session published by Jealous Gallery. The hand-painted background makes every copy in the edition of 99 unique, rendering each print a direct record of the session itself.",
-      "year": "2012",
-      "category": "Edition",
-      "edition": "Edition of 99, signed and numbered by the artist. Each print uniquely hand-finished"
-    },
-    {
       "artist": "Ralph Steadman",
       "available": true,
       "dimensions": "30 × 21 cm",
@@ -365,6 +352,19 @@
       "year": "2021",
       "category": "Edition",
       "edition": "Edition of 150, signed and numbered by the artist in pencil"
+    },
+    {
+      "artist": "Hush",
+      "available": true,
+      "dimensions": "30 x 30cm",
+      "medium": "4-colour screenprint with hand-painted background",
+      "title": "Untitled / Moniker",
+      "id": "hush-untitled-moniker",
+      "image": "/images/hush_untitled.jpg",
+      "description": "Officially untitled, this print is fondly known as Moniker among collectors - a nod to its origins at the Moniker Art Fair, Shoreditch, October 2012, where it was produced during a live printing session published by Jealous Gallery. The hand-painted background makes every copy in the edition of 99 unique, rendering each print a direct record of the session itself.",
+      "year": "2012",
+      "category": "Edition",
+      "edition": "Edition of 99, signed and numbered by the artist. Each print uniquely hand-finished"
     },
     {
       "artist": "Cleon Peterson",
