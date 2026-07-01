@@ -378,6 +378,45 @@
       "year": "2017",
       "category": "Edition",
       "edition": "Edition of 75, deckled edges, signed and numbered by the artist"
+    },
+    {
+      "artist": "Ralph Steadman",
+      "available": true,
+      "dimensions": "25.4 × 30.5 cm (10 × 12 in)",
+      "medium": "Giclee on paper",
+      "title": "Vintage Dr Gonzo",
+      "id": "ralph-steadman-vintage-dr-gonzo",
+      "image": "/images/ralph-steadman-vintage-dr-gonzo.jpg",
+      "description": "The iconic image of Dr. Gonzo, Hunter S. Thompson's alter ego sneaking from the hotel with his suitcase, originally drawn by Steadman for the serialisation of Fear and Loathing in Las Vegas in Rolling Stone, 1971. This giclée reproduces that classic illustration, sold directly through Steadman's studio as an open edition for a limited period and hand-signed in ink. A separate screenprint edition of 500, co-signed by both Steadman and Thompson, also exists, this is a distinct and later release.",
+      "year": "c. 2016 (original illustration 1971)",
+      "category": "Edition",
+      "edition": "Open edition produced for a limited period; hand-signed by the artist in ink"
+    },
+    {
+      "artist": "Cleon Peterson",
+      "available": true,
+      "dimensions": "33 × 98 cm (13 × 38.5 in)",
+      "medium": "Hand-pulled screenprint on 290gsm Coventry Rag paper with deckled edges",
+      "title": "Nowhere Man",
+      "id": "cleon-peterson-nowhere-man",
+      "image": "/images/cleon-peterson-nowhere-man.jpg",
+      "description": "A narrow, vertical format that accentuates the solitary, drifting figure at the heart of the composition; Peterson's signature black and gold palette reducing the subject to pure silhouette. The elongated proportion is unusual within Peterson's print catalogue, giving Nowhere Man a distinct presence on the wall.",
+      "year": "2024",
+      "category": "Edition",
+      "edition": "Edition of 100, hand-signed and dated by the artist in pencil bottom right, numbered bottom left"
+    },
+    {
+      "artist": "Mark Drew",
+      "available": true,
+      "dimensions": "41.9 × 29.7 cm (A3)",
+      "medium": "2-colour hand-pulled screenprint on dimpled cream paper",
+      "title": "Wu Call",
+      "id": "mark-drew-wu-call",
+      "image": "/images/mark-drew-wu-call.jpg",
+      "description": "The lyric depicted is drawn from a radio DJ's sampled introduction that opens Protect Ya Neck; the opening track on Wu-Tang Clan's 1993 debut Enter the Wu-Tang (36 Chambers), one of the most important albums in hip-hop history. Drew delivers the line through a Peanuts telephone panel, with Charlie Brown on the receiving end of one of rap's most legendary cold openings. The AP designation places this outside the main yellow edition of 100.",
+      "year": "2016",
+      "category": "Edition",
+      "edition": "Artist proof from the original edition of 100; hand-signed by the artist in pencil"
     }
   ],
   "artists": [
