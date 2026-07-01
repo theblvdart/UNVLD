@@ -367,6 +367,19 @@
       "edition": "Edition of 150, signed and numbered by the artist in pencil"
     },
     {
+      "artist": "Cleon Peterson",
+      "available": true,
+      "dimensions": "33 × 98 cm (13 × 38.5 in)",
+      "medium": "Hand-pulled screenprint on 290gsm Coventry Rag paper with deckled edges",
+      "title": "Nowhere Man",
+      "id": "cleon-peterson-nowhere-man",
+      "image": "/images/cleon-peterson-nowhere-man.jpg",
+      "description": "A narrow, vertical format that accentuates the solitary, drifting figure at the heart of the composition; Peterson's signature black and gold palette reducing the subject to pure silhouette. The elongated proportion is unusual within Peterson's print catalogue, giving Nowhere Man a distinct presence on the wall.",
+      "year": "2024",
+      "category": "Edition",
+      "edition": "Edition of 100, hand-signed and dated by the artist in pencil bottom right, numbered bottom left"
+    },
+    {
       "artist": "Jason Revok",
       "available": true,
       "dimensions": "60.96 × 74.93 cm (24 × 29.5 in)",
@@ -391,19 +404,6 @@
       "year": "c. 2016 (original illustration 1971)",
       "category": "Edition",
       "edition": "Open edition produced for a limited period; hand-signed by the artist in ink"
-    },
-    {
-      "artist": "Cleon Peterson",
-      "available": true,
-      "dimensions": "33 × 98 cm (13 × 38.5 in)",
-      "medium": "Hand-pulled screenprint on 290gsm Coventry Rag paper with deckled edges",
-      "title": "Nowhere Man",
-      "id": "cleon-peterson-nowhere-man",
-      "image": "/images/cleon-peterson-nowhere-man.jpg",
-      "description": "A narrow, vertical format that accentuates the solitary, drifting figure at the heart of the composition; Peterson's signature black and gold palette reducing the subject to pure silhouette. The elongated proportion is unusual within Peterson's print catalogue, giving Nowhere Man a distinct presence on the wall.",
-      "year": "2024",
-      "category": "Edition",
-      "edition": "Edition of 100, hand-signed and dated by the artist in pencil bottom right, numbered bottom left"
     },
     {
       "artist": "Mark Drew",
