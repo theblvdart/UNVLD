@@ -457,17 +457,17 @@
       "edition": "Artist proof outside the main edition of 100, hand-signed and numbered by the artist in pencil"
     },
     {
-      "artist": "Judith Supine / Brendan Fagan",
+      "artist": "Robert Del Naja / 3D",
       "available": true,
-      "dimensions": "45.7 × 61 cm (18 × 24 in)",
-      "medium": "5-colour screenprint on paper",
-      "title": "Treasure Island",
-      "id": "judith-supine-treasure-island",
-      "image": "/images/judith-supine-treasure-island.jpg",
-      "description": "Released at the opening of Supine's solo exhibition Golden Child at Mecka Gallery, Brooklyn, March 2014.  Features the artist's signature psychedelic, neon-infused color palette with a grayscale-skinned central figure, intricate patterns, and a cigarette, showcasing his distinct collage and wheatpaste street art roots.",
-      "year": "2014",
+      "dimensions": "70 x 50 cm",
+      "medium": "Archival pigment print on fine art paper",
+      "title": "International Rescue Committee Print 2",
+      "id": "robert-del-naja-international-rescue-committee-print-2",
+      "image": "/images/robert-del-naja-3d-international-committee-print-2.jpg",
+      "description": "The second of two timed edition prints released by Del Naja in direct response to the Russian invasion of Ukraine in March 2022, with all proceeds donated to the Disasters Emergency Committee's Ukraine Humanitarian Appeal. Part of Del Naja's broader commitment to DIY, non-profit art publishing, a model through which he has generated over £1 million for humanitarian causes since the pandemic, entirely bypassing the commercial gallery system.",
+      "year": "2022",
       "category": "Edition",
-      "edition": "Edition of 100, signed and numbered by the artist. 5 hand embellished prints randomly included in the edition"
+      "edition": "Timed edition, signed by the artist"
     },
     {
       "artist": "Max Rumbol",
@@ -483,6 +483,19 @@
       "edition": "Edition of 50, hand-signed and numbered by the artist"
     },
     {
+      "artist": "Judith Supine / Brendan Fagan",
+      "available": true,
+      "dimensions": "45.7 × 61 cm (18 × 24 in)",
+      "medium": "5-colour screenprint on paper",
+      "title": "Treasure Island",
+      "id": "judith-supine-treasure-island",
+      "image": "/images/judith-supine-treasure-island.jpg",
+      "description": "Released at the opening of Supine's solo exhibition Golden Child at Mecka Gallery, Brooklyn, March 2014.  Features the artist's signature psychedelic, neon-infused color palette with a grayscale-skinned central figure, intricate patterns, and a cigarette, showcasing his distinct collage and wheatpaste street art roots.",
+      "year": "2014",
+      "category": "Edition",
+      "edition": "Edition of 100, signed and numbered by the artist. 5 hand embellished prints randomly included in the edition"
+    },
+    {
       "artist": "Nick Walker",
       "available": true,
       "dimensions": "45.7 × 45.7 cm (18 × 18 in)",
@@ -494,19 +507,6 @@
       "year": "2017",
       "category": "Edition",
       "edition": "Open edition"
-    },
-    {
-      "artist": "Robert Del Naja / 3D",
-      "available": true,
-      "dimensions": "70 x 50 cm",
-      "medium": "Archival pigment print on fine art paper",
-      "title": "International Rescue Committee Print 2",
-      "id": "robert-del-naja-international-rescue-committee-print-2",
-      "image": "/images/robert-del-naja-3d-international-committee-print-2.jpg",
-      "description": "The second of two timed edition prints released by Del Naja in direct response to the Russian invasion of Ukraine in March 2022, with all proceeds donated to the Disasters Emergency Committee's Ukraine Humanitarian Appeal. Part of Del Naja's broader commitment to DIY, non-profit art publishing, a model through which he has generated over £1 million for humanitarian causes since the pandemic, entirely bypassing the commercial gallery system.",
-      "year": "2022",
-      "category": "Edition",
-      "edition": "Timed edition, signed by the artist"
     }
   ],
   "artists": [
