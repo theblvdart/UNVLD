@@ -644,6 +644,27 @@
       "discipline": "Urban Contemporary / Mixed Media",
       "image": "/images/miss_bugs.jpg",
       "bio": "Miss Bugs is an anonymous London-based duo, a boy and a girl, founded in 2007 with backgrounds in photography and graphics. Their practice began with screen prints and hand-painted works on paper before scaling up to life-size cut-out figures placed on the streets of London. Their mixed-media works blend pop culture references and iconic art imagery in collage-like compositions, using techniques from stencil to screen-printing, with more recent installation works incorporating materials like resin and syringes. Their ongoing dialogue with Damien Hirst's practice culminated in a joint exhibition, The Butterfly Effect, at Lawrence Alkin Gallery, London, in 2017. They have exhibited in New York, Los Angeles, Paris, and London. "
+    },
+    {
+      "id": "nick-walker",
+      "name": "Nick Walker",
+      "discipline": "Urban Contemporary / Post-Graffiti",
+      "image": "/images/nick-walker.jpg",
+      "bio": "Nick Walker (b. 1969, Bristol) emerged from the groundbreaking Bristol graffiti scene of the early 1980s alongside Robert Del Naja and Inkie, and is widely credited as one of the forerunners of the British stencil graffiti movement - a technique that went on to directly influence Banksy. His practice is defined by The Vandal, a bowler-hatted gentleman alter ego who carries out acts of creative subversion in iconic locations worldwide, most fully realised in his celebrated Morning After series. Walker has worked extensively in film, painting sets for Stanley Kubrick's Eyes Wide Shut and Judge Dredd, and in 2008 his solo show at Black Rat Gallery, London sold £750,000 of work in a single night, with queues forming outside overnight. His work is held in collections including those of Donald Sutherland and Ian Brown, and he lives and works between Bristol and New York."
+    },
+    {
+      "id": "judith-supine-brendan-fagan",
+      "name": "Judith Supine / Brendan Fagan",
+      "discipline": "Urban Contemporary / Collage Art",
+      "bio": "Judith Supine (b. 1978, Portsmouth, Virginia) is the alias of Brooklyn-based artist Brendan Fagan, who took his mother's name as a pseudonym to protect his anonymity. Unable to speak until the age of seventeen, he turned to drawing and collage as his primary means of communication - a foundation that remains central to his practice. He moved to Brooklyn in 2005, becoming known for large-scale wheatpastes of surrealistic hybrid figures assembled from torn magazines and books, washed in fluorescent colour and coated in resin, with interventions including hanging a fifty-foot figure off the Manhattan Bridge in 2007. His studio practice has since evolved toward meticulous collage paintings on panel, exhibited at Jonathan LeVine Gallery, New York and New Image Art Gallery, Los Angeles.\n",
+      "image": "/images/judith-supine.jpg"
+    },
+    {
+      "id": "max-rumbol",
+      "name": "Max Rumbol",
+      "discipline": "Contemporary Painting / Sculpture",
+      "image": "/images/max-rumbol.jpg",
+      "bio": "Max Rumbol (b. 1997, Buckinghamshire) studied at the Ruskin School of Art, University of Oxford, graduating in 2019. His practice sits at the intersection of painting and sculpture - works begin as digital drawings, are transformed via laser cutter into carved wood relief surfaces, then finished by hand with oil, acrylic, and spray paint. The tension between the automated and the handmade is central to the work, as is a deep interest in British landscape, folklore, and the romanticised mythology of the artist. He has exhibited at Union Gallery and Ojiri Gallery in London, Ramp Gallery, and Richard Heller Gallery in Los Angeles, and lives and works between Buckinghamshire and London."
     }
   ],
   "journal": [
