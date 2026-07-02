@@ -481,6 +481,18 @@
       "year": "2020",
       "category": "Edition",
       "edition": "Edition of 50, hand-signed and numbered by the artist"
+    },
+    {
+      "artist": "Nick Walker",
+      "available": true,
+      "dimensions": "45.7 × 45.7 cm (18 × 18 in)",
+      "medium": "Giclée print on 190gsm archival matte fine art paper",
+      "title": "Capitol Records Tower",
+      "id": "nick-walker-capitol-records-tower",
+      "description": "An officially commissioned print created to mark Capitol Records' 75th anniversary in 2017. The print depicts the iconic Hollywood landmark through Walker's signature multi-layered stencil aesthetic, with the building's record-stack silhouette a natural fit for The Vandal's world.",
+      "year": "2017",
+      "category": "Edition",
+      "edition": "Open edition"
     }
   ],
   "artists": [
