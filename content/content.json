@@ -470,6 +470,18 @@
       "edition": "Timed edition, signed by the artist"
     },
     {
+      "artist": "Piet Parra",
+      "available": true,
+      "medium": "High-end enamel metal sign",
+      "title": "Saturday",
+      "id": "piet-parra-saturday",
+      "image": "/images/piet-parra-saturday.jpg",
+      "description": "Part of Parra's Enamel Metal Sign Series, an edition that references the visual language of vintage commercial signage, bringing his signature flat, saturated palette and abstracted female figures into an industrial format. The enamel-on-metal process gives the work a durability and sheen distinct from his paper-based editions, and the custom screen-printed presentation box treats the packaging as part of the artwork itself.",
+      "year": "2024",
+      "category": "Edition",
+      "edition": "Edition of 250, signed on reverse"
+    },
+    {
       "artist": "Max Rumbol",
       "available": true,
       "dimensions": "55 x 55cm",
@@ -507,18 +519,6 @@
       "year": "2017",
       "category": "Edition",
       "edition": "Open edition"
-    },
-    {
-      "artist": "Piet Parra",
-      "available": true,
-      "medium": "High-end enamel metal sign",
-      "title": "Saturday",
-      "id": "piet-parra-saturday",
-      "image": "/images/piet-parra-saturday.jpg",
-      "description": "Part of Parra's Enamel Metal Sign Series, an edition that references the visual language of vintage commercial signage, bringing his signature flat, saturated palette and abstracted female figures into an industrial format. The enamel-on-metal process gives the work a durability and sheen distinct from his paper-based editions, and the custom screen-printed presentation box treats the packaging as part of the artwork itself.",
-      "year": "2024",
-      "category": "Edition",
-      "edition": "Edition of 250, signed on reverse"
     }
   ],
   "artists": [
